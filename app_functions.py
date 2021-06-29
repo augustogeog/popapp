@@ -298,7 +298,7 @@ def load_sector_geodataframe(uf,cod_municipio):
 @st.cache(suppress_st_warning=True)
 def plot_density(gdf):
 
-    gdf.drop(labels=['CD_GEOCODM', 'NM_MUNICIP', 'CD_GEOCODB'], axis=1, inplace=True)
+#    gdf.drop(labels=['CD_GEOCODM', 'NM_MUNICIP', 'CD_GEOCODB'], axis=1, inplace=True)
     gdf['Pop/ha'] = gdf['Pop/ha'].fillna(0).astype(np.int64)
     gdf['Hab/ha'] = pd.cut(gdf['Pop/ha'], bins=[0, 10,25,50,75,100,9999999], labels=['Até 10', '10 a 25', '25 a 50', '50 a 75', '75 a 100', 'acima de 100'])
     gdf['Hab/ha'].fillna('Até 10', inplace=True)
