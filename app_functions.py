@@ -295,7 +295,7 @@ def load_sector_geodataframe(uf,cod_municipio):
     return gdf
 
 
-@st.cache(suppress_st_warning=True)
+#@st.cache(suppress_st_warning=True)
 def plot_density(gdf):
 
 #    gdf.drop(labels=['CD_GEOCODM', 'NM_MUNICIP', 'CD_GEOCODB'], axis=1, inplace=True)
