@@ -124,6 +124,10 @@ def treat_sectors_shp(uf):
         df_pb_pop = pd.read_csv(f'data/pop/setores/TO/Base informacoes setores2010 universo TO/CSV/Basico_{uf.upper()}.csv', sep=';', usecols=['Cod_setor', 'V002'],encoding='ANSI')
     elif uf.upper() == 'RS':
         df_pb_pop = pd.read_csv(f'data/pop/setores/RS/RS_20150527/RS/Base informaçoes setores2010 universo {uf.upper()}/CSV/Basico_{uf.upper()}.csv', sep=';', usecols=['Cod_setor', 'V002'],encoding='ANSI')
+    elif uf.upper() == 'SP':        
+        df_pb_pop = pd.read_csv(f'data/pop/setores/SP/Base informaçoes setores2010 universo SP_Capital/CSV/Basico_SP1.csv', sep=';', usecols=['Cod_setor', 'V002'],encoding='ANSI')
+        df_pb_po2 = pd.read_csv(f'data/pop/setores/SP/SP Exceto a Capital/Base informaçoes setores2010 universo SP_Exceto_Capital/CSV/Basico_SP2.csv', sep=';', usecols=['Cod_setor', 'V002'],encoding='utf-8')
+        df_pb_pop = pd.concat(objs=[df_pb_pop, df_pb_po2])
     else:
         df_pb_pop = pd.read_csv(f'data/pop/setores/{uf.upper()}/{uf.upper()}/Base informaçoes setores2010 universo {uf.upper()}/CSV/Basico_{uf.upper()}.csv', sep=';', usecols=['Cod_setor', 'V002'],encoding='ANSI')
 
@@ -165,5 +169,5 @@ def save_sectors_geodataframe(gdf, uf):
             os.makedirs(f'data/territorio/setores2010/{uf}/{cod_mun}/', exist_ok=True)
             gdf.loc[gdf['CD_GEOCODM'] == cod_mun].to_file(f'data/territorio/setores2010/{uf}/{cod_mun}/{cod_mun}.shp')
         except:
-            print(f'Exception while saving {cod_mun}.pkl')
+            print(f'Exception while saving {cod_mun}.shp')
     print(f'files saved.')
