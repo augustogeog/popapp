@@ -10,7 +10,7 @@ import plotly.io as pio
 
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def subplot_pop_growth(df_urbrur=None, df_projection=None, cod_municipio=4125506):
     """
     Under development
@@ -46,7 +46,7 @@ def subplot_pop_growth(df_urbrur=None, df_projection=None, cod_municipio=4125506
     return subplots
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_mun_name(cod_municipio=4125506):
     municipios = pd.read_csv('data/territorio/municipios_brasileiros.csv', sep=';')
     
@@ -56,7 +56,7 @@ def load_mun_name(cod_municipio=4125506):
 
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_urbrur_data():
     """
     Loads data from the file pop_urbano_rural_total_70_10.CSV into a Pandas DataFrame. Treats the data so it can be used as an argument to devise a line plot with the plot_urbrur_growth function.
@@ -81,7 +81,7 @@ def load_urbrur_data():
     return df
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def plot_urbrur_growth(df=None, cod_municipio=4125506):
     """
     Generates a line plot of the rural, urban an total population of the selected municipality.
@@ -98,7 +98,7 @@ def plot_urbrur_growth(df=None, cod_municipio=4125506):
     return fig, ano_min, ano_max
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_projection_data():
     """
     Loads projection data into a Pandas DataFrame to be used as an argument in the plot_projection function.
@@ -122,7 +122,7 @@ def load_projection_data():
     return df
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def plot_projection(df=None, cod_municipio=4125506):
     """
     Generates a line plot of the population projecte to the next decades by the IPARDES.
@@ -140,7 +140,7 @@ def plot_projection(df=None, cod_municipio=4125506):
     return fig, proj_max
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def get_urbanization_index(df, cod_municipio):
     """
     Returns the urbanization index for the municipality whose IBGE code is provided in cod_municipio.
@@ -155,7 +155,7 @@ def get_urbanization_index(df, cod_municipio):
     return round(urbanization_index[0], 2)
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_age_groups():
 
     dtypes = {
@@ -192,7 +192,7 @@ def load_age_groups():
     return df_estrutura_etaria_f, df_estrutura_etaria_m
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def plot_pop_pyramid(df_estrutura_etaria_f, df_estrutura_etaria_m, cod_municipio, year):
     df_estrutura_etaria_f = df_estrutura_etaria_f[df_estrutura_etaria_f['Código'] == cod_municipio]
     df_estrutura_etaria_m = df_estrutura_etaria_m[df_estrutura_etaria_m['Código'] == cod_municipio]
@@ -225,7 +225,7 @@ def plot_pop_pyramid(df_estrutura_etaria_f, df_estrutura_etaria_m, cod_municipio
 
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_geo_dataframe(cod_municipio=4125506):
     
     if str(cod_municipio)[:2] == '41':
@@ -239,7 +239,7 @@ def load_geo_dataframe(cod_municipio=4125506):
         return gpd.read_feather(file)
 
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def plot_density_map(gdf, cod_municipio):
 
     gdf = gdf.loc[gdf["CD_GEOCODI"] == cod_municipio]
@@ -269,26 +269,26 @@ def plot_density_map(gdf, cod_municipio):
 
     return fig, year
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_df_territory():
     df_territory = pd.read_csv('data/territorio/municipios_brasileiros.csv', sep=';')
     return df_territory
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def filter_municipalities_by_uf(uf, df):
     options = df.municipio.loc[df.uf == uf].values
     return options
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def get_cod_municipio(df, uf, municipio):
     cod_municipio = df.loc[(df.uf == uf) & (df.municipio == municipio)]['cod'].values[0]
     return cod_municipio
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_plotly_map(file):
     return pio.read_json(file)
 
-@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_sector_geodataframe(uf,cod_municipio):
     cod_municipio = str(cod_municipio)
     gdf = gpd.read_file(f'data/territorio/setores2010/{uf}/{cod_municipio}/{cod_municipio}.shp')
