@@ -283,7 +283,7 @@ def plot_density_map(gdf):
 
     minx, miny, maxx, maxy = gdf.total_bounds
     max_bound = max(abs(maxx-minx), abs(maxy-miny)) * 111
-    zoom = 13 - np.log(max_bound)
+    zoom = 12.7 - np.log(max_bound)
 
     fig_map = px.choropleth_mapbox(
         data_frame=gdf
@@ -307,5 +307,6 @@ def plot_density_map(gdf):
     
     fig_map.update_layout(margin=dict(l=0, r=0, b=40, t=40))
     fig_map.layout.title.font.size = 18
+    fig_map.update_traces(marker_line_width=0.1)
 
     return fig_map

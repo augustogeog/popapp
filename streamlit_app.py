@@ -58,13 +58,3 @@ gdf1 = app.load_sector_geodataframe(uf=uf, cod_municipio=cod_municipio)
 fig_map1 = app.plot_density_map(gdf=gdf1)
 
 c2.plotly_chart(fig_map1, use_container_width=True)
-
-#if cod_municipio == 4106902:
-#    st.markdown(f"<h2 style='text-align: left; color: black;'>Populacão por Setores Censitários</h2>", unsafe_allow_html=True)
-#    fig_map = app.load_plotly_map('data/json/curitiba.json')
-#    st.plotly_chart(fig_map)
-#elif cod_municipio == 4125506:
-#    st.markdown(f"<h2 style='text-align: left; color: black;'>População por Setores Censitários</h2>", unsafe_allow_html=True)
-#    fig_map = app.load_plotly_map('data/json/sjp.json')
-#    st.plotly_chart(fig_map)
-
