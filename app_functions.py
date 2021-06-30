@@ -38,6 +38,7 @@ def subplot_pop_growth(df_urbrur=None, df_projection=None, cod_municipio=4125506
     subplots.update_layout(width=1200, height=250, title_text='<b>Crescimento Demográfico<b>')
     subplots.update_layout(font=dict(size=10))
     subplots.update_layout(margin=dict(l=0, r=0, b=0, t=50))
+    subplots.layout.title.font.size = 18
     
 
 #    ano_min = df['Ano'].min()
