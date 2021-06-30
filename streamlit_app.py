@@ -29,12 +29,17 @@ df_urbrur_growth = app.load_urbrur_data()
 
 fig_urbrur_growth, ano_min, ano_max = app.plot_urbrur_growth(df=df_urbrur_growth, cod_municipio=cod_municipio)
 
+
 urbanization_index = app.get_urbanization_index(df=df_urbrur_growth, cod_municipio=cod_municipio)
 
-df_projection = app.load_projection_data()
+if uf == 'PR':
+    df_projection = app.load_projection_data()
+    subplots = app.subplot_pop_growth(df_urbrur=df_urbrur_growth, df_projection=df_projection, cod_municipio=cod_municipio)
+    st.plotly_chart(subplots, use_container_width=True)
+else:
+    st.plotly_chart(fig_urbrur_growth, use_container_width=True)
 
-subplots = app.subplot_pop_growth(df_urbrur=df_urbrur_growth, df_projection=df_projection, cod_municipio=cod_municipio)
-st.plotly_chart(subplots, use_container_width=True)
+
 
 
 df_estrutura_etaria_f, df_estrutura_etaria_m = app.load_age_groups()
@@ -50,7 +55,7 @@ st.markdown(f"**`O índice de urbanização do município é {urbanization_index
 
 gdf1 = app.load_sector_geodataframe(uf=uf, cod_municipio=cod_municipio)
 
-fig_map1 = app.plot_density(gdf=gdf1)
+fig_map1 = app.plot_density_map(gdf=gdf1)
 
 c2.plotly_chart(fig_map1, use_container_width=True)
 

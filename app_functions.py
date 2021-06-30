@@ -90,10 +90,14 @@ def plot_urbrur_growth(df=None, cod_municipio=4125506):
     """
 
     df = df.loc[df["Código"] == cod_municipio]
-    fig = px.line(data_frame=df, x="Ano", y="População", color="Situação", width=1300, height=400, title='Crescimento Populacional entre 1970 e 2010')
+    fig = px.line(data_frame=df, x="Ano", y="População", color="Situação", width=1300, height=270, title='<b>Variação Demográfica<b>')
     fig.update_layout(font=dict(size=18))
     ano_min = df['Ano'].min()
     ano_max = df['Ano'].max()
+    fig.update_layout(margin=dict(l=0, r=0, b=0, t=40))
+    fig.layout.title.font.size = 18
+    fig.update_layout(xaxis_tickfont_size=12, yaxis_tickfont_size=12, xaxis_title_font_size=14, yaxis_title_font_size=14, legend_font_size=12, legend_title_font_size=14)
+
 
     return fig, ano_min, ano_max
 
@@ -214,11 +218,11 @@ def plot_pop_pyramid(df_estrutura_etaria_f, df_estrutura_etaria_m, cod_municipio
     fig.layout.xaxis.title.text = 'Feminino'
     fig.layout.xaxis2.title.text = 'Masculino'
 
-    fig.layout.title.text = f'<b>Pirâmide Etária<b>'
+    fig.layout.title.text = f'<b>         Pirâmide Etária<b>'
     fig.update_layout(margin=dict(l=0, r=0, b=0, t=40)
     #, width=1075, height=400
     )
-    fig.layout.title.font.size = 25
+    fig.layout.title.font.size = 18
     fig.update_layout(height=400)
 
     return fig, year
@@ -237,37 +241,6 @@ def load_geo_dataframe(cod_municipio=4125506):
     
     if file != None:
         return gpd.read_feather(file)
-
-
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
-def plot_density_map(gdf, cod_municipio):
-
-    gdf = gdf.loc[gdf["CD_GEOCODI"] == cod_municipio]
-
-    long = gdf.centroid.x[0]
-    lat = gdf.centroid.y[0]
-
-    px.choropleth_mapbox(
-        data_frame=gdf
-        , geojson=gdf.geometry
-    #    , featureidkey=gdf.index
-        , locations=gdf.index
-        , color='População'
-        , hover_name='CD_GEOCODI'
-        , hover_data=None
-        , zoom=11
-        ,center={"lat": lat, "lon": long}
-        , mapbox_style="carto-positron"
-        , title=None
-        , template=None
-        , width=None
-        , height=None
-        , opacity=0.1
-    )
-
-    fig.update_layout(title_text='<b>Pirâmide Etária<b>', font=dict(size=18))
-
-    return fig, year
 
 @st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_df_territory():
@@ -296,7 +269,7 @@ def load_sector_geodataframe(uf,cod_municipio):
 
 
 @st.cache(suppress_st_warning=True, allow_output_mutation=True)
-def plot_density(gdf):
+def plot_density_map(gdf):
 
 #    gdf.drop(labels=['CD_GEOCODM', 'NM_MUNICIP', 'CD_GEOCODB'], axis=1, inplace=True)
     gdf['Pop/ha'] = gdf['Pop/ha'].fillna(0).astype(np.int64)
@@ -322,7 +295,7 @@ def plot_density(gdf):
         , zoom=zoom
         ,center={"lat": lat, "lon": lon}
         , mapbox_style="carto-positron"
-        , title=None
+        , title='<b>Densidade Demográfica<b>'
         , template=None
         , width=None
         , height=400
@@ -332,5 +305,6 @@ def plot_density(gdf):
         )
     
     fig_map.update_layout(margin=dict(l=0, r=0, b=40, t=40))
+    fig_map.layout.title.font.size = 18
 
     return fig_map
