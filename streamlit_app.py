@@ -86,4 +86,45 @@ fig_map1 = app.plot_density_map(gdf=gdf1)
 
 c2.plotly_chart(fig_map1, use_container_width=True)
 
+def plot_arranjo(cod_municipio):
+    df = pd.read_csv('data/pop/arranjos populacionais/tab01.csv', sep=';', decimal=',', thousands='.')
+    cod_arranjo = str(df[df['Código do município'] == cod_municipio]['CodArranjo'].values[0])
+    
+    gdf = gpd.read_file(f'data/territorio/municipalities/arranjos_pop/{cod_arranjo}/arranjo_{cod_arranjo}_municipalities.zip/')
+
+    lon = gdf.dissolve(by='CodArranjo').centroid.x[0]
+    lat = gdf.dissolve(by='CodArranjo').centroid.y[0]
+
+    minx, miny, maxx, maxy = gdf.total_bounds
+    max_bound = max(abs(maxx-minx), abs(maxy-miny)) * 111
+    zoom = 12.7 - np.log(max_bound)
+
+    fig_map = px.choropleth_mapbox(
+        data_frame=gdf
+        , geojson=gdf.geometry
+    #    , featureidkey=gdf.index
+        , locations=gdf.index
+    #    , hover_name='CD_GEOCODI'
+        , hover_data=None
+        , zoom=zoom
+        ,center={"lat": lat, "lon": lon}
+        , mapbox_style="carto-positron"
+        , title=f'<b>Arranjo Populacional de {gdf.NomeArranj[0]}<b>'
+        , template=None
+        , width=None
+        , height=400
+        , opacity=0.3
+        )
+
+    fig_map.update_layout(margin=dict(l=0, r=0, b=40, t=40))
+    fig_map.layout.title.font.size = 18
+    fig_map.update_traces(marker_line_width=0.1)
+    return fig_map
+df = pd.read_csv('data/pop/arranjos populacionais/tab01.csv', sep=';', decimal=',', thousands='.')
+if cod_municipio in df['Código do município'].unique():
+    fig_arranjo = plot_arranjo(cod_municipio=cod_municipio)
+    st.plotly_chart(fig_arranjo, use_container_width=True)
+
+
+
 
