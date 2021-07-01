@@ -86,6 +86,7 @@ fig_map1 = app.plot_density_map(gdf=gdf1)
 
 c2.plotly_chart(fig_map1, use_container_width=True)
 
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def plot_arranjo(cod_municipio):
     df = pd.read_csv('data/pop/arranjos populacionais/tab01.csv', sep=';', decimal=',', thousands='.')
     cod_arranjo = str(df[df['Código do município'] == cod_municipio]['CodArranjo'].values[0])
@@ -119,6 +120,9 @@ def plot_arranjo(cod_municipio):
     fig_map.update_layout(margin=dict(l=0, r=0, b=40, t=40))
     fig_map.layout.title.font.size = 18
     fig_map.update_traces(marker_line_width=0.1)
+    fig_map.update_layout(showlegend=False)
+
+
     return fig_map
 df = pd.read_csv('data/pop/arranjos populacionais/tab01.csv', sep=';', decimal=',', thousands='.')
 if cod_municipio in df['Código do município'].unique():
