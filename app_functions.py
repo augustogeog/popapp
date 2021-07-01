@@ -182,7 +182,7 @@ def plot_urbanization_index(urb_indicator):
     elif urb_indicator > 50.0:
         indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[6] #'#FCC679' #px.colors.sequential.Agsunset[5]
     else:
-        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[5] #'#FEE87D' #px.colors.sequential.Agsunset[6]
+        indicator.data[0].number.font.color = px.colors.sequential.Reds[1] #'#FEE87D' #px.colors.sequential.Agsunset[6]
     
     indicator.update_layout(height=184)
     indicator.update_layout(margin=dict(l=0, r=0, b=10, t=10))
