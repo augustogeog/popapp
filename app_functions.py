@@ -187,7 +187,8 @@ def plot_urbanization_index(urb_indicator):
     indicator.update_layout(height=184)
     indicator.update_layout(margin=dict(l=0, r=0, b=10, t=10))
     indicator.update_layout(paper_bgcolor='#F0F2F6')
-    indicator.data[0].number.font.size = 100
+    indicator.data[0].number.font.size = 80
+    indicator.data[0].number.suffix = '%'
 
 
     return indicator
