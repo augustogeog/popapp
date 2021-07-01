@@ -163,7 +163,7 @@ def get_urbanization_index(df, cod_municipio):
 
     return round(urbanization_index[0])
 
-def plot_urbanization_index(urb_indicator):
+def plot_urbanization_index(urb_indicator, height, font_size, color):
     indicator = go.Figure(go.Indicator(
         mode = "number"
         , value = urb_indicator
@@ -171,23 +171,13 @@ def plot_urbanization_index(urb_indicator):
 #        , title = {"text": "<b>Taxa de Urbanização<b>", 'font':{'size':18}}
 #        , domain = {'y': [0, 1], 'x': [0.25, 0.75]}
     ))
-    if urb_indicator > 90.0:
-        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[10] # '#F73567' #px.colors.sequential.Agsunset[0]
-    elif urb_indicator > 75.0:
-        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[9] #'#F86A6D' #px.colors.sequential.Agsunset[1]
-    elif urb_indicator > 60.0:
-        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[8] #'#FA7E70' #px.colors.sequential.Agsunset[2]
-    elif urb_indicator > 60.0:
-        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[7] #'#FB9B74' #px.colors.sequential.Agsunset[3]
-    elif urb_indicator > 50.0:
-        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[6] #'#FCC679' #px.colors.sequential.Agsunset[5]
-    else:
-        indicator.data[0].number.font.color = px.colors.sequential.Reds[1] #'#FEE87D' #px.colors.sequential.Agsunset[6]
     
-    indicator.update_layout(height=184)
-    indicator.update_layout(margin=dict(l=0, r=0, b=10, t=10))
+    indicator.data[0].number.font.color = color
+    
+    indicator.update_layout(height=height)
+    indicator.update_layout(margin=dict(l=0, r=0, b=10, t=0))
     indicator.update_layout(paper_bgcolor='#F0F2F6')
-    indicator.data[0].number.font.size = 80
+    indicator.data[0].number.font.size = font_size
     indicator.data[0].number.suffix = '%'
 
 

@@ -29,11 +29,34 @@ df_urbrur_growth = app.load_urbrur_data()
 
 fig_urbrur_growth, ano_min, ano_max = app.plot_urbrur_growth(df=df_urbrur_growth, cod_municipio=cod_municipio)
 
-col_a, col_b = st.beta_columns((1, 4))
+
+
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+def get_pop_growth_rate(df, cod_municipio):
+    t0 = df[(df['Código'] == cod_municipio) & (df['Ano'] == 2000) & (df['Situação'] == 'Total')]['População'].values
+    t = df[(df['Código'] == cod_municipio) & (df['Ano'] == 2010) & (df['Situação'] == 'Total')]['População'].values
+    pop_growth_rate = round((((t/t0)**(1/10)-1) * 100)[0], 2)
+    
+    return pop_growth_rate
+
+
+
+
+col_a, col_b = st.beta_columns((1, 6))
 urb_indicator = app.get_urbanization_index(df=df_urbrur_growth, cod_municipio=cod_municipio)
-urb_index = app.plot_urbanization_index(urb_indicator=urb_indicator)
-col_a.markdown(f"<p style='text-align: left; color: black; font-size:18px'><b>Taxa de Urbanização<b></p>", unsafe_allow_html=True)
-col_a.plotly_chart(urb_index, use_container_width=True)
+if 2000 not in df_urbrur_growth[df_urbrur_growth['Código'] == cod_municipio].Ano.unique():
+    urb_index = app.plot_urbanization_index(urb_indicator=urb_indicator, height=184, font_size=50, color=px.colors.qualitative.Plotly[0])
+    col_a.markdown(f"<p style='text-align: left; color: black; font-size:18px'><b>Taxa de Urbanização<b></p>", unsafe_allow_html=True)
+    col_a.plotly_chart(urb_index, use_container_width=True)
+else:
+    col_a.markdown(f"<p style='text-align: left; color: black; font-size:18px; line-height: 2'><b>Taxa de Urbanização<b></p>", unsafe_allow_html=True)
+    urb_index = app.plot_urbanization_index(urb_indicator=urb_indicator, height=53, font_size=30, color=px.colors.qualitative.Plotly[0])
+    col_a.plotly_chart(urb_index, use_container_width=True)
+    pop_growth_rate = get_pop_growth_rate(df=df_urbrur_growth, cod_municipio=cod_municipio)
+    indicator_pop_rate = app.plot_urbanization_index(urb_indicator=pop_growth_rate, height=53, font_size=30, color=px.colors.qualitative.Plotly[0])
+    col_a.markdown(f"<p style='text-align: left; color: black; font-size:18px; margin-top: 10px; margin-bottom: 10px'><b>Taxa de Crescimento<b></p>", unsafe_allow_html=True)
+    col_a.plotly_chart(indicator_pop_rate, use_container_width=True)
+
 
 if uf == 'PR':
     df_projection = app.load_projection_data()
