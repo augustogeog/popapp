@@ -30,7 +30,7 @@ def subplot_pop_growth(df_urbrur=None, df_projection=None, cod_municipio=4125506
         , shared_xaxes=True
         , shared_yaxes=True
         , horizontal_spacing=0.06        
-        , subplot_titles=("1970 e 2010", "2010 a 2040"))
+        , subplot_titles=("Medição", "Projeção"))
     subplots.append_trace(go.Scatter(x=df_pop_total['Ano'], y=df_pop_total['População'], name='Total'), row=1, col=1)
     subplots.append_trace(go.Scatter(x=df_pop_urbana['Ano'], y=df_pop_urbana['População'], name='Urbana'), row=1, col=1)
     subplots.append_trace(go.Scatter(x=df_pop_rural['Ano'], y=df_pop_rural['População'], name='Rural'), row=1, col=1)
@@ -39,6 +39,9 @@ def subplot_pop_growth(df_urbrur=None, df_projection=None, cod_municipio=4125506
     subplots.update_layout(font=dict(size=10))
     subplots.update_layout(margin=dict(l=0, r=0, b=0, t=50))
     subplots.layout.title.font.size = 18
+    subplots.layout.xaxis.domain = [0, 0.57]
+    subplots.layout.xaxis2.domain = [0.60, 0.95]
+    subplots.update_layout(legend_xanchor='left', legend_x=0.96)
     
 
 #    ano_min = df['Ano'].min()
@@ -95,9 +98,10 @@ def plot_urbrur_growth(df=None, cod_municipio=4125506):
     fig.update_layout(font=dict(size=18))
     ano_min = df['Ano'].min()
     ano_max = df['Ano'].max()
-    fig.update_layout(margin=dict(l=0, r=0, b=0, t=40))
+    fig.update_layout(margin=dict(l=0, r=0, b=0, t=50))
     fig.layout.title.font.size = 18
     fig.update_layout(xaxis_tickfont_size=12, yaxis_tickfont_size=12, xaxis_title_font_size=14, yaxis_title_font_size=14, legend_font_size=12, legend_title_font_size=14)
+    fig.update_traces(mode="lines+markers")
 
 
     return fig, ano_min, ano_max
@@ -157,7 +161,36 @@ def get_urbanization_index(df, cod_municipio):
     total_pop = df.loc[df["Situação"] == "Total"]["População"].values
     urbanization_index = urban_pop / total_pop * 100
 
-    return round(urbanization_index[0], 2)
+    return round(urbanization_index[0])
+
+def plot_urbanization_index(urb_indicator):
+    indicator = go.Figure(go.Indicator(
+        mode = "number"
+        , value = urb_indicator
+        , delta = {"reference": 512, "valueformat": ".0f"}
+#        , title = {"text": "<b>Taxa de Urbanização<b>", 'font':{'size':18}}
+#        , domain = {'y': [0, 1], 'x': [0.25, 0.75]}
+    ))
+    if urb_indicator > 90.0:
+        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[10] # '#F73567' #px.colors.sequential.Agsunset[0]
+    elif urb_indicator > 75.0:
+        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[9] #'#F86A6D' #px.colors.sequential.Agsunset[1]
+    elif urb_indicator > 60.0:
+        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[8] #'#FA7E70' #px.colors.sequential.Agsunset[2]
+    elif urb_indicator > 60.0:
+        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[7] #'#FB9B74' #px.colors.sequential.Agsunset[3]
+    elif urb_indicator > 50.0:
+        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[6] #'#FCC679' #px.colors.sequential.Agsunset[5]
+    else:
+        indicator.data[0].number.font.color = px.colors.sequential.RdBu_r[5] #'#FEE87D' #px.colors.sequential.Agsunset[6]
+    
+    indicator.update_layout(height=184)
+    indicator.update_layout(margin=dict(l=0, r=0, b=10, t=10))
+    indicator.update_layout(paper_bgcolor='#F0F2F6')
+    indicator.data[0].number.font.size = 100
+
+
+    return indicator
 
 
 @st.cache(suppress_st_warning=True, allow_output_mutation=True)

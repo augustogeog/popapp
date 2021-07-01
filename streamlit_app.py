@@ -29,17 +29,23 @@ df_urbrur_growth = app.load_urbrur_data()
 
 fig_urbrur_growth, ano_min, ano_max = app.plot_urbrur_growth(df=df_urbrur_growth, cod_municipio=cod_municipio)
 
-
-urbanization_index = app.get_urbanization_index(df=df_urbrur_growth, cod_municipio=cod_municipio)
+col_a, col_b = st.beta_columns((1, 4))
+urb_indicator = app.get_urbanization_index(df=df_urbrur_growth, cod_municipio=cod_municipio)
+urb_index = app.plot_urbanization_index(urb_indicator=urb_indicator)
+col_a.markdown(f"<p style='text-align: left; color: black; font-size:18px'><b>Taxa de Urbanização<b></p>", unsafe_allow_html=True)
+col_a.plotly_chart(urb_index, use_container_width=True)
 
 if uf == 'PR':
     df_projection = app.load_projection_data()
     subplots = app.subplot_pop_growth(df_urbrur=df_urbrur_growth, df_projection=df_projection, cod_municipio=cod_municipio)
-    st.plotly_chart(subplots, use_container_width=True)
+    col_b.plotly_chart(subplots, use_container_width=True)
+
 else:
-    st.plotly_chart(fig_urbrur_growth, use_container_width=True)
-
-
+#    st.plotly_chart(fig_urbrur_growth, use_container_width=True)
+#    col_a, col_b = st.beta_columns((1, 4))
+#    col_a.markdown(f"<p style='text-align: left; color: black; font-size:18px'><b>Taxa de Urbanização<b></p>", unsafe_allow_html=True)
+#    col_b.markdown('**Taxa de Urbanização**')
+    col_b.plotly_chart(fig_urbrur_growth, use_container_width=True)
 
 
 df_estrutura_etaria_f, df_estrutura_etaria_m = app.load_age_groups()
@@ -50,11 +56,11 @@ c1, c2 = st.beta_columns(2)
 
 c1.plotly_chart(fig_age_groups, use_container_width=True)
 
-st.markdown(f"**`O índice de urbanização do município é {urbanization_index}`**")
-
 
 gdf1 = app.load_sector_geodataframe(uf=uf, cod_municipio=cod_municipio)
 
 fig_map1 = app.plot_density_map(gdf=gdf1)
 
 c2.plotly_chart(fig_map1, use_container_width=True)
+
+
