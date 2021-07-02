@@ -1,4 +1,4 @@
-#region importing packages
+#region IMPORTING PACKAGES
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -13,23 +13,24 @@ import app_functions as app
 pd.options.display.float_format = "{:,.2f}".format
 #endregion importing packages
 
-# SideBar Options
+#region SIDEBAR
 df_territory = app.load_df_territory()
 uf = st.sidebar.selectbox(label='UF', options=df_territory.uf.unique())
 options = app.filter_municipalities_by_uf(uf=uf, df=df_territory)
 municipio = st.sidebar.selectbox(label='Município', options=options)
 cod_municipio = app.get_cod_municipio(df=df_territory, uf=uf, municipio=municipio)
 municipio_name = app.load_mun_name(cod_municipio=cod_municipio)
+#endregion SIDEBAR
 
-
+#region HEADER
 st.markdown(f"<h1 style='text-align: right; color: black;'>PopApp</h1>", unsafe_allow_html=True)
 st.markdown(f'## {municipio}')
+#endregion HEADER
 
+
+#region FIRST ROW
 df_urbrur_growth = app.load_urbrur_data()
-
 fig_urbrur_growth, ano_min, ano_max = app.plot_urbrur_growth(df=df_urbrur_growth, cod_municipio=cod_municipio)
-
-
 
 @st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def get_pop_growth_rate(df, cod_municipio):
@@ -38,9 +39,6 @@ def get_pop_growth_rate(df, cod_municipio):
     pop_growth_rate = round((((t/t0)**(1/10)-1) * 100)[0], 2)
     
     return pop_growth_rate
-
-
-
 
 col_a, col_b = st.beta_columns((1, 6))
 urb_indicator = app.get_urbanization_index(df=df_urbrur_growth, cod_municipio=cod_municipio)
@@ -69,7 +67,7 @@ else:
 #    col_a.markdown(f"<p style='text-align: left; color: black; font-size:18px'><b>Taxa de Urbanização<b></p>", unsafe_allow_html=True)
 #    col_b.markdown('**Taxa de Urbanização**')
     col_b.plotly_chart(fig_urbrur_growth, use_container_width=True)
-
+#endregion FIRST ROW
 
 df_estrutura_etaria_f, df_estrutura_etaria_m = app.load_age_groups()
 
