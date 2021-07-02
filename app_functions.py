@@ -8,7 +8,24 @@ import plotly.graph_objects as go
 import geopandas as gpd
 import plotly.io as pio
 
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+def load_df_territory():
+    df_territory = pd.read_csv('data/territorio/municipios_brasileiros.csv', sep=';')
+    return df_territory
 
+
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+def filter_municipalities_by_uf(uf, df):
+    options = df.municipio.loc[df.uf == uf].values
+    return options
+
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+def get_pop_growth_rate(df, cod_municipio):
+    t0 = df[(df['Código'] == cod_municipio) & (df['Ano'] == 2000) & (df['Situação'] == 'Total')]['População'].values
+    t = df[(df['Código'] == cod_municipio) & (df['Ano'] == 2010) & (df['Situação'] == 'Total')]['População'].values
+    pop_growth_rate = round((((t/t0)**(1/10)-1) * 100)[0], 2)
+    
+    return pop_growth_rate
 
 @st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def subplot_pop_growth(df_urbrur=None, df_projection=None, cod_municipio=4125506):
@@ -172,7 +189,7 @@ def plot_urbanization_index(urb_indicator, height, font_size, color):
 #        , domain = {'y': [0, 1], 'x': [0.25, 0.75]}
     ))
     
-    indicator.data[0].number.font.color = color
+    indicator.data[0].number.font.color = color 
     
     indicator.update_layout(height=height)
     indicator.update_layout(margin=dict(l=0, r=0, b=10, t=0))
@@ -268,16 +285,6 @@ def load_geo_dataframe(cod_municipio=4125506):
         return gpd.read_feather(file)
 
 @st.cache(suppress_st_warning=True, allow_output_mutation=True)
-def load_df_territory():
-    df_territory = pd.read_csv('data/territorio/municipios_brasileiros.csv', sep=';')
-    return df_territory
-
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
-def filter_municipalities_by_uf(uf, df):
-    options = df.municipio.loc[df.uf == uf].values
-    return options
-
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def get_cod_municipio(df, uf, municipio):
     cod_municipio = df.loc[(df.uf == uf) & (df.municipio == municipio)]['cod'].values[0]
     return cod_municipio
@@ -332,5 +339,44 @@ def plot_density_map(gdf):
     fig_map.update_layout(margin=dict(l=0, r=0, b=40, t=40))
     fig_map.layout.title.font.size = 18
     fig_map.update_traces(marker_line_width=0.1)
+
+    return fig_map
+
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+def plot_arranjo(cod_municipio):
+    df = pd.read_csv('data/pop/arranjos populacionais/tab01.csv', sep=';', decimal=',', thousands='.')
+    cod_arranjo = str(df[df['Código do município'] == cod_municipio]['CodArranjo'].values[0])
+    
+    gdf = gpd.read_file(f'data/territorio/municipalities/arranjos_pop/{cod_arranjo}/arranjo_{cod_arranjo}_municipalities.zip/')
+
+    lon = gdf.dissolve(by='CodArranjo').centroid.x[0]
+    lat = gdf.dissolve(by='CodArranjo').centroid.y[0]
+
+    minx, miny, maxx, maxy = gdf.total_bounds
+    max_bound = max(abs(maxx-minx), abs(maxy-miny)) * 111
+    zoom = 12.7 - np.log(max_bound)
+
+    fig_map = px.choropleth_mapbox(
+        data_frame=gdf
+        , geojson=gdf.geometry
+    #    , featureidkey=gdf.index
+        , locations=gdf.index
+    #    , hover_name='CD_GEOCODI'
+        , hover_data=None
+        , zoom=zoom
+        ,center={"lat": lat, "lon": lon}
+        , mapbox_style="carto-positron"
+        , title=f'<b>Arranjo Populacional de {gdf.NomeArranj[0]}<b>'
+        , template=None
+        , width=None
+        , height=400
+        , opacity=0.3
+        )
+
+    fig_map.update_layout(margin=dict(l=0, r=0, b=40, t=40))
+    fig_map.layout.title.font.size = 18
+    fig_map.update_traces(marker_line_width=0.1)
+    fig_map.update_layout(showlegend=False)
+
 
     return fig_map
