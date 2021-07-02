@@ -9,6 +9,13 @@ import geopandas as gpd
 import plotly.io as pio
 
 
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+def get_pop_growth_rate(df, cod_municipio):
+    t0 = df[(df['Código'] == cod_municipio) & (df['Ano'] == 2000) & (df['Situação'] == 'Total')]['População'].values
+    t = df[(df['Código'] == cod_municipio) & (df['Ano'] == 2010) & (df['Situação'] == 'Total')]['População'].values
+    pop_growth_rate = round((((t/t0)**(1/10)-1) * 100)[0], 2)
+    
+    return pop_growth_rate
 
 @st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def subplot_pop_growth(df_urbrur=None, df_projection=None, cod_municipio=4125506):
