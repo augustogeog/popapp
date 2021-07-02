@@ -11,9 +11,9 @@ import geopandas as gpd
 import plotly.io as pio
 import app_functions as app
 pd.options.display.float_format = "{:,.2f}".format
-from streamlit_keplergl import keplergl_static
+#from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
-import pickle
+#import pickle
 #endregion importing packages
 
 #region SIDEBAR
@@ -115,21 +115,21 @@ if cod_municipio in df['Código do município'].unique():
 
 
 
-if cod_municipio == 4115200:
+#if cod_municipio == 4115200:
+#
+#    st.write("Mobilidade Pendular")
 
-    st.write("Mobilidade Pendular")
+#    df_maringa = pd.read_csv('data/pop/commuting/coordenadas_aglomerado_maringa.csv', sep=';', thousands='.', decimal=',')
+#    df_maringa = df_maringa[df_maringa['Arranjo'] == True]
+#    gdf = gpd.read_file(f'data/territorio/municipalities/arranjos_pop/4115200/arranjo_4115200_municipalities.zip/')
 
-    df_maringa = pd.read_csv('data/pop/commuting/coordenadas_aglomerado_maringa.csv', sep=';', thousands='.', decimal=',')
-    df_maringa = df_maringa[df_maringa['Arranjo'] == True]
-    gdf = gpd.read_file(f'data/territorio/municipalities/arranjos_pop/4115200/arranjo_4115200_municipalities.zip/')
-
-    kepler_map = KeplerGl(height=400)
-    kepler_map.add_data(data=df_maringa, name='Commuting_Maringa')
-    kepler_map.add_data(data=gdf, name='Municipios_Arranjo')
-    with open("data.pkl", "rb") as a_file:
-        dict_config = pickle.load(a_file)
-    kepler_map.config = dict_config
-    keplergl_static(kepler_map, width=1400)
+#    kepler_map = KeplerGl(height=400)
+#    kepler_map.add_data(data=df_maringa, name='Commuting_Maringa')
+#    kepler_map.add_data(data=gdf, name='Municipios_Arranjo')
+#    with open("data.pkl", "rb") as a_file:
+#        dict_config = pickle.load(a_file)
+#    kepler_map.config = dict_config
+#    keplergl_static(kepler_map, width=1400)
 
 
 
