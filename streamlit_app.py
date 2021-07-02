@@ -1,4 +1,4 @@
-# importing packages
+#region importing packages
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -11,7 +11,7 @@ import geopandas as gpd
 import plotly.io as pio
 import app_functions as app
 pd.options.display.float_format = "{:,.2f}".format
-
+#endregion importing packages
 
 # SideBar Options
 df_territory = app.load_df_territory()
