@@ -1,954 +1,954 @@
-﻿Arranjo;Arranjos populacionais e municípios brasileiros;CodArranjo;Código do município;População;Núcleo;Pessoas que trabalham e estudam em outros municípios do arranjo;Índice de integração do município com o arranjo;Mancha Urbanizada Contígua;Município desmembrado de outro do arranjo, após 1988;Nível;Via;Iteração
-Adamantina - Lucélia/SP;Adamantina (SP);3500105;3500105;33.797;Sim;2.268;0,10;Sim;Não;1;-;0
-Adamantina - Lucélia/SP;Inúbia Paulista (SP);3500105;3520806;3.630;Não;423;0,17;Não;Não;1;-;1
-Adamantina - Lucélia/SP;Lucélia (SP);3500105;3527405;19.882;Sim;2.289;0,18;Sim;Não;1;-;0
-Adamantina - Lucélia/SP;Mariápolis (SP);3500105;3528908;3.916;Não;499;0,20;Não;Não;1;-;1
-Adamantina - Lucélia/SP;Pracinha (SP);3500105;3540853;2.858;Não;261;0,26;Não;Sim;1;-;0
-Adrianópolis/PR - Ribeira/SP;Adrianópolis (PR);4100202;4100202;6.376;Sim;180;0,04;Sim;Não;1;-;0
-Adrianópolis/PR - Ribeira/SP;Ribeira (SP);4100202;3542800;3.358;Sim;180;0,08;Sim;Não;1;-;0
-Águas de Lindóia/SP;Águas de Lindóia (SP);3500501;3500501;17.266;Sim;458;0,04;Sim;Não;1;-;0
-Águas de Lindóia/SP;Lindóia (SP);3500501;3527009;6.712;Não;458;0,09;Sim;Não;1;-;0
-Além Paraíba/MG - Sapucaia/RJ;Além Paraíba (MG);3101508;3101508;34.349;Sim;2.197;0,09;Não;Não;1;-;0
-Além Paraíba/MG - Sapucaia/RJ;Sapucaia (RJ);3101508;3305406;17.525;Sim;2.197;0,20;Não;Não;1;-;0
-Alto Araguaia/MT;Alto Araguaia (MT);5100300;5100300;15.644;Sim;1.435;0,13;Sim;Não;1;-;0
-Alto Araguaia/MT;Santa Rita do Araguaia (GO);5100300;5219407;6.924;Não;1.435;0,30;Sim;Não;1;-;0
-Alto Parnaíba/MA - Santa Filomena/PI;Alto Parnaíba (MA);2100501;2100501;10.766;Sim;166;0,02;Sim;Não;1;-;0
-Alto Parnaíba/MA - Santa Filomena/PI;Santa Filomena (PI);2100501;2209203;6.096;Não;166;0,04;Sim;Não;1;-;0
-Alvorada do Norte - Simolândia/GO;Alvorada do Norte (GO);5200803;5200803;8.084;Sim;418;0,07;Sim;Não;1;-;0
-Alvorada do Norte - Simolândia/GO;Simolândia (GO);5200803;5220686;6.514;Sim;418;0,10;Sim;Não;1;-;0
-Amarante/PI - São Francisco do Maranhão/MA;Amarante (PI);2200509;2200509;17.135;Sim;316;0,03;Sim;Não;1;-;0
-Amarante/PI - São Francisco do Maranhão/MA;São Francisco do Maranhão (MA);2200509;2110906;12.146;Sim;316;0,04;Sim;Não;1;-;0
-Americana - Santa Bárbara d´Oeste/SP;Americana (SP);3501608;3501608;210.638;Sim;41.118;0,27;Sim;Não;1;-;0
-Americana - Santa Bárbara d´Oeste/SP;Nova Odessa (SP);3501608;3533403;51.242;Não;10.848;0,29;Sim;Não;1;-;0
-Americana - Santa Bárbara d´Oeste/SP;Santa Bárbara d´Oeste (SP);3501608;3545803;180.009;Sim;35.560;0,27;Sim;Não;1;-;0
-Amparo/SP;Amparo (SP);3501905;3501905;65.829;Sim;1.218;0,03;Sim;Não;1;-;0
-Amparo/SP;Monte Alegre do Sul (SP);3501905;3531209;7.152;Não;1.218;0,23;Sim;Não;1;-;0
-Angical do Piauí/PI;Angical do Piauí (PI);2200608;2200608;6.672;Sim;105;0,02;Sim;Não;1;-;0
-Angical do Piauí/PI;Santo Antônio dos Milagres (PI);2200608;2209450;2.059;Não;105;0,08;Sim;Não;1;-;0
-Antônio Prado/RS;Antônio Prado (RS);4300802;4300802;12.833;Sim;517;0,05;Sim;Não;1;-;0
-Antônio Prado/RS;Ipê (RS);4300802;4310439;6.016;Não;517;0,11;Sim;Não;1;-;0
-Aquidauana - Anastácio/MS;Anastácio (MS);5001102;5000708;23.835;Sim;3.572;0,21;Sim;Não;1;-;0
-Aquidauana - Anastácio/MS;Aquidauana (MS);5001102;5001102;45.614;Sim;3.572;0,11;Sim;Não;1;-;0
-Aracaju/SE;Aracaju (SE);2800308;2800308;571.149;Sim;86.935;0,21;Sim;Não;1;-;0
-Aracaju/SE;Barra dos Coqueiros (SE);2800308;2800605;24.976;Não;5.362;0,35;Sim;Não;1;-;0
-Aracaju/SE;Carmópolis (SE);2800308;2801504;13.503;Não;3.310;0,36;Não;Não;1;-;0
-Aracaju/SE;Divina Pastora (SE);2800308;2802007;4.326;Não;761;0,26;Não;Não;1;-;2
-Aracaju/SE;General Maynard (SE);2800308;2802502;2.929;Não;791;0,42;Não;Não;2;Via Carmópolis (SE);0
-Aracaju/SE;Laranjeiras (SE);2800308;2803609;26.902;Não;5.004;0,30;Não;Não;1;-;0
-Aracaju/SE;Maruim (SE);2800308;2804003;16.343;Não;2.348;0,23;Não;Não;1;-;1
-Aracaju/SE;Nossa Senhora do Socorro (SE);2800308;2804805;160.827;Não;49.533;0,45;Sim;Não;1;-;0
-Aracaju/SE;Riachuelo (SE);2800308;2805901;9.355;Não;1.359;0,22;Não;Não;1;-;1
-Aracaju/SE;Rosário do Catete (SE);2800308;2806107;9.221;Não;2.257;0,37;Não;Não;1;-;1
-Aracaju/SE;São Cristóvão (SE);2800308;2806701;78.864;Não;30.049;0,54;Não;Não;1;-;0
-Aracaju/SE;Siriri (SE);2800308;2807204;8.004;Não;1.097;0,22;Não;Não;1;-;2
-Araranguá/SC;Araranguá (SC);4201406;4201406;61.310;Sim;2.090;0,04;Não;Não;1;-;0
-Araranguá/SC;Balneário Arroio do Silva (SC);4201406;4201950;9.586;Não;1.831;0,29;Não;Sim;1;-;0
-Araranguá/SC;Ermo (SC);4201406;4205191;2.050;Não;281;0,18;Não;Não;1;-;0
-Araraquara/SP;Américo Brasiliense (SP);3503208;3501707;34.478;Não;9.857;0,40;Sim;Não;1;-;0
-Araraquara/SP;Araraquara (SP);3503208;3503208;208.662;Sim;11.927;0,08;Sim;Não;1;-;0
-Araraquara/SP;Gavião Peixoto (SP);3503208;3516853;4.419;Não;1.595;0,46;Não;Sim;1;-;0
-Araraquara/SP;Rincão (SP);3503208;3543709;10.414;Não;1.276;0,18;Não;Não;1;-;1
-Araraquara/SP;Santa Lúcia (SP);3503208;3546900;8.248;Não;2.745;0,50;Sim;Não;1;-;0
-Araripina/PE;Araripina (PE);2601102;2601102;77.302;Sim;1.523;0,03;Não;Não;1;-;0
-Araripina/PE;Marcolândia (PI);2601102;2205953;7.812;Não;1.523;0,27;Não;Não;1;-;0
-Araruama/RJ;Araruama (RJ);3300209;3300209;112.008;Sim;1.151;0,02;Sim;Não;1;-;0
-Araruama/RJ;Iguaba Grande (RJ);3300209;3301876;22.851;Não;1.151;0,08;Sim;Não;1;-;0
-Araxá/MG;Araxá (MG);3104007;3104007;93.672;Sim;835;0,01;Não;Não;1;-;0
-Araxá/MG;Tapira (MG);3104007;3168101;4.112;Não;835;0,27;Não;Não;1;-;0
-Arenápolis - Nortelândia/MT;Arenápolis (MT);5101308;5101308;10.316;Sim;265;0,04;Sim;Não;1;-;0
-Arenápolis - Nortelândia/MT;Nortelândia (MT);5101308;5106000;6.436;Sim;265;0,06;Sim;Não;1;-;0
-Artur Nogueira/SP;Artur Nogueira (SP);3503802;3503802;44.177;Sim;2.836;0,09;Não;Não;1;-;0
-Artur Nogueira/SP;Holambra (SP);3503802;3519055;11.299;Não;2.836;0,31;Não;Sim;1;-;0
-Atibaia/SP;Atibaia (SP);3504107;3504107;126.603;Sim;2.317;0,02;Sim;Não;1;-;0
-Atibaia/SP;Bom Jesus dos Perdões (SP);3504107;3507100;19.708;Não;2.317;0,17;Sim;Não;1;-;0
-Bagé/RS;Aceguá (RS);4301602;4300034;4.394;Não;616;0,21;Não;Sim;1;-;0
-Bagé/RS;Bagé (RS);4301602;4301602;116.794;Sim;3.313;0,04;Não;Não;1;-;0
-Bagé/RS;Candiota (RS);4301602;4304358;8.771;Não;2.153;0,34;Não;Sim;1;-;0
-Bagé/RS;Hulha Negra (RS);4301602;4309654;6.043;Não;1.150;0,28;Não;Sim;1;-;0
-Baixada Santista/SP;Cubatão (SP);3548500;3513504;118.720;Não;38.891;0,49;Sim;Não;1;-;0
-Baixada Santista/SP;Guarujá (SP);3548500;3518701;290.752;Sim;25.816;0,13;Sim;Não;1;-;0
-Baixada Santista/SP;Itanhaém (SP);3548500;3522109;87.057;Não;3.696;0,06;Sim;Não;3;Via Mongaguá (SP);0
-Baixada Santista/SP;Mongaguá (SP);3548500;3531100;46.293;Não;4.585;0,16;Sim;Não;2;Via Praia Grande (SP);0
-Baixada Santista/SP;Praia Grande (SP);3548500;3541000;262.051;Sim;37.890;0,21;Sim;Não;1;-;0
-Baixada Santista/SP;Santos (SP);3548500;3548500;419.400;Sim;126.157;0,44;Sim;Não;1;-;0
-Baixada Santista/SP;São Vicente (SP);3548500;3551009;332.445;Sim;89.899;0,40;Sim;Não;1;-;0
-Barbacena/MG;Alfredo Vasconcelos (MG);3105608;3101631;6.075;Não;886;0,22;Não;Não;1;-;0
-Barbacena/MG;Antônio Carlos (MG);3105608;3102902;11.114;Não;1.824;0,26;Não;Não;1;-;0
-Barbacena/MG;Barbacena (MG);3105608;3105608;126.284;Sim;2.664;0,03;Não;Não;1;-;0
-Barra Bonita - Igaraçu do Tietê/SP;Barra Bonita (SP);3505302;3505302;35.246;Sim;3.257;0,13;Sim;Não;1;-;0
-Barra Bonita - Igaraçu do Tietê/SP;Igaraçu do Tietê (SP);3505302;3520004;23.362;Sim;3.257;0,20;Sim;Não;1;-;0
-Barra do Garças/MT;Aragarças (GO);5101803;5201702;18.305;Não;4.771;0,37;Sim;Não;1;-;0
-Barra do Garças/MT;Barra do Garças (MT);5101803;5101803;56.560;Sim;6.286;0,16;Sim;Não;1;-;0
-Barra do Garças/MT;Pontal do Araguaia (MT);5101803;5106653;5.395;Não;2.463;0,62;Sim;Não;1;-;0
-Bauru/SP;Bauru (SP);3506003;3506003;343.937;Sim;2.299;0,01;Sim;Não;1;-;0
-Bauru/SP;Piratininga (SP);3506003;3539400;12.072;Não;2.299;0,26;Sim;Não;1;-;0
-Belém/PA;Ananindeua (PA);1501402;1500800;471.980;Não;102.379;0,31;Sim;Não;1;-;0
-Belém/PA;Belém (PA);1501402;1501402;1.393.399;Sim;113.341;0,12;Sim;Não;1;-;0
-Belém/PA;Benevides (PA);1501402;1501501;51.651;Não;8.557;0,24;Sim;Não;1;-;0
-Belém/PA;Marituba (PA);1501402;1504422;108.246;Não;22.081;0,30;Sim;Sim;1;-;0
-Belo Horizonte/MG;Belo Horizonte (MG);3106200;3106200;2.375.151;Sim;452.064;0,26;Sim;Não;1;-;0
-Belo Horizonte/MG;Betim (MG);3106200;3106705;378.089;Não;97.944;0,35;Sim;Não;1;-;0
-Belo Horizonte/MG;Brumadinho (MG);3106200;3109006;33.973;Não;5.239;0,21;Não;Não;1;-;1
-Belo Horizonte/MG;Caeté (MG);3106200;3110004;40.750;Não;5.020;0,19;Não;Não;1;-;1
-Belo Horizonte/MG;Confins (MG);3106200;3117876;5.936;Não;4.264;0,93;Sim;Sim;1;-;0
-Belo Horizonte/MG;Contagem (MG);3106200;3118601;603.442;Não;194.652;0,44;Sim;Não;1;-;0
-Belo Horizonte/MG;Esmeraldas (MG);3106200;3124104;60.271;Não;14.671;0,35;Não;Não;1;-;1
-Belo Horizonte/MG;Ibirité (MG);3106200;3129806;158.954;Não;56.968;0,51;Sim;Não;1;-;0
-Belo Horizonte/MG;Igarapé (MG);3106200;3130101;34.851;Não;5.852;0,24;Sim;Não;3;Via São Joaquim de Bicas (MG);0
-Belo Horizonte/MG;Juatuba (MG);3106200;3136652;22.202;Não;2.805;0,18;Não;Não;1;-;1
-Belo Horizonte/MG;Lagoa Santa (MG);3106200;3137601;52.520;Não;10.124;0,26;Sim;Não;2;Via Vespasiano (MG);0
-Belo Horizonte/MG;Mário Campos (MG);3106200;3140159;13.192;Não;3.311;0,36;Sim;Sim;3;Via Sarzedo (MG);0
-Belo Horizonte/MG;Nova Lima (MG);3106200;3144805;80.998;Não;30.273;0,49;Sim;Não;1;-;0
-Belo Horizonte/MG;Pedro Leopoldo (MG);3106200;3149309;58.740;Não;8.467;0,20;Sim;Não;2;Via Confins (MG);0
-Belo Horizonte/MG;Raposos (MG);3106200;3153905;15.342;Não;4.819;0,48;Não;Não;1;-;0
-Belo Horizonte/MG;Ribeirão das Neves (MG);3106200;3154606;296.317;Não;97.370;0,46;Não;Não;1;-;0
-Belo Horizonte/MG;Rio Acima (MG);3106200;3154804;9.090;Não;1.764;0,27;Não;Não;1;-;1
-Belo Horizonte/MG;Sabará (MG);3106200;3156700;126.269;Não;42.913;0,47;Sim;Não;1;-;0
-Belo Horizonte/MG;Santa Luzia (MG);3106200;3157807;202.942;Não;55.031;0,38;Sim;Não;1;-;0
-Belo Horizonte/MG;São Joaquim de Bicas (MG);3106200;3162922;25.537;Não;5.668;0,35;Sim;Sim;2;Via Betim (MG);0
-Belo Horizonte/MG;São José da Lapa (MG);3106200;3162955;19.799;Não;5.784;0,40;Sim;Sim;1;-;0
-Belo Horizonte/MG;Sarzedo (MG);3106200;3165537;25.814;Não;8.083;0,43;Sim;Sim;2;Via Betim (MG);0
-Belo Horizonte/MG;Vespasiano (MG);3106200;3171204;104.527;Não;34.474;0,46;Sim;Não;1;-;0
-Bento Gonçalves/RS;Bento Gonçalves (RS);4302105;4302105;107.278;Sim;4.707;0,06;Sim;Não;1;-;0
-Bento Gonçalves/RS;Carlos Barbosa (RS);4302105;4304804;25.192;Não;2.814;0,13;Sim;Não;2;Via Garibaldi (RS);0
-Bento Gonçalves/RS;Garibaldi (RS);4302105;4308607;30.689;Não;4.669;0,20;Sim;Não;1;-;0
-Bento Gonçalves/RS;Monte Belo do Sul (RS);4302105;4312385;2.670;Não;546;0,28;Não;Sim;1;-;0
-Bicas/MG;Bicas (MG);3106903;3106903;13.653;Sim;616;0,07;Sim;Não;1;-;0
-Bicas/MG;Guarará (MG);3106903;3128501;3.929;Não;616;0,24;Sim;Não;1;-;0
-Birigui/SP;Birigui (SP);3506508;3506508;108.728;Sim;2.126;0,03;Não;Não;1;-;0
-Birigui/SP;Braúna (SP);3506508;3507704;5.021;Não;613;0,18;Não;Não;1;-;1
-Birigui/SP;Brejo Alegre (SP);3506508;3507753;2.573;Não;877;0,48;Não;Sim;1;-;0
-Birigui/SP;Coroados (SP);3506508;3512506;5.238;Não;1.184;0,30;Não;Não;1;-;0
-Blumenau/SC;Blumenau (SC);4202404;4202404;309.011;Sim;13.479;0,06;Sim;Não;1;-;0
-Blumenau/SC;Gaspar (SC);4202404;4205902;57.981;Não;9.055;0,20;Sim;Não;1;-;0
-Blumenau/SC;Ilhota (SC);4202404;4207106;12.355;Não;1.672;0,18;Não;Não;1;-;1
-Blumenau/SC;Indaial (SC);4202404;4207502;54.854;Não;5.526;0,12;Sim;Não;1;-;0
-Boituva - Iperó/SP;Boituva (SP);3507001;3507001;48.314;Sim;1.344;0,04;Sim;Não;1;-;0
-Boituva - Iperó/SP;Iperó (SP);3507001;3521002;28.300;Sim;1.344;0,07;Sim;Não;1;-;0
-Bom Jesus do Itabapoana/RJ;Bom Jesus do Itabapoana (RJ);3300605;3300605;35.411;Sim;2.932;0,12;Sim;Não;1;-;0
-Bom Jesus do Itabapoana/RJ;Bom Jesus do Norte (ES);3300605;3201100;9.476;Não;2.932;0,46;Sim;Não;1;-;0
-Brasília/DF;Águas Lindas de Goiás (GO);5300108;5200258;159.378;Não;45.494;0,39;Não;Sim;1;-;0
-Brasília/DF;Brasília (DF);5300108;5300108;2.570.160;Sim;190.371;0,10;Sim;Não;1;-;0
-Brasília/DF;Cidade Ocidental (GO);5300108;5205497;55.915;Não;19.120;0,46;Sim;Sim;1;-;0
-Brasília/DF;Luziânia (GO);5300108;5212501;174.531;Não;31.225;0,25;Sim;Não;1;-;0
-Brasília/DF;Novo Gama (GO);5300108;5215231;95.018;Não;30.352;0,46;Sim;Sim;1;-;0
-Brasília/DF;Padre Bernardo (GO);5300108;5215603;27.671;Não;3.380;0,18;Não;Sim;1;-;0
-Brasília/DF;Planaltina (GO);5300108;5217609;81.649;Não;18.511;0,32;Não;Não;1;-;0
-Brasília/DF;Santo Antônio do Descoberto (GO);5300108;5219753;63.248;Não;15.815;0,35;Não;Sim;1;-;0
-Brasília/DF;Valparaíso de Goiás (GO);5300108;5221858;132.982;Não;44.744;0,45;Sim;Sim;1;-;0
-Brejões - Nova Itarana/BA;Brejões (BA);2904308;2904308;14.282;Sim;759;0,08;Não;Não;1;-;0
-Brejões - Nova Itarana/BA;Nova Itarana (BA);2904308;2922805;7.435;Sim;759;0,18;Não;Não;1;-;0
-Brusque/SC;Botuverá (SC);4202909;4202701;4.468;Não;706;0,20;Não;Não;1;-;0
-Brusque/SC;Brusque (SC);4202909;4202909;105.503;Sim;3.648;0,04;Sim;Não;1;-;0
-Brusque/SC;Guabiruba (SC);4202909;4206306;18.430;Não;3.110;0,23;Sim;Não;1;-;0
-Cabo Frio/RJ;Armação dos Búzios (RJ);3300704;3300233;27.560;Não;8.118;0,40;Sim;Sim;1;-;0
-Cabo Frio/RJ;Arraial do Cabo (RJ);3300704;3300258;27.715;Não;3.311;0,17;Sim;Não;1;-;0
-Cabo Frio/RJ;Cabo Frio (RJ);3300704;3300704;186.227;Sim;23.489;0,18;Sim;Não;1;-;0
-Cabo Frio/RJ;São Pedro da Aldeia (RJ);3300704;3305208;87.875;Não;14.946;0,25;Sim;Não;1;-;0
-Cachoeira - Muritiba - Governador Mangabeira/BA;Cachoeira (BA);2904902;2904902;32.026;Sim;1.629;0,07;Sim;Não;1;-;0
-Cachoeira - Muritiba - Governador Mangabeira/BA;Governador Mangabeira (BA);2904902;2911600;19.818;Não;744;0,05;Sim;Não;1;-;0
-Cachoeira - Muritiba - Governador Mangabeira/BA;Muritiba (BA);2904902;2922300;28.899;Sim;1.496;0,08;Sim;Não;1;-;0
-Cachoeira - Muritiba - Governador Mangabeira/BA;São Félix (BA);2904902;2929008;14.098;Não;1.417;0,15;Sim;Não;1;-;0
-Caetés - Capoeiras/PE;Caetés (PE);2603207;2603207;26.577;Sim;172;0,01;Sim;Não;1;-;0
-Caetés - Capoeiras/PE;Capoeiras (PE);2603207;2603801;19.593;Sim;172;0,01;Sim;Não;1;-;0
-Caiçara - Logradouro/PB;Caiçara (PB);2503605;2503605;7.220;Sim;183;0,04;Sim;Não;1;-;0
-Caiçara - Logradouro/PB;Logradouro (PB);2503605;2508554;3.942;Sim;183;0,07;Sim;Sim;1;-;0
-Caiçara do Norte/RN;Caiçara do Norte (RN);2401859;2401859;6.016;Sim;479;0,13;Sim;Sim;1;-;0
-Caiçara do Norte/RN;São Bento do Norte (RN);2401859;2411601;2.975;Não;479;0,27;Sim;Não;1;-;0
-Caldas Novas/GO;Caldas Novas (GO);5204508;5204508;70.473;Sim;899;0,02;Não;Não;1;-;0
-Caldas Novas/GO;Rio Quente (GO);5204508;5218789;3.312;Não;899;0,33;Não;Sim;1;-;0
-Cambuí/MG;Cambuí (MG);3110608;3110608;26.488;Sim;452;0,02;Sim;Não;1;-;0
-Cambuí/MG;Córrego do Bom Jesus (MG);3110608;3119906;3.730;Não;452;0,19;Sim;Não;1;-;0
-Campina Grande/PB;Campina Grande (PB);2504009;2504009;385.213;Sim;14.039;0,05;Sim;Não;1;-;0
-Campina Grande/PB;Lagoa Seca (PB);2504009;2508307;25.900;Não;4.643;0,25;Sim;Não;1;-;0
-Campina Grande/PB;Massaranduba (PB);2504009;2509206;12.902;Não;1.892;0,23;Não;Não;1;-;0
-Campina Grande/PB;Puxinanã (PB);2504009;2512408;12.923;Não;2.876;0,31;Não;Não;1;-;0
-Campina Grande/PB;Queimadas (PB);2504009;2512507;41.049;Não;6.102;0,22;Não;Não;1;-;0
-Campinas/SP;Campinas (SP);3509502;3509502;1.080.113;Sim;127.498;0,16;Sim;Não;1;-;0
-Campinas/SP;Cosmópolis (SP);3509502;3512803;58.827;Não;9.044;0,22;Não;Não;2;Via Paulínia (SP);0
-Campinas/SP;Hortolândia (SP);3509502;3519071;192.692;Não;58.472;0,42;Sim;Sim;1;-;0
-Campinas/SP;Monte Mor (SP);3509502;3531803;48.949;Não;9.796;0,28;Sim;Não;1;-;0
-Campinas/SP;Paulínia (SP);3509502;3536505;82.146;Não;27.275;0,43;Sim;Não;1;-;0
-Campinas/SP;Sumaré (SP);3509502;3552403;241.311;Não;51.788;0,30;Sim;Não;1;-;0
-Campinas/SP;Valinhos (SP);3509502;3556206;106.793;Não;27.886;0,35;Sim;Não;1;-;0
-Campinas/SP;Vinhedo (SP);3509502;3556701;63.611;Não;12.313;0,25;Sim;Não;1;-;0
-Campos dos Goytacazes/RJ;Campos dos Goytacazes (RJ);3301009;3301009;463.731;Sim;3.913;0,01;Não;Não;1;-;0
-Campos dos Goytacazes/RJ;São João da Barra (RJ);3301009;3305000;32.747;Sim;3.913;0,17;Não;Não;1;-;0
-Canela - Gramado/RS;Canela (RS);4304408;4304408;39.229;Sim;5.444;0,19;Sim;Não;1;-;0
-Canela - Gramado/RS;Gramado (RS);4304408;4309100;32.273;Sim;5.444;0,21;Sim;Não;1;-;0
-Canoinhas/SC;Canoinhas (SC);4203808;4203808;52.765;Sim;2.541;0,07;Não;Não;1;-;0
-Canoinhas/SC;Três Barras (SC);4203808;4218301;18.129;Não;2.541;0,21;Não;Não;1;-;0
-Capão Bonito/SP;Capão Bonito (SP);3510203;3510203;46.178;Sim;1.046;0,03;Não;Não;1;-;0
-Capão Bonito/SP;Ribeirão Grande (SP);3510203;3543253;7.422;Não;1.046;0,21;Não;Sim;1;-;0
-Capão da Canoa/RS;Capão da Canoa (RS);4304630;4304630;42.040;Sim;2.552;0,08;Sim;Não;1;-;0
-Capão da Canoa/RS;Terra de Areia (RS);4304630;4321436;9.878;Não;471;0,07;Sim;Sim;1;-;0
-Capão da Canoa/RS;Xangri-lá (RS);4304630;4323804;12.434;Não;2.089;0,22;Sim;Sim;1;-;0
-Capinzal/SC;Capinzal (SC);4203907;4203907;20.769;Sim;2.633;0,17;Sim;Não;1;-;0
-Capinzal/SC;Ouro (SC);4203907;4211801;7.372;Não;1.878;0,31;Sim;Não;1;-;0
-Capinzal/SC;Zortéa (SC);4203907;4219853;2.991;Não;771;0,30;Não;Não;1;-;0
-Capivari/SP;Capivari (SP);3510401;3510401;48.576;Sim;2.791;0,08;Sim;Não;1;-;0
-Capivari/SP;Rafard (SP);3510401;3542107;8.612;Não;2.791;0,46;Sim;Não;1;-;0
-Caraguatatuba - Ubatuba - São Sebastião/SP;Caraguatatuba (SP);3510500;3510500;100.840;Sim;6.509;0,09;Sim;Não;1;-;0
-Caraguatatuba - Ubatuba - São Sebastião/SP;Ilhabela (SP);3510500;3520400;28.196;Não;1.438;0,06;Sim;Não;1;-;0
-Caraguatatuba - Ubatuba - São Sebastião/SP;São Sebastião (SP);3510500;3550704;73.942;Sim;5.695;0,10;Sim;Não;1;-;0
-Caraguatatuba - Ubatuba - São Sebastião/SP;Ubatuba (SP);3510500;3555406;78.801;Sim;1.392;0,02;Sim;Não;1;-;0
-Caraí/MG;Caraí (MG);3113008;3113008;22.343;Sim;828;0,06;Não;Não;1;-;0
-Caraí/MG;Catuji (MG);3113008;3115458;6.708;Não;828;0,21;Não;Não;1;-;0
-Carolina/MA;Carolina (MA);2102804;2102804;23.959;Sim;444;0,03;Sim;Não;1;-;0
-Carolina/MA;Filadélfia (TO);2102804;1707702;8.505;Não;444;0,09;Sim;Não;1;-;0
-Cascavel/PR;Cascavel (PR);4104808;4104808;286.205;Sim;1.717;0,01;Não;Não;1;-;0
-Cascavel/PR;Santa Tereza do Oeste (PR);4104808;4124020;10.332;Não;1.717;0,22;Não;Sim;1;-;0
-Catalão/GO;Catalão (GO);5205109;5205109;86.647;Sim;2.205;0,03;Não;Não;1;-;0
-Catalão/GO;Goiandira (GO);5205109;5208509;5.265;Não;746;0,21;Não;Não;1;-;0
-Catalão/GO;Ouvidor (GO);5205109;5215504;5.467;Não;1.187;0,33;Não;Não;1;-;0
-Catalão/GO;Três Ranchos (GO);5205109;5221304;2.819;Não;390;0,19;Não;Não;1;-;1
-Catanduva/SP;Catanduva (SP);3511102;3511102;112.820;Sim;5.635;0,07;Sim;Não;1;-;0
-Catanduva/SP;Catiguá (SP);3511102;3511201;7.127;Não;2.049;0,43;Não;Não;1;-;0
-Catanduva/SP;Elisiário (SP);3511102;3514924;3.120;Não;734;0,34;Não;Sim;1;-;0
-Catanduva/SP;Embaúba (SP);3511102;3514957;2.423;Não;300;0,17;Não;Não;1;-;1
-Catanduva/SP;Marapoama (SP);3511102;3528858;2.633;Não;338;0,18;Não;Não;1;-;1
-Catanduva/SP;Novais (SP);3511102;3533254;4.592;Não;670;0,20;Não;Não;1;-;0
-Catanduva/SP;Pindorama (SP);3511102;3538105;15.039;Não;2.086;0,21;Sim;Não;1;-;0
-Caxambu - Baependi/MG;Baependi (MG);3115508;3104908;18.307;Sim;833;0,07;Sim;Não;1;-;0
-Caxambu - Baependi/MG;Caxambu (MG);3115508;3115508;21.705;Sim;833;0,06;Sim;Não;1;-;0
-Caxias do Sul/RS;Caxias do Sul (RS);4305108;4305108;435.564;Sim;6.521;0,02;Sim;Não;1;-;0
-Caxias do Sul/RS;Farroupilha (RS);4305108;4307906;63.635;Não;5.379;0,11;Sim;Não;1;-;0
-Caxias do Sul/RS;Vale Real (RS);4305108;4322541;5.118;Não;1.142;0,27;Não;Não;1;-;0
-Ceres - Rialma/GO;Ceres (GO);5205406;5205406;20.722;Sim;1.798;0,12;Sim;Não;1;-;0
-Ceres - Rialma/GO;Rialma (GO);5205406;5218607;10.523;Não;1.798;0,24;Sim;Não;1;-;0
-Cerquilho - Tietê/SP;Cerquilho (SP);3511508;3511508;39.617;Sim;1.825;0,06;Sim;Não;1;-;0
-Cerquilho - Tietê/SP;Tietê (SP);3511508;3554508;36.835;Sim;1.825;0,07;Sim;Não;1;-;0
-Cerro Largo/RS;Cerro Largo (RS);4305207;4305207;13.289;Sim;352;0,04;Não;Não;1;-;0
-Cerro Largo/RS;Salvador das Missões (RS);4305207;4316477;2.669;Não;352;0,17;Não;Sim;1;-;0
-Chapecó/SC;Chapecó (SC);4204202;4204202;183.530;Sim;1.528;0,01;Não;Não;1;-;0
-Chapecó/SC;Cordilheira Alta (SC);4204202;4204350;3.767;Não;717;0,24;Não;Sim;1;-;0
-Chapecó/SC;Guatambú (SC);4204202;4206652;4.679;Não;811;0,23;Não;Sim;1;-;0
-Charqueadas - Triunfo - São Jerônimo/RS;Charqueadas (RS);4305355;4305355;35.320;Sim;2.427;0,11;Sim;Não;1;-;0
-Charqueadas - Triunfo - São Jerônimo/RS;São Jerônimo (RS);4305355;4318408;22.134;Sim;2.610;0,17;Sim;Não;1;-;0
-Charqueadas - Triunfo - São Jerônimo/RS;Triunfo (RS);4305355;4322004;25.793;Sim;657;0,03;Sim;Não;1;-;0
-Cidreira - Balneário Pinhal/RS;Balneário Pinhal (RS);4305454;4301636;10.856;Sim;291;0,04;Sim;Sim;1;-;0
-Cidreira - Balneário Pinhal/RS;Cidreira (RS);4305454;4305454;12.668;Sim;291;0,04;Sim;Não;1;-;0
-Colorado/PR;Colorado (PR);4105904;4105904;22.345;Sim;523;0,03;Não;Não;1;-;0
-Colorado/PR;Nossa Senhora das Graças (PR);4105904;4116406;3.836;Não;523;0,19;Não;Não;1;-;0
-Conceição do Almeida - Sapeaçu/BA;Conceição do Almeida (BA);2908309;2908309;17.889;Sim;154;0,02;Sim;Não;1;-;0
-Conceição do Almeida - Sapeaçu/BA;Sapeaçu (BA);2908309;2929602;16.585;Sim;154;0,01;Sim;Não;1;-;0
-Conselheiro Lafaiete/MG;Congonhas (MG);3118304;3118007;48.519;Não;6.112;0,18;Não;Não;1;-;1
-Conselheiro Lafaiete/MG;Conselheiro Lafaiete (MG);3118304;3118304;116.512;Sim;11.789;0,15;Não;Não;1;-;0
-Conselheiro Lafaiete/MG;Jeceaba (MG);3118304;3135407;5.395;Não;3.672;1,27;Não;Não;1;-;0
-Conselheiro Lafaiete/MG;Ouro Branco (MG);3118304;3145901;35.268;Não;6.517;0,25;Não;Não;1;-;0
-Conselheiro Lafaiete/MG;Queluzito (MG);3118304;3153806;1.861;Não;201;0,18;Não;Não;1;-;0
-Conselheiro Lafaiete/MG;São Brás do Suaçuí (MG);3118304;3160900;3.513;Não;503;0,26;Não;Não;1;-;1
-Cordeiro - Cantagalo/RJ;Cantagalo (RJ);3301504;3301108;19.830;Sim;1.753;0,12;Sim;Não;1;-;0
-Cordeiro - Cantagalo/RJ;Cordeiro (RJ);3301504;3301504;20.430;Sim;1.753;0,12;Sim;Não;1;-;0
-Criciúma/SC;Cocal do Sul (SC);4204608;4204251;15.159;Não;4.008;0,36;Não;Sim;1;-;0
-Criciúma/SC;Criciúma (SC);4204608;4204608;192.308;Sim;25.568;0,17;Sim;Não;1;-;0
-Criciúma/SC;Forquilhinha (SC);4204608;4205456;22.548;Não;7.136;0,40;Sim;Sim;1;-;0
-Criciúma/SC;Içara (SC);4204608;4207007;58.833;Não;10.675;0,25;Sim;Não;1;-;0
-Criciúma/SC;Morro da Fumaça (SC);4204608;4211207;16.126;Não;2.514;0,21;Não;Não;1;-;1
-Criciúma/SC;Morro Grande (SC);4204608;4211256;2.890;Não;408;0,18;Não;Não;1;-;1
-Criciúma/SC;Nova Veneza (SC);4204608;4211603;13.309;Não;5.345;0,52;Não;Não;1;-;0
-Criciúma/SC;Siderópolis (SC);4204608;4217600;12.998;Não;3.259;0,34;Sim;Não;1;-;0
-Criciúma/SC;Treviso (SC);4204608;4218350;3.527;Não;907;0,38;Não;Sim;1;-;0
-Criciúma/SC;Urussanga (SC);4204608;4219002;20.223;Não;2.878;0,19;Não;Não;1;-;1
-Cruzeiro/SP;Cruzeiro (SP);3513405;3513405;77.039;Sim;1.406;0,03;Sim;Não;1;-;0
-Cruzeiro/SP;Lavrinhas (SP);3513405;3526605;6.590;Não;1.406;0,35;Sim;Não;1;-;0
-Cuiabá/MT;Cuiabá (MT);5103403;5103403;551.098;Sim;41.305;0,10;Sim;Não;1;-;0
-Cuiabá/MT;Várzea Grande (MT);5103403;5108402;252.596;Não;41.305;0,23;Sim;Não;1;-;0
-Cuité - Nova Floresta/PB;Cuité (PB);2505105;2505105;19.978;Sim;383;0,03;Sim;Não;1;-;0
-Cuité - Nova Floresta/PB;Nova Floresta (PB);2505105;2510105;10.533;Sim;383;0,06;Sim;Não;1;-;0
-Curitiba/PR;Almirante Tamandaré (PR);4106902;4100400;103.204;Não;39.952;0,52;Sim;Não;1;-;0
-Curitiba/PR;Araucária (PR);4106902;4101804;119.123;Não;31.624;0,35;Sim;Não;1;-;0
-Curitiba/PR;Balsa Nova (PR);4106902;4102307;11.300;Não;2.923;0,36;Não;Não;2;Via Campo Largo (PR);0
-Curitiba/PR;Bocaiúva do Sul (PR);4106902;4103107;10.987;Não;2.198;0,27;Não;Não;1;-;1
-Curitiba/PR;Campina Grande do Sul (PR);4106902;4104006;38.769;Não;11.572;0,40;Sim;Não;1;-;0
-Curitiba/PR;Campo Largo (PR);4106902;4104204;112.377;Não;21.646;0,26;Sim;Não;1;-;0
-Curitiba/PR;Campo Magro (PR);4106902;4104253;24.843;Não;8.513;0,47;Sim;Sim;1;-;0
-Curitiba/PR;Colombo (PR);4106902;4105805;212.967;Não;74.746;0,46;Sim;Não;1;-;0
-Curitiba/PR;Contenda (PR);4106902;4106209;15.891;Não;2.671;0,23;Não;Não;1;-;1
-Curitiba/PR;Curitiba (PR);4106902;4106902;1.751.907;Sim;297.948;0,22;Sim;Não;1;-;0
-Curitiba/PR;Fazenda Rio Grande (PR);4106902;4107652;81.675;Não;22.828;0,39;Sim;Sim;1;-;0
-Curitiba/PR;Itaperuçu (PR);4106902;4111258;23.887;Não;6.655;0,40;Sim;Sim;1;-;0
-Curitiba/PR;Mandirituba (PR);4106902;4114302;22.220;Não;3.074;0,19;Não;Não;1;-;1
-Curitiba/PR;Pinhais (PR);4106902;4119152;117.008;Não;52.743;0,60;Sim;Sim;1;-;0
-Curitiba/PR;Piraquara (PR);4106902;4119509;93.207;Não;30.015;0,46;Sim;Não;1;-;0
-Curitiba/PR;Quatro Barras (PR);4106902;4120804;19.851;Não;9.833;0,67;Sim;Não;1;-;0
-Curitiba/PR;Rio Branco do Sul (PR);4106902;4122206;30.650;Não;6.443;0,30;Sim;Não;1;-;0
-Curitiba/PR;São José dos Pinhais (PR);4106902;4125506;264.210;Não;62.922;0,31;Sim;Não;1;-;0
-Curvelo/MG;Curvelo (MG);3120904;3120904;74.219;Sim;786;0,02;Sim;Não;1;-;0
-Curvelo/MG;Inimutaba (MG);3120904;3131109;6.724;Não;786;0,17;Sim;Não;1;-;0
-Duas Estradas - Serra da Raiz/PB;Duas Estradas (PB);2505808;2505808;3.638;Sim;255;0,11;Sim;Não;1;-;0
-Duas Estradas - Serra da Raiz/PB;Serra da Raiz (PB);2505808;2515609;3.204;Sim;255;0,12;Sim;Não;1;-;0
-Estreito/MA;Aguiarnópolis (TO);2104057;1700301;5.162;Não;720;0,21;Sim;Não;1;-;0
-Estreito/MA;Estreito (MA);2104057;2104057;35.835;Sim;720;0,03;Sim;Não;1;-;0
-Fernandópolis/SP;Fernandópolis (SP);3515509;3515509;64.696;Sim;901;0,02;Não;Não;1;-;0
-Fernandópolis/SP;Macedônia (SP);3515509;3528205;3.664;Não;508;0,19;Não;Não;1;-;0
-Fernandópolis/SP;Pedranópolis (SP);3515509;3536901;2.558;Não;447;0,26;Não;Não;1;-;0
-Floriano/PI;Barão de Grajaú (MA);2203909;2101509;17.841;Não;1.389;0,12;Sim;Não;1;-;0
-Floriano/PI;Floriano (PI);2203909;2203909;57.690;Sim;1.389;0,03;Sim;Não;1;-;0
-Florianópolis/SC;Águas Mornas (SC);4205407;4200606;5.548;Não;1.615;0,35;Sim;Não;3;Via Santo Amaro da Imperatriz (SC);0
-Florianópolis/SC;Antônio Carlos (SC);4205407;4201208;7.458;Não;1.399;0,24;Não;Não;1;-;1
-Florianópolis/SC;Biguaçu (SC);4205407;4202305;58.206;Não;17.841;0,41;Sim;Não;1;-;0
-Florianópolis/SC;Florianópolis (SC);4205407;4205407;421.240;Sim;88.709;0,27;Sim;Não;1;-;0
-Florianópolis/SC;Governador Celso Ramos (SC);4205407;4206009;12.999;Não;2.714;0,29;Não;Não;1;-;1
-Florianópolis/SC;Palhoça (SC);4205407;4211900;137.334;Não;42.655;0,40;Sim;Não;1;-;0
-Florianópolis/SC;Paulo Lopes (SC);4205407;4212304;6.692;Não;813;0,19;Não;Não;1;-;1
-Florianópolis/SC;Santo Amaro da Imperatriz (SC);4205407;4215703;19.823;Não;5.767;0,38;Sim;Não;2;Via Palhoça (SC);0
-Florianópolis/SC;São José (SC);4205407;4216602;209.804;Não;81.590;0,50;Sim;Não;1;-;0
-Florianópolis/SC;São Pedro de Alcântara (SC);4205407;4217253;4.704;Não;1.099;0,40;Não;Sim;1;-;0
-Fortaleza/CE;Aquiraz (CE);2304400;2301000;72.628;Não;7.781;0,16;Sim;Não;1;-;0
-Fortaleza/CE;Caucaia (CE);2304400;2303709;325.441;Não;59.378;0,26;Sim;Não;1;-;0
-Fortaleza/CE;Eusébio (CE);2304400;2304285;46.033;Não;11.488;0,35;Sim;Sim;1;-;0
-Fortaleza/CE;Fortaleza (CE);2304400;2304400;2.452.185;Sim;115.585;0,07;Sim;Não;1;-;0
-Fortaleza/CE;Itaitinga (CE);2304400;2306256;35.817;Não;5.377;0,25;Não;Sim;1;-;1
-Fortaleza/CE;Maracanaú (CE);2304400;2307650;209.057;Não;45.222;0,32;Sim;Não;1;-;0
-Fortaleza/CE;Maranguape (CE);2304400;2307700;113.561;Não;10.238;0,14;Sim;Não;1;-;0
-Fortaleza/CE;Pacatuba (CE);2304400;2309706;72.299;Não;13.943;0,29;Não;Não;1;-;1
-Franca/SP;Claraval (MG);3516200;3116407;4.542;Não;589;0,18;Não;Não;1;-;0
-Franca/SP;Cristais Paulista (SP);3516200;3513207;7.588;Não;1.429;0,26;Sim;Não;1;-;0
-Franca/SP;Franca (SP);3516200;3516200;318.640;Sim;6.503;0,03;Sim;Não;1;-;0
-Franca/SP;Itirapuã (SP);3516200;3523701;5.914;Não;854;0,21;Não;Não;1;-;1
-Franca/SP;Patrocínio Paulista (SP);3516200;3536307;13.000;Não;1.840;0,20;Não;Não;1;-;0
-Franca/SP;Restinga (SP);3516200;3542701;6.587;Não;1.769;0,38;Não;Não;1;-;0
-Franca/SP;Ribeirão Corrente (SP);3516200;3543105;4.273;Não;586;0,18;Não;Não;1;-;1
-Gastão Vidigal - Monções/SP;Gastão Vidigal (SP);3516804;3516804;4.193;Sim;353;0,12;Não;Não;1;-;0
-Gastão Vidigal - Monções/SP;Monções (SP);3516804;3531001;2.132;Sim;353;0,25;Não;Não;1;-;0
-Getúlio Vargas/RS;Estação (RS);4308904;4307559;6.011;Não;679;0,16;Sim;Sim;1;-;0
-Getúlio Vargas/RS;Getúlio Vargas (RS);4308904;4308904;16.154;Sim;679;0,06;Sim;Não;1;-;0
-Goianésia/GO;Barro Alto (GO);5208608;5203203;8.716;Não;1.420;0,22;Não;Não;1;-;0
-Goianésia/GO;Goianésia (GO);5208608;5208608;59.549;Sim;1.606;0,04;Não;Não;1;-;0
-Goianésia/GO;Santa Rita do Novo Destino (GO);5208608;5219456;3.173;Não;416;0,21;Não;Sim;1;-;1
-Goiânia/GO;Abadia de Goiás (GO);5208707;5200050;6.876;Não;1.990;0,39;Não;Sim;1;-;0
-Goiânia/GO;Aparecida de Goiânia (GO);5208707;5201405;455.657;Não;127.272;0,37;Sim;Não;1;-;0
-Goiânia/GO;Aragoiânia (GO);5208707;5201801;8.365;Não;1.417;0,24;Não;Não;1;-;0
-Goiânia/GO;Bonfinópolis (GO);5208707;5203559;7.536;Não;1.707;0,32;Não;Não;1;-;0
-Goiânia/GO;Brazabrantes (GO);5208707;5203609;3.232;Não;593;0,27;Não;Não;1;-;1
-Goiânia/GO;Caldazinha (GO);5208707;5204557;3.325;Não;648;0,29;Não;Não;1;-;0
-Goiânia/GO;Goiânia (GO);5208707;5208707;1.302.001;Sim;191.537;0,19;Sim;Não;1;-;0
-Goiânia/GO;Goianira (GO);5208707;5208806;34.060;Não;9.542;0,39;Sim;Não;1;-;0
-Goiânia/GO;Guapó (GO);5208707;5209200;13.976;Não;2.021;0,21;Não;Não;1;-;0
-Goiânia/GO;Hidrolândia (GO);5208707;5209705;17.398;Não;2.699;0,21;Não;Não;1;-;1
-Goiânia/GO;Nerópolis (GO);5208707;5214507;24.210;Não;2.970;0,17;Não;Não;1;-;3
-Goiânia/GO;Nova Veneza (GO);5208707;5215009;8.129;Não;1.285;0,22;Não;Não;1;-;2
-Goiânia/GO;Santo Antônio de Goiás (GO);5208707;5219738;4.703;Não;1.067;0,31;Não;Sim;1;-;0
-Goiânia/GO;Senador Canedo (GO);5208707;5220454;84.443;Não;26.515;0,42;Sim;Sim;1;-;0
-Goiânia/GO;Trindade (GO);5208707;5221403;104.488;Não;22.175;0,30;Sim;Não;1;-;0
-Guarabira/PB;Guarabira (PB);2506301;2506301;55.326;Sim;507;0,01;Sim;Não;1;-;0
-Guarabira/PB;Pilõezinhos (PB);2506301;2511707;5.155;Não;507;0,14;Sim;Não;1;-;0
-Guaratinguetá/SP;Aparecida (SP);3518404;3502507;35.007;Não;9.545;0,36;Sim;Não;1;-;0
-Guaratinguetá/SP;Guaratinguetá (SP);3518404;3518404;112.072;Sim;4.851;0,06;Sim;Não;1;-;0
-Guaratinguetá/SP;Potim (SP);3518404;3540754;19.397;Não;5.970;0,47;Sim;Sim;1;-;0
-Guaratinguetá/SP;Roseira (SP);3518404;3544301;9.599;Não;1.724;0,26;Sim;Não;1;-;0
-Guariba/SP;Guariba (SP);3518602;3518602;35.486;Sim;1.017;0,04;Não;Não;1;-;0
-Guariba/SP;Santa Ernestina (SP);3518602;3546504;5.568;Não;1.017;0,26;Não;Não;1;-;0
-Igarapava/SP;Aramina (SP);3520103;3503000;5.152;Não;775;0,23;Não;Não;1;-;1
-Igarapava/SP;Delta (MG);3520103;3121258;8.089;Não;1.548;0,28;Não;Não;1;-;0
-Igarapava/SP;Igarapava (SP);3520103;3520103;27.952;Sim;1.929;0,10;Não;Não;1;-;0
-Iguape/SP;Iguape (SP);3520301;3520301;28.841;Sim;632;0,03;Sim;Não;1;-;0
-Iguape/SP;Ilha Comprida (SP);3520301;3520426;9.025;Não;632;0,11;Sim;Sim;1;-;0
-Imbituba/SC;Garopaba (SC);4207304;4205704;18.138;Não;661;0,05;Sim;Não;1;-;0
-Imbituba/SC;Imbituba (SC);4207304;4207304;40.170;Sim;661;0,02;Sim;Não;1;-;0
-Imperatriz/MA;Davinópolis (MA);2105302;2103752;12.579;Não;1.527;0,18;Não;Sim;1;-;0
-Imperatriz/MA;Imperatriz (MA);2105302;2105302;247.505;Sim;1.527;0,01;Não;Não;1;-;0
-Indiara/GO;Indiara (GO);5209952;5209952;13.687;Sim;929;0,10;Não;Não;1;-;0
-Indiara/GO;Jandaia (GO);5209952;5211701;6.164;Não;929;0,22;Não;Não;1;-;0
-Internacional Chuy/Uruguai - Chuí/Brasil;Chuí (RS);4305439;4305439;5.917;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Artigas/Uruguai - Quaraí/Brasil;Quaraí (RS);4315305;4315305;23.021;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Assis Brasil/Brasil;Assis Brasil (AC);1200054;1200054;6.072;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Bela Vista/Brasil;Bela Vista (MS);5002100;5002100;23.181;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Bella Unión/Uruguai - Monte Caseros/Argentina;Barra do Quaraí (RS);4301875;4301875;4.012;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Bonfim/Brasil - Ireng/Guiana;Bonfim (RR);1400159;1400159;10.943;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Capitán Bado/Paraguai - Coronel Sapucaia/Brasil;Coronel Sapucaia (MS);5003157;5003157;14.064;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Cobija/Bolívia - Brasiléia/Brasil;Brasiléia (AC);1200104;1200104;21.398;Sim;1.127;0,08;Sim;Sim;1;-;0
-Internacional de Cobija/Bolívia - Brasiléia/Brasil;Epitaciolândia (AC);1200104;1200252;15.100;Não;1.127;0,11;Sim;Não;1;-;0
-Internacional de Corumbá/Brasil;Corumbá (MS);5003207;5003207;103.703;Sim;4.384;0,06;Sim;Não;1;-;0
-Internacional de Corumbá/Brasil;Ladário (MS);5003207;5005202;19.617;Não;4.384;0,32;Sim;Não;1;-;0
-Internacional de Dionísio Cerqueira-Barracão/Brasil - Bernardo de Irigoyen/Argentina;Barracão (PR);4205001;4102604;9.735;Sim;1.505;0,21;Sim;Não;1;-;0
-Internacional de Dionísio Cerqueira-Barracão/Brasil - Bernardo de Irigoyen/Argentina;Dionísio Cerqueira (SC);4205001;4205001;14.811;Sim;1.505;0,15;Sim;Não;1;-;0
-Internacional de Foz do Iguaçu/Brasil - Ciudad del Este/Paraguai;Foz do Iguaçu (PR);4108304;4108304;256.088;Sim;2.946;0,02;Sim;Não;1;-;0
-Internacional de Foz do Iguaçu/Brasil - Ciudad del Este/Paraguai;Santa Terezinha de Itaipu (PR);4108304;4124053;20.841;Não;2.946;0,19;Não;Não;1;-;0
-Internacional de Garruchos/Brasil;Garruchos (RS);4308656;4308656;3.234;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Guaíra/Brasil;Guaíra (PR);4108809;4108809;30.704;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Guajará-Mirim/Brasil - Guayaramerín/Bolívia;Guajará-Mirim (RO);1100106;1100106;41.656;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Itaqui/Brasil;Itaqui (RS);4310603;4310603;38.159;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Jaguarão/Brasil - Rio Branco/Uruguai;Jaguarão (RS);4311007;4311007;27.931;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Oiapoque/Brasil;Oiapoque (AP);1600501;1600501;20.509;Sim;0;0,00;Não;Não;1;-;0
-Internacional de Paranhos/Brasil - Ypejhú/Paraguai;Paranhos (MS);5006358;5006358;12.350;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Pedro Juan Caballero/Paraguai - Ponta Porã/Brasil;Ponta Porã (MS);5006606;5006606;77.872;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Porto Mauá/Brasil - Alba Posse/Argentina;Porto Mauá (RS);4315057;4315057;2.542;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Porto Vera Cruz/Brasil - Panambí/Argentina;Porto Vera Cruz (RS);4315073;4315073;1.852;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Porto Xavier/Brasil - San Javier/Argentina;Porto Xavier (RS);4315107;4315107;10.558;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Sant'Ana do Livramento/Brasil - Rivera/Uruguai;Sant´Ana do Livramento (RS);4317103;4317103;82.464;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Santo Antônio do Sudoeste/Brasil;Pranchita (PR);4124400;4120358;5.628;Não;273;0,06;Sim;Não;1;-;0
-Internacional de Santo Antônio do Sudoeste/Brasil;Santo Antônio do Sudoeste (PR);4124400;4124400;18.893;Sim;273;0,02;Sim;Não;1;-;0
-Internacional de São Borja/Brasil;São Borja (RS);4318002;4318002;61.671;Sim;0;0,00;Não;Não;1;-;0
-Internacional de Tabatinga/Brasil - Letícia/Colômbia;Tabatinga (AM);1304062;1304062;52.272;Sim;0;0,00;Sim;Não;1;-;0
-Internacional de Uruguaiana/Brasil;Uruguaiana (RS);4322400;4322400;125.435;Sim;0;0,00;Sim;Não;1;-;0
-Ipatinga/MG;Belo Oriente (MG);3131307;3106309;23.397;Não;3.176;0,21;Não;Não;1;-;1
-Ipatinga/MG;Bugre (MG);3131307;3109253;3.992;Não;417;0,18;Não;Não;1;-;2
-Ipatinga/MG;Coronel Fabriciano (MG);3131307;3119401;103.694;Não;20.909;0,31;Sim;Não;1;-;0
-Ipatinga/MG;Ipaba (MG);3131307;3131158;16.708;Não;2.742;0,26;Não;Não;1;-;0
-Ipatinga/MG;Ipatinga (MG);3131307;3131307;239.468;Sim;30.670;0,19;Sim;Não;1;-;0
-Ipatinga/MG;Jaguaraçu (MG);3131307;3135001;2.990;Não;746;0,39;Não;Não;2;Via Timóteo (MG);0
-Ipatinga/MG;Marliéria (MG);3131307;3140308;4.012;Não;741;0,29;Não;Não;1;-;1
-Ipatinga/MG;Naque (MG);3131307;3144359;6.341;Não;715;0,18;Não;Não;1;-;2
-Ipatinga/MG;Santana do Paraíso (MG);3131307;3158953;27.265;Não;8.449;0,48;Não;Não;1;-;0
-Ipatinga/MG;Timóteo (MG);3131307;3168705;81.243;Não;12.367;0,23;Sim;Não;1;-;0
-Itajaí - Balneário Camboriú/SC;Balneário Camboriú (SC);4208203;4202008;108.089;Sim;29.231;0,35;Sim;Não;1;-;0
-Itajaí - Balneário Camboriú/SC;Balneário Piçarras (SC);4208203;4212809;17.078;Não;3.384;0,28;Sim;Não;1;-;0
-Itajaí - Balneário Camboriú/SC;Barra Velha (SC);4208203;4202107;22.386;Não;1.277;0,08;Sim;Não;1;-;0
-Itajaí - Balneário Camboriú/SC;Camboriú (SC);4208203;4203204;62.361;Não;18.653;0,39;Sim;Não;1;-;0
-Itajaí - Balneário Camboriú/SC;Itajaí (SC);4208203;4208203;183.373;Sim;24.510;0,17;Sim;Não;1;-;0
-Itajaí - Balneário Camboriú/SC;Navegantes (SC);4208203;4211306;60.556;Não;10.049;0,23;Sim;Não;1;-;0
-Itajaí - Balneário Camboriú/SC;Penha (SC);4208203;4212502;25.141;Não;4.874;0,27;Sim;Não;1;-;0
-Itajubá/MG;Itajubá (MG);3132404;3132404;90.658;Sim;2.644;0,04;Não;Não;1;-;0
-Itajubá/MG;Piranguçu (MG);3132404;3150901;5.217;Não;810;0,23;Não;Não;1;-;0
-Itajubá/MG;Piranguinho (MG);3132404;3151008;8.016;Não;1.080;0,19;Não;Não;1;-;0
-Itajubá/MG;São José do Alegre (MG);3132404;3163201;3.996;Não;576;0,21;Não;Não;1;-;0
-Itajubá/MG;Wenceslau Braz (MG);3132404;3172202;2.553;Não;386;0,25;Não;Não;1;-;0
-Itambé/PE - Pedras de Fogo/PB;Camutanga (PE);2607653;2603603;8.156;Não;1.489;0,29;Não;Não;1;-;0
-Itambé/PE - Pedras de Fogo/PB;Itambé (PE);2607653;2607653;35.398;Sim;5.806;0,27;Sim;Não;1;-;0
-Itambé/PE - Pedras de Fogo/PB;Juripiranga (PB);2607653;2507903;10.237;Não;1.255;0,23;Não;Não;1;-;0
-Itambé/PE - Pedras de Fogo/PB;Pedras de Fogo (PB);2607653;2511202;27.032;Sim;3.800;0,21;Sim;Não;1;-;0
-Itaocara/RJ;Aperibé (RJ);3302106;3300159;10.213;Não;638;0,09;Sim;Não;1;-;0
-Itaocara/RJ;Itaocara (RJ);3302106;3302106;22.899;Sim;638;0,04;Sim;Não;1;-;0
-Itapema/SC;Bombinhas (SC);4208302;4202453;14.293;Não;930;0,09;Sim;Sim;1;-;0
-Itapema/SC;Itapema (SC);4208302;4208302;45.797;Sim;2.358;0,07;Sim;Não;1;-;0
-Itapema/SC;Porto Belo (SC);4208302;4213500;16.083;Não;2.746;0,23;Sim;Não;1;-;0
-Itapetininga/SP;Alambari (SP);3522307;3500758;4.884;Não;591;0,18;Não;Sim;1;-;0
-Itapetininga/SP;Itapetininga (SP);3522307;3522307;144.377;Sim;591;0,01;Não;Não;1;-;0
-Itapiranga/SC;Barra do Guarita (RS);4208401;4301859;3.089;Não;622;0,26;Sim;Não;1;-;0
-Itapiranga/SC;Itapiranga (SC);4208401;4208401;15.409;Sim;622;0,05;Sim;Não;1;-;0
-Itaúna/MG;Itatiaiuçu (MG);3133808;3133709;9.928;Não;1.284;0,19;Não;Não;1;-;0
-Itaúna/MG;Itaúna (MG);3133808;3133808;85.463;Sim;1.284;0,02;Não;Não;1;-;0
-Itu - Salto/SP;Itu (SP);3523909;3523909;154.147;Sim;4.295;0,04;Sim;Não;1;-;0
-Itu - Salto/SP;Salto (SP);3523909;3545209;105.516;Sim;4.295;0,06;Sim;Não;1;-;0
-Itumbiara/GO;Araporã (MG);5211503;3103751;6.144;Não;1.335;0,31;Sim;Não;1;-;0
-Itumbiara/GO;Itumbiara (GO);5211503;5211503;92.883;Sim;1.335;0,02;Sim;Não;1;-;0
-Ivoti/RS;Ivoti (RS);4310801;4310801;19.874;Sim;1.324;0,08;Sim;Não;1;-;0
-Ivoti/RS;Lindolfo Collor (RS);4310801;4311627;5.227;Não;1.057;0,26;Sim;Sim;1;-;0
-Ivoti/RS;Presidente Lucena (RS);4310801;4315149;2.484;Não;375;0,18;Não;Sim;1;-;1
-Jacaraú/PB;Jacaraú (PB);2507309;2507309;13.942;Sim;188;0,02;Sim;Não;1;-;0
-Jacaraú/PB;Pedro Régis (PB);2507309;2512721;5.765;Não;188;0,06;Sim;Sim;1;-;0
-Jaciara/MT;Jaciara (MT);5104807;5104807;25.647;Sim;1.046;0,06;Não;Não;1;-;0
-Jaciara/MT;São Pedro da Cipa (MT);5104807;5107404;4.158;Não;1.046;0,37;Não;Sim;1;-;0
-Jales/SP;Dirce Reis (SP);3524808;3513850;1.689;Não;260;0,22;Não;Não;1;-;0
-Jales/SP;Jales (SP);3524808;3524808;47.012;Sim;548;0,02;Não;Não;1;-;0
-Jales/SP;Vitória Brasil (SP);3524808;3556958;1.737;Não;292;0,24;Não;Sim;1;-;0
-Janaúba/MG;Janaúba (MG);3135100;3135100;66.803;Sim;2.260;0,05;Sim;Não;1;-;0
-Janaúba/MG;Nova Porteirinha (MG);3135100;3145059;7.398;Não;2.260;0,42;Sim;Não;1;-;0
-Jandaia do Sul/PR;Cambira (PR);4112108;4103800;7.236;Não;383;0,07;Sim;Não;1;-;0
-Jandaia do Sul/PR;Jandaia do Sul (PR);4112108;4112108;20.269;Sim;383;0,03;Sim;Não;1;-;0
-Jaraguá do Sul/SC;Corupá (SC);4208906;4204509;13.852;Não;2.035;0,19;Não;Não;1;-;0
-Jaraguá do Sul/SC;Guaramirim (SC);4208906;4206504;35.172;Não;6.670;0,26;Sim;Não;1;-;0
-Jaraguá do Sul/SC;Jaraguá do Sul (SC);4208906;4208906;143.123;Sim;11.625;0,10;Sim;Não;1;-;0
-Jaraguá do Sul/SC;Schroeder (SC);4208906;4217402;15.316;Não;4.718;0,38;Sim;Não;1;-;0
-Jardim/MS;Guia Lopes da Laguna (MS);5005004;5004106;10.366;Não;894;0,13;Sim;Não;1;-;0
-Jardim/MS;Jardim (MS);5005004;5005004;24.346;Sim;894;0,05;Sim;Não;1;-;0
-Joaçaba - Herval d´Oeste/SC;Herval d´Oeste (SC);4209003;4206702;21.239;Sim;7.403;0,48;Sim;Não;1;-;0
-Joaçaba - Herval d´Oeste/SC;Joaçaba (SC);4209003;4209003;27.020;Sim;8.037;0,37;Sim;Não;1;-;0
-Joaçaba - Herval d´Oeste/SC;Luzerna (SC);4209003;4210035;5.600;Não;1.562;0,36;Sim;Sim;1;-;0
-João Monlevade/MG;Bela Vista de Minas (MG);3136207;3106002;10.004;Não;1.513;0,24;Sim;Não;1;-;0
-João Monlevade/MG;João Monlevade (MG);3136207;3136207;73.610;Sim;1.513;0,03;Sim;Não;1;-;0
-João Pessoa/PB;Bayeux (PB);2507507;2501807;99.716;Não;21.880;0,33;Sim;Não;1;-;0
-João Pessoa/PB;Cabedelo (PB);2507507;2503209;57.944;Não;16.677;0,42;Sim;Não;1;-;0
-João Pessoa/PB;Conde (PB);2507507;2504603;21.400;Não;2.954;0,21;Não;Não;1;-;0
-João Pessoa/PB;João Pessoa (PB);2507507;2507507;723.515;Sim;51.052;0,10;Sim;Não;1;-;0
-João Pessoa/PB;Lucena (PB);2507507;2508604;11.730;Não;1.076;0,15;Sim;Não;2;Via Cabedelo (PB);0
-João Pessoa/PB;Santa Rita (PB);2507507;2513703;120.310;Não;19.277;0,25;Sim;Não;1;-;0
-Joinville/SC;Araquari (SC);4209102;4201307;24.810;Não;5.713;0,31;Sim;Não;1;-;0
-Joinville/SC;Joinville (SC);4209102;4209102;515.288;Sim;5.713;0,01;Sim;Não;1;-;0
-Juazeiro do Norte/CE;Barbalha (CE);2307304;2301901;55.323;Não;5.991;0,16;Sim;Não;1;-;0
-Juazeiro do Norte/CE;Crato (CE);2307304;2304202;121.428;Não;9.501;0,11;Sim;Não;1;-;0
-Juazeiro do Norte/CE;Juazeiro do Norte (CE);2307304;2307304;249.939;Sim;13.440;0,08;Sim;Não;1;-;0
-Jucás - Cariús/CE;Cariús (CE);2307403;2303303;18.567;Sim;246;0,02;Sim;Não;1;-;0
-Jucás - Cariús/CE;Jucás (CE);2307403;2307403;23.807;Sim;246;0,02;Sim;Não;1;-;0
-Juiz de Fora/MG;Chácara (MG);3136702;3115904;2.792;Não;318;0,17;Não;Não;1;-;1
-Juiz de Fora/MG;Ewbank da Câmara (MG);3136702;3125002;3.753;Não;755;0,32;Não;Não;1;-;0
-Juiz de Fora/MG;Juiz de Fora (MG);3136702;3136702;516.247;Sim;3.729;0,01;Não;Não;1;-;0
-Juiz de Fora/MG;Matias Barbosa (MG);3136702;3140803;13.435;Não;2.678;0,29;Não;Não;1;-;0
-Juiz de Fora/MG;Simão Pereira (MG);3136702;3167509;2.537;Não;280;0,19;Não;Não;1;-;1
-Jundiaí/SP;Cabreúva (SP);3525904;3508405;41.604;Não;5.645;0,19;Não;Não;1;-;1
-Jundiaí/SP;Campo Limpo Paulista (SP);3525904;3509601;74.074;Não;18.588;0,35;Sim;Não;1;-;0
-Jundiaí/SP;Itupeva (SP);3525904;3524006;44.859;Não;9.705;0,29;Sim;Não;1;-;0
-Jundiaí/SP;Jarinu (SP);3525904;3525201;23.847;Não;2.285;0,13;Sim;Não;2;Via Campo Limpo (SP);0
-Jundiaí/SP;Jundiaí (SP);3525904;3525904;370.126;Sim;59.670;0,22;Sim;Não;1;-;0
-Jundiaí/SP;Louveira (SP);3525904;3527306;37.125;Não;5.388;0,18;Sim;Não;1;-;0
-Jundiaí/SP;Várzea Paulista (SP);3525904;3556503;107.089;Não;35.727;0,48;Sim;Não;1;-;0
-Lagoa da Prata/MG;Japaraíba (MG);3137205;3135308;3.939;Não;494;0,18;Não;Não;1;-;0
-Lagoa da Prata/MG;Lagoa da Prata (MG);3137205;3137205;45.984;Sim;494;0,01;Não;Não;1;-;0
-Lagoa Vermelha/RS;Capão Bonito do Sul (RS);4311304;4304622;1.754;Não;194;0,18;Não;Sim;1;-;0
-Lagoa Vermelha/RS;Lagoa Vermelha (RS);4311304;4311304;27.525;Sim;194;0,01;Não;Não;1;-;0
-Lajeado/RS;Arroio do Meio (RS);4311403;4301008;18.783;Não;3.031;0,19;Sim;Não;1;-;0
-Lajeado/RS;Bom Retiro do Sul (RS);4311403;4302402;11.472;Não;1.753;0,20;Não;Não;1;-;1
-Lajeado/RS;Cruzeiro do Sul (RS);4311403;4306205;12.320;Não;3.442;0,34;Sim;Não;1;-;0
-Lajeado/RS;Estrela (RS);4311403;4307807;30.619;Não;5.883;0,24;Sim;Não;1;-;0
-Lajeado/RS;Fazenda Vilanova (RS);4311403;4308078;3.697;Não;499;0,17;Não;Sim;1;-;2
-Lajeado/RS;Forquetinha (RS);4311403;4308433;2.479;Não;449;0,21;Não;Sim;1;-;0
-Lajeado/RS;Lajeado (RS);4311403;4311403;71.445;Sim;12.476;0,22;Sim;Não;1;-;0
-Lajeado/RS;Santa Clara do Sul (RS);4311403;4316758;5.697;Não;1.329;0,28;Não;Sim;1;-;0
-Laranjal do Jari/AP - Almeirim/PA;Almeirim (PA);1600279;1500503;33.614;Sim;5.263;0,22;Não;Não;1;-;0
-Laranjal do Jari/AP - Almeirim/PA;Laranjal do Jari (AP);1600279;1600279;39.942;Sim;4.556;0,16;Não;Não;1;-;0
-Laranjal do Jari/AP - Almeirim/PA;Vitória do Jari (AP);1600279;1600808;12.428;Não;1.541;0,18;Não;Sim;1;-;1
-Lavras/MG;Ijaci (MG);3138203;3130408;5.859;Não;1.046;0,26;Não;Não;1;-;0
-Lavras/MG;Itumirim (MG);3138203;3134301;6.139;Não;694;0,19;Não;Não;1;-;0
-Lavras/MG;Lavras (MG);3138203;3138203;92.200;Sim;2.399;0,04;Não;Não;1;-;0
-Lavras/MG;Ribeirão Vermelho (MG);3138203;3154705;3.826;Não;711;0,29;Não;Não;1;-;0
-Leme/SP;Leme (SP);3526704;3526704;91.756;Sim;718;0,01;Não;Não;1;-;0
-Leme/SP;Santa Cruz da Conceição (SP);3526704;3546207;4.002;Não;718;0,24;Não;Não;1;-;0
-Limeira/SP;Iracemápolis (SP);3526902;3521408;20.029;Não;2.722;0,20;Não;Não;1;-;0
-Limeira/SP;Limeira (SP);3526902;3526902;276.022;Sim;2.722;0,01;Não;Não;1;-;0
-Londrina/PR;Cambé (PR);4113700;4103701;96.733;Não;23.768;0,33;Sim;Não;1;-;0
-Londrina/PR;Ibiporã (PR);4113700;4109807;48.198;Não;7.940;0,24;Sim;Não;1;-;0
-Londrina/PR;Jataizinho (PR);4113700;4112702;11.875;Não;2.276;0,29;Não;Não;1;-;1
-Londrina/PR;Londrina (PR);4113700;4113700;506.701;Sim;31.344;0,08;Sim;Não;1;-;0
-Lorena/SP;Canas (SP);3527207;3509957;4.385;Não;552;0,19;Sim;Sim;1;-;0
-Lorena/SP;Lorena (SP);3527207;3527207;82.537;Sim;552;0,01;Sim;Não;1;-;0
-Macaé - Rio das Ostras/RJ;Carapebus (RJ);3302403;3300936;13.359;Não;2.627;0,29;Não;Sim;1;-;0
-Macaé - Rio das Ostras/RJ;Casimiro de Abreu (RJ);3302403;3301306;35.347;Não;6.527;0,25;Sim;Não;1;-;0
-Macaé - Rio das Ostras/RJ;Conceição de Macabu (RJ);3302403;3301405;21.211;Não;3.064;0,20;Não;Não;1;-;0
-Macaé - Rio das Ostras/RJ;Macaé (RJ);3302403;3302403;206.728;Sim;20.670;0,14;Não;Não;1;-;0
-Macaé - Rio das Ostras/RJ;Rio das Ostras (RJ);3302403;3304524;105.676;Sim;17.870;0,23;Sim;Sim;1;-;0
-Macapá/AP;Macapá (AP);1600303;1600303;398.204;Sim;8.594;0,03;Sim;Não;1;-;0
-Macapá/AP;Santana (AP);1600303;1600600;101.262;Não;8.594;0,12;Sim;Sim;1;-;0
-Maceió/AL;Barra de Santo Antônio (AL);2704302;2700508;14.230;Não;1.216;0,14;Sim;Não;2;Via Paripueira (AL);0
-Maceió/AL;Coqueiro Seco (AL);2704302;2702207;5.526;Não;931;0,28;Não;Não;1;-;1
-Maceió/AL;Maceió (AL);2704302;2704302;932.748;Sim;22.990;0,04;Sim;Não;1;-;0
-Maceió/AL;Marechal Deodoro (AL);2704302;2704708;45.977;Não;5.648;0,19;Sim;Não;1;-;0
-Maceió/AL;Messias (AL);2704302;2705200;15.682;Não;2.162;0,23;Não;Não;1;-;1
-Maceió/AL;Paripueira (AL);2704302;2706448;11.347;Não;1.971;0,26;Não;Sim;1;-;0
-Maceió/AL;Rio Largo (AL);2704302;2707701;68.481;Não;11.714;0,28;Sim;Não;1;-;0
-Maceió/AL;Santa Luzia do Norte (AL);2704302;2707909;6.891;Não;1.068;0,25;Sim;Não;1;-;0
-Maceió/AL;Satuba (AL);2704302;2708907;14.603;Não;3.826;0,44;Sim;Não;1;-;0
-Mafra/SC - Rio Negro/PR;Mafra (SC);4210100;4210100;52.912;Sim;5.969;0,15;Sim;Não;1;-;0
-Mafra/SC - Rio Negro/PR;Rio Negro (PR);4210100;4122305;31.274;Sim;5.969;0,26;Sim;Não;1;-;0
-Mamanguape - Rio Tinto/PB;Mamanguape (PB);2508901;2508901;42.303;Sim;1.471;0,06;Sim;Não;1;-;0
-Mamanguape - Rio Tinto/PB;Rio Tinto (PB);2508901;2512903;22.976;Sim;1.471;0,10;Sim;Não;1;-;0
-Maragogi/AL - São José da Coroa Grande/PE;Maragogi (AL);2704500;2704500;28.749;Sim;844;0,04;Sim;Não;1;-;0
-Maragogi/AL - São José da Coroa Grande/PE;São José da Coroa Grande (PE);2704500;2613404;18.180;Sim;844;0,08;Sim;Não;1;-;0
-Marília/SP;Marília (SP);3529005;3529005;216.745;Sim;2.753;0,02;Não;Não;1;-;0
-Marília/SP;Oriente (SP);3529005;3534104;6.097;Não;887;0,22;Não;Não;1;-;0
-Marília/SP;Vera Cruz (SP);3529005;3556602;10.769;Não;1.872;0,24;Não;Não;1;-;0
-Maringá/PR;Floresta (PR);4115200;4107900;5.931;Não;1.237;0,28;Não;Não;1;-;0
-Maringá/PR;Iguaraçu (PR);4115200;4110003;3.982;Não;611;0,20;Não;Não;1;-;0
-Maringá/PR;Itambé (PR);4115200;4111100;5.979;Não;784;0,19;Não;Não;1;-;1
-Maringá/PR;Mandaguaçu (PR);4115200;4114104;19.781;Não;4.135;0,29;Não;Não;1;-;0
-Maringá/PR;Marialva (PR);4115200;4114807;31.959;Não;4.309;0,18;Não;Não;1;-;1
-Maringá/PR;Maringá (PR);4115200;4115200;357.077;Sim;45.406;0,17;Sim;Não;1;-;0
-Maringá/PR;Ourizona (PR);4115200;4117404;3.380;Não;671;0,27;Não;Não;1;-;0
-Maringá/PR;Paiçandu (PR);4115200;4117503;35.936;Não;10.757;0,40;Sim;Não;1;-;0
-Maringá/PR;Presidente Castelo Branco (PR);4115200;4120408;4.784;Não;710;0,20;Não;Não;1;-;0
-Maringá/PR;Sarandi (PR);4115200;4126256;82.847;Não;25.420;0,42;Sim;Não;1;-;0
-Matão/SP;Dobrada (SP);3529302;3514007;7.939;Não;987;0,17;Não;Não;1;-;0
-Matão/SP;Matão (SP);3529302;3529302;76.786;Sim;987;0,02;Não;Não;1;-;0
-Matinhos - Pontal do Paraná/PR;Matinhos (PR);4115705;4115705;29.428;Sim;426;0,02;Sim;Não;1;-;0
-Matinhos - Pontal do Paraná/PR;Pontal do Paraná (PR);4115705;4119954;20.920;Sim;426;0,03;Sim;Não;1;-;0
-Matozinhos/MG;Capim Branco (MG);3141108;3112505;8.881;Não;1.399;0,23;Sim;Não;1;-;0
-Matozinhos/MG;Matozinhos (MG);3141108;3141108;33.955;Sim;1.399;0,06;Sim;Não;1;-;0
-Maurilândia/GO;Maurilândia (GO);5213004;5213004;11.521;Sim;1.027;0,13;Não;Não;1;-;0
-Maurilândia/GO;Porteirão (GO);5213004;5218052;3.347;Não;486;0,20;Não;Não;1;-;1
-Maurilândia/GO;Turvelândia (GO);5213004;5221551;4.399;Não;1.007;0,32;Não;Não;1;-;0
-Mendes - Engenheiro Paulo de Frontin/RJ;Engenheiro Paulo de Frontin (RJ);3302809;3301801;13.237;Sim;814;0,10;Sim;Não;1;-;0
-Mendes - Engenheiro Paulo de Frontin/RJ;Mendes (RJ);3302809;3302809;17.935;Sim;814;0,07;Sim;Não;1;-;0
-Miracema do Tocantins/TO;Miracema do Tocantins (TO);1713205;1713205;20.684;Sim;184;0,01;Sim;Não;1;-;0
-Miracema do Tocantins/TO;Tocantínia (TO);1713205;1721109;6.736;Não;184;0,05;Sim;Não;1;-;0
-Mogi Guaçu - Mogi Mirim/SP;Estiva Gerbi (SP);3530706;3557303;10.044;Não;2.201;0,32;Sim;Sim;1;-;0
-Mogi Guaçu - Mogi Mirim/SP;Mogi Guaçu (SP);3530706;3530706;137.245;Sim;8.296;0,09;Sim;Não;1;-;0
-Mogi Guaçu - Mogi Mirim/SP;Mogi Mirim (SP);3530706;3530805;86.505;Sim;6.327;0,10;Sim;Não;1;-;0
-Morros - Axixá/MA;Axixá (MA);2107100;2101103;11.407;Sim;151;0,02;Sim;Não;1;-;0
-Morros - Axixá/MA;Morros (MA);2107100;2107100;17.783;Sim;151;0,01;Sim;Não;1;-;0
-Natal/RN;Extremoz (RN);2408102;2403608;24.569;Não;10.804;0,68;Sim;Não;1;-;0
-Natal/RN;Macaíba (RN);2408102;2407104;69.467;Não;12.066;0,26;Não;Não;1;-;1
-Natal/RN;Natal (RN);2408102;2408102;803.739;Sim;87.188;0,15;Sim;Não;1;-;0
-Natal/RN;Parnamirim (RN);2408102;2403251;202.456;Não;55.379;0,38;Sim;Não;1;-;0
-Natal/RN;São Gonçalo do Amarante (RN);2408102;2412005;87.668;Não;25.089;0,43;Sim;Não;1;-;0
-Nhamundá/AM;Faro (PA);1303007;1503002;8.177;Não;333;0,06;Não;Não;1;-;0
-Nhamundá/AM;Nhamundá (AM);1303007;1303007;18.278;Sim;333;0,03;Não;Não;1;-;0
-Nova Granada/SP;Nova Granada (SP);3533007;3533007;19.180;Sim;1.538;0,12;Não;Não;1;-;0
-Nova Granada/SP;Onda Verde (SP);3533007;3534005;3.884;Não;1.538;0,58;Não;Não;1;-;0
-Nova Londrina - Marilena/PR;Marilena (PR);4117107;4115002;6.858;Sim;889;0,18;Não;Não;1;-;0
-Nova Londrina - Marilena/PR;Nova Londrina (PR);4117107;4117107;13.067;Sim;889;0,09;Não;Não;1;-;0
-Nova Serrana/MG;Leandro Ferreira (MG);3145208;3138302;3.205;Não;465;0,21;Não;Não;1;-;0
-Nova Serrana/MG;Nova Serrana (MG);3145208;3145208;73.699;Sim;465;0,01;Não;Não;1;-;0
-Novo Hamburgo - São Leopoldo/RS;Campo Bom (RS);4313409;4303905;60.074;Não;11.370;0,24;Sim;Não;1;-;0
-Novo Hamburgo - São Leopoldo/RS;Estância Velha (RS);4313409;4307609;42.574;Não;12.426;0,37;Sim;Não;1;-;0
-Novo Hamburgo - São Leopoldo/RS;Novo Hamburgo (RS);4313409;4313409;238.940;Sim;39.936;0,23;Sim;Não;1;-;0
-Novo Hamburgo - São Leopoldo/RS;Portão (RS);4313409;4314803;30.920;Não;5.037;0,22;Sim;Não;1;-;0
-Novo Hamburgo - São Leopoldo/RS;São Leopoldo (RS);4313409;4318705;214.087;Sim;24.793;0,16;Sim;Não;1;-;0
-Otacílio Costa/SC;Otacílio Costa (SC);4211751;4211751;16.337;Sim;352;0,03;Não;Não;1;-;0
-Otacílio Costa/SC;Palmeira (SC);4211751;4212056;2.373;Não;352;0,21;Não;Sim;1;-;0
-Ourinhos/SP;Canitar (SP);3534708;3510153;4.369;Não;777;0,25;Não;Não;1;-;0
-Ourinhos/SP;Ourinhos (SP);3534708;3534708;103.035;Sim;777;0,01;Não;Não;1;-;0
-Paraguaçu Paulista/SP;Borá (SP);3535507;3507209;805;Não;527;0,91;Não;Não;1;-;0
-Paraguaçu Paulista/SP;Paraguaçu Paulista (SP);3535507;3535507;42.278;Sim;527;0,02;Não;Não;1;-;0
-Paranacity/PR;Cruzeiro do Sul (PR);4118105;4106704;4.563;Não;685;0,21;Sim;Não;1;-;0
-Paranacity/PR;Paranacity (PR);4118105;4118105;10.250;Sim;685;0,09;Sim;Não;1;-;0
-Paranavaí/PR;Nova Aliança do Ivaí (PR);4118402;4116505;1.431;Não;188;0,18;Não;Não;1;-;0
-Paranavaí/PR;Paranavaí (PR);4118402;4118402;81.590;Sim;188;0,00;Não;Não;1;-;0
-Paraopeba/MG;Caetanópolis (MG);3147402;3109907;10.218;Não;1.451;0,21;Sim;Não;1;-;0
-Paraopeba/MG;Paraopeba (MG);3147402;3147402;22.563;Sim;1.451;0,09;Sim;Não;1;-;0
-Passos/SP;Fortaleza de Minas (MG);3147907;3126307;4.098;Não;450;0,17;Não;Não;1;-;0
-Passos/SP;Passos (MG);3147907;3147907;106.290;Sim;450;0,01;Não;Não;1;-;0
-Pato Branco/PR;Pato Branco (PR);4118501;4118501;72.370;Sim;959;0,02;Não;Não;1;-;0
-Pato Branco/PR;Vitorino (PR);4118501;4128708;6.513;Não;959;0,20;Não;Não;1;-;0
-Patos/PB;Patos (PB);2510808;2510808;100.674;Sim;219;0,00;Não;Não;1;-;0
-Patos/PB;Quixabá (PB);2510808;2512606;1.699;Não;219;0,20;Não;Não;1;-;0
-Paty do Alferes - Miguel Pereira/RJ;Miguel Pereira (RJ);3303856;3302908;24.642;Sim;2.568;0,15;Sim;Não;1;-;0
-Paty do Alferes - Miguel Pereira/RJ;Paty do Alferes (RJ);3303856;3303856;26.359;Sim;2.568;0,14;Sim;Não;1;-;0
-Paulo de Faria - Orindiúva/SP;Orindiúva (SP);3536604;3534203;5.675;Sim;919;0,22;Não;Não;1;-;0
-Paulo de Faria - Orindiúva/SP;Paulo de Faria (SP);3536604;3536604;8.589;Sim;919;0,15;Não;Não;1;-;0
-Pedreiras/MA;Pedreiras (MA);2108207;2108207;39.448;Sim;2.057;0,08;Sim;Não;1;-;0
-Pedreiras/MA;Trizidela do Vale (MA);2108207;2112233;18.953;Não;2.057;0,17;Sim;Sim;1;-;0
-Pedro Afonso/TO;Bom Jesus do Tocantins (TO);1716505;1703305;3.768;Não;819;0,31;Sim;Sim;1;-;0
-Pedro Afonso/TO;Pedro Afonso (TO);1716505;1716505;11.539;Sim;982;0,12;Sim;Não;1;-;0
-Pedro Afonso/TO;Tupirama (TO);1716505;1721257;1.574;Não;175;0,17;Sim;Não;1;-;0
-Pedro Osório - Cerrito/RS;Cerrito (RS);4314209;4305124;6.402;Sim;376;0,09;Sim;Sim;1;-;0
-Pedro Osório - Cerrito/RS;Pedro Osório (RS);4314209;4314209;7.811;Sim;376;0,08;Sim;Não;1;-;0
-Pelotas/RS;Arroio do Padre (RS);4314407;4301073;2.730;Não;471;0,24;Não;Sim;1;-;0
-Pelotas/RS;Capão do Leão (RS);4314407;4304663;24.298;Não;5.428;0,36;Sim;Não;1;-;0
-Pelotas/RS;Pelotas (RS);4314407;4314407;328.275;Sim;5.879;0,03;Sim;Não;1;-;0
-Penedo/AL;Neópolis (SE);2706703;2804409;18.506;Não;375;0,03;Sim;Não;1;-;0
-Penedo/AL;Penedo (AL);2706703;2706703;60.378;Sim;375;0,01;Sim;Não;1;-;0
-Petrolina/PE - Juazeiro/BA;Juazeiro (BA);2611101;2918407;197.965;Sim;13.286;0,10;Sim;Não;1;-;0
-Petrolina/PE - Juazeiro/BA;Petrolina (PE);2611101;2611101;293.962;Sim;13.286;0,06;Sim;Não;1;-;0
-Petrópolis/RJ;Areal (RJ);3303906;3300225;11.423;Não;1.464;0,19;Não;Não;1;-;0
-Petrópolis/RJ;Petrópolis (RJ);3303906;3303906;295.917;Sim;1.464;0,01;Não;Não;1;-;0
-Picos/PI;Geminiano (PI);2208007;2204352;5.475;Não;691;0,20;Não;Sim;1;-;0
-Picos/PI;Picos (PI);2208007;2208007;73.414;Sim;691;0,01;Não;Não;1;-;0
-Piracicaba/SP;Charqueada (SP);3538709;3511706;15.085;Não;2.296;0,22;Não;Não;1;-;0
-Piracicaba/SP;Piracicaba (SP);3538709;3538709;364.571;Sim;8.169;0,03;Não;Não;1;-;0
-Piracicaba/SP;Rio das Pedras (SP);3538709;3544004;29.501;Não;4.650;0,22;Não;Não;1;-;0
-Piracicaba/SP;Saltinho (SP);3538709;3545159;7.059;Não;1.681;0,32;Não;Sim;1;-;0
-Pirajuí/SP;Balbinos (SP);3538907;3504701;3.702;Não;256;0,19;Não;Não;1;-;0
-Pirajuí/SP;Pirajuí (SP);3538907;3538907;22.704;Sim;256;0,02;Não;Não;1;-;0
-Pirapora - Buritizeiro/MG;Buritizeiro (MG);3151206;3109402;26.922;Sim;2.459;0,13;Sim;Não;1;-;0
-Pirapora - Buritizeiro/MG;Pirapora (MG);3151206;3151206;53.368;Sim;2.459;0,06;Sim;Não;1;-;0
-Pirapozinho/SP;Narandiba (SP);3539202;3532207;4.288;Não;779;0,26;Não;Não;1;-;0
-Pirapozinho/SP;Pirapozinho (SP);3539202;3539202;24.694;Sim;779;0,04;Não;Não;1;-;0
-Piratuba - Ipira/SC;Ipira (SC);4213104;4207601;4.752;Não;681;0,18;Sim;Não;1;-;0
-Piratuba - Ipira/SC;Piratuba (SC);4213104;4213104;4.786;Sim;681;0,18;Sim;Não;1;-;0
-Pires do Rio/GO;Palmelo (GO);5217401;5215801;2.335;Não;288;0,18;Não;Não;1;-;0
-Pires do Rio/GO;Pires do Rio (GO);5217401;5217401;28.762;Sim;685;0,03;Não;Não;1;-;0
-Pires do Rio/GO;Urutaí (GO);5217401;5221809;3.074;Não;413;0,19;Não;Não;1;-;0
-Pitangui/MG;Conceição do Pará (MG);3151404;3117603;5.158;Não;805;0,23;Não;Não;1;-;0
-Pitangui/MG;Pitangui (MG);3151404;3151404;25.311;Sim;805;0,04;Não;Não;1;-;0
-Planura/MG - Colômbia/SP;Colômbia (SP);3151602;3512100;5.994;Sim;1.209;0,28;Sim;Não;1;-;0
-Planura/MG - Colômbia/SP;Planura (MG);3151602;3151602;10.384;Sim;1.209;0,17;Sim;Não;1;-;0
-Pompéia/SP;Pompéia (SP);3540002;3540002;19.964;Sim;676;0,05;Não;Não;1;-;0
-Pompéia/SP;Quintana (SP);3540002;3542008;6.004;Não;676;0,17;Não;Não;1;-;0
-Ponta Grossa/PR;Carambeí (PR);4119905;4104659;19.163;Não;2.742;0,20;Não;Sim;1;-;0
-Ponta Grossa/PR;Ponta Grossa (PR);4119905;4119905;311.611;Sim;2.742;0,01;Não;Não;1;-;0
-Ponte Nova/MG;Oratórios (MG);3152105;3145851;4.493;Não;551;0,18;Não;Sim;1;-;0
-Ponte Nova/MG;Ponte Nova (MG);3152105;3152105;57.390;Sim;551;0,01;Não;Não;1;-;0
-Ponto Belo - Mucurici/ES;Mucurici (ES);3204252;3203601;5.655;Sim;246;0,06;Sim;Não;1;-;0
-Ponto Belo - Mucurici/ES;Ponto Belo (ES);3204252;3204252;6.979;Sim;246;0,06;Sim;Sim;1;-;0
-Porto Alegre/RS;Alvorada (RS);4314902;4300604;195.673;Não;65.188;0,48;Sim;Não;1;-;0
-Porto Alegre/RS;Cachoeirinha (RS);4314902;4303103;118.278;Não;50.275;0,59;Sim;Não;1;-;0
-Porto Alegre/RS;Canoas (RS);4314902;4304606;323.827;Não;87.891;0,38;Sim;Não;1;-;0
-Porto Alegre/RS;Eldorado do Sul (RS);4314902;4306767;34.343;Não;13.737;0,54;Sim;Sim;1;-;0
-Porto Alegre/RS;Esteio (RS);4314902;4307708;80.755;Não;31.362;0,55;Sim;Não;1;-;0
-Porto Alegre/RS;Glorinha (RS);4314902;4309050;6.891;Não;1.369;0,28;Não;Sim;1;-;0
-Porto Alegre/RS;Gravataí (RS);4314902;4309209;255.660;Não;58.760;0,34;Sim;Não;1;-;0
-Porto Alegre/RS;Guaíba (RS);4314902;4309308;95.204;Não;21.065;0,32;Não;Não;1;-;0
-Porto Alegre/RS;Nova Santa Rita (RS);4314902;4313375;22.716;Não;6.260;0,38;Não;Sim;2;Via Canoas (RS);0
-Porto Alegre/RS;Porto Alegre (RS);4314902;4314902;1.409.351;Sim;268.777;0,26;Sim;Não;1;-;0
-Porto Alegre/RS;Sapucaia do Sul (RS);4314902;4320008;130.957;Não;33.464;0,37;Sim;Não;1;-;0
-Porto Alegre/RS;Viamão (RS);4314902;4323002;239.384;Não;74.160;0,44;Sim;Não;1;-;0
-Porto Velho/RO;Candeias do Jamari (RO);1100205;1100809;19.779;Não;3.402;0,25;Não;Sim;1;-;0
-Porto Velho/RO;Porto Velho (RO);1100205;1100205;428.527;Sim;3.402;0,01;Não;Não;1;-;0
-Pouso Alto/MG;Pouso Alto (MG);3152600;3152600;6.213;Sim;163;0,04;Sim;Não;1;-;0
-Pouso Alto/MG;São Sebastião do Rio Verde (MG);3152600;3164902;2.110;Sim;163;0,13;Sim;Não;1;-;0
-Praia Grande/SC;Mampituba (RS);4213807;4311734;3.003;Não;205;0,09;Sim;Não;1;-;0
-Praia Grande/SC;Praia Grande (SC);4213807;4213807;7.267;Sim;205;0,04;Sim;Não;1;-;0
-Presidente Juscelino - Cachoeira Grande/MA;Cachoeira Grande (MA);2109205;2102374;8.446;Sim;120;0,02;Não;Não;1;-;0
-Presidente Juscelino - Cachoeira Grande/MA;Presidente Juscelino (MA);2109205;2109205;11.541;Sim;120;0,02;Não;Não;1;-;0
-Presidente Prudente/SP;Alfredo Marcondes (SP);3541406;3500808;3.891;Não;842;0,34;Não;Não;1;-;0
-Presidente Prudente/SP;Álvares Machado (SP);3541406;3501301;23.513;Não;6.273;0,38;Sim;Não;1;-;0
-Presidente Prudente/SP;Anhumas (SP);3541406;3502408;3.738;Não;774;0,29;Não;Não;1;-;0
-Presidente Prudente/SP;Caiabu (SP);3541406;3508900;4.072;Não;735;0,29;Não;Não;1;-;0
-Presidente Prudente/SP;Emilianópolis (SP);3541406;3515129;3.020;Não;405;0,19;Não;Sim;1;-;2
-Presidente Prudente/SP;Indiana (SP);3541406;3520608;4.825;Não;895;0,27;Não;Não;1;-;0
-Presidente Prudente/SP;Presidente Bernardes (SP);3541406;3541208;13.570;Não;1.749;0,19;Não;Não;1;-;1
-Presidente Prudente/SP;Presidente Prudente (SP);3541406;3541406;207.610;Sim;14.407;0,10;Sim;Não;1;-;0
-Presidente Prudente/SP;Regente Feijó (SP);3541406;3542404;18.494;Não;3.724;0,28;Não;Não;1;-;0
-Presidente Prudente/SP;Santo Expedito (SP);3541406;3548302;2.803;Não;402;0,23;Não;Não;1;-;0
-Presidente Prudente/SP;Taciba (SP);3541406;3552908;5.714;Não;777;0,20;Não;Não;1;-;1
-Presidente Prudente/SP;Tarabai (SP);3541406;3553906;6.607;Não;801;0,18;Não;Não;1;-;2
-Presidente Venceslau/SP;Caiuá (SP);3541505;3509106;5.039;Não;666;0,22;Não;Não;1;-;0
-Presidente Venceslau/SP;Presidente Venceslau (SP);3541505;3541505;37.910;Sim;666;0,03;Não;Não;1;-;0
-Propriá/SE;Propriá (SE);2805703;2805703;28.451;Sim;465;0,02;Não;Não;1;-;0
-Propriá/SE;Telha (SE);2805703;2807303;2.957;Não;465;0,25;Não;Não;1;-;0
-Recife/PE;Abreu e Lima (PE);2611606;2600054;94.429;Não;27.867;0,46;Sim;Não;1;-;0
-Recife/PE;Araçoiaba (PE);2611606;2601052;18.156;Não;2.356;0,22;Não;Sim;1;-;1
-Recife/PE;Cabo de Santo Agostinho (PE);2611606;2602902;185.025;Não;34.129;0,29;Sim;Não;1;-;0
-Recife/PE;Camaragibe (PE);2611606;2603454;144.466;Não;39.109;0,42;Sim;Não;1;-;0
-Recife/PE;Igarassu (PE);2611606;2606804;102.021;Não;21.565;0,33;Sim;Não;2;Via Abreu e Lima (PE);0
-Recife/PE;Ilha de Itamaracá (PE);2611606;2607604;21.884;Não;3.139;0,25;Não;Não;1;-;1
-Recife/PE;Ipojuca (PE);2611606;2607208;80.637;Não;16.124;0,31;Não;Não;1;-;1
-Recife/PE;Itapissuma (PE);2611606;2607752;23.769;Não;5.268;0,35;Sim;Não;3;Via Igarassu (PE);0
-Recife/PE;Jaboatão dos Guararapes (PE);2611606;2607901;644.620;Não;148.004;0,34;Sim;Não;1;-;0
-Recife/PE;Moreno (PE);2611606;2609402;56.696;Não;8.255;0,24;Não;Não;1;-;1
-Recife/PE;Olinda (PE);2611606;2609600;377.779;Não;113.601;0,46;Sim;Não;1;-;0
-Recife/PE;Paudalho (PE);2611606;2610608;51.357;Não;5.485;0,18;Não;Não;1;-;1
-Recife/PE;Paulista (PE);2611606;2610707;300.466;Não;86.539;0,44;Sim;Não;1;-;0
-Recife/PE;Recife (PE);2611606;2611606;1.537.704;Sim;338.674;0,32;Sim;Não;1;-;0
-Recife/PE;São Lourenço da Mata (PE);2611606;2613701;102.895;Não;20.735;0,33;Sim;Não;1;-;0
-Redenção - Acarape/CE;Acarape (CE);2311603;2300150;15.338;Sim;745;0,08;Sim;Sim;1;-;0
-Redenção - Acarape/CE;Redenção (CE);2311603;2311603;26.415;Sim;745;0,04;Sim;Não;1;-;0
-Resende/RJ;Itatiaia (RJ);3304201;3302254;28.783;Não;5.591;0,28;Sim;Sim;1;-;0
-Resende/RJ;Porto Real (RJ);3304201;3304110;16.592;Não;6.725;0,57;Sim;Sim;1;-;0
-Resende/RJ;Quatis (RJ);3304201;3304128;12.793;Não;2.055;0,24;Sim;Não;2;Via Porto Real (RJ);0
-Resende/RJ;Resende (RJ);3304201;3304201;119.769;Sim;10.317;0,12;Sim;Não;1;-;0
-Ribeirão Preto/SP;Brodowski (SP);3543402;3507803;21.107;Não;3.025;0,19;Não;Não;1;-;0
-Ribeirão Preto/SP;Cravinhos (SP);3543402;3513108;31.691;Não;5.738;0,24;Não;Não;1;-;0
-Ribeirão Preto/SP;Jardinópolis (SP);3543402;3525102;37.661;Não;5.385;0,21;Sim;Não;1;-;0
-Ribeirão Preto/SP;Ribeirão Preto (SP);3543402;3543402;604.682;Sim;21.899;0,05;Sim;Não;1;-;0
-Ribeirão Preto/SP;Santa Cruz da Esperança (SP);3543402;3546256;1.953;Não;289;0,20;Não;Não;1;-;1
-Ribeirão Preto/SP;Serra Azul (SP);3543402;3551405;11.256;Não;2.069;0,28;Não;Não;1;-;0
-Ribeirão Preto/SP;Serrana (SP);3543402;3551504;38.878;Não;7.723;0,27;Não;Não;1;-;0
-Rio Claro/SP;Ipeúna (SP);3543907;3521101;6.016;Não;1.001;0,22;Não;Não;1;-;0
-Rio Claro/SP;Rio Claro (SP);3543907;3543907;186.253;Sim;3.951;0,03;Sim;Não;1;-;0
-Rio Claro/SP;Santa Gertrudes (SP);3543907;3546702;21.634;Não;3.064;0,20;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Belford Roxo (RJ);3304557;3300456;469.332;Não;131.294;0,41;Sim;Sim;1;-;0
-Rio de Janeiro/RJ;Duque de Caxias (RJ);3304557;3301702;855.048;Não;189.399;0,33;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Guapimirim (RJ);3304557;3301850;51.483;Não;8.736;0,25;Não;Sim;1;-;1
-Rio de Janeiro/RJ;Itaboraí (RJ);3304557;3301900;218.008;Não;49.269;0,33;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Itaguaí (RJ);3304557;3302007;109.091;Não;21.090;0,29;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Japeri (RJ);3304557;3302270;95.492;Não;23.522;0,39;Sim;Sim;1;-;0
-Rio de Janeiro/RJ;Magé (RJ);3304557;3302502;227.322;Não;40.673;0,27;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Mangaratiba (RJ);3304557;3302601;36.456;Não;6.702;0,26;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Maricá (RJ);3304557;3302700;127.461;Não;23.124;0,27;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Mesquita (RJ);3304557;3302858;168.376;Não;60.154;0,53;Sim;Sim;1;-;0
-Rio de Janeiro/RJ;Nilópolis (RJ);3304557;3303203;157.425;Não;60.172;0,58;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Niterói (RJ);3304557;3303302;487.562;Não;236.479;0,69;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Nova Iguaçu (RJ);3304557;3303500;796.257;Não;190.455;0,36;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Paracambi (RJ);3304557;3303609;47.124;Não;6.743;0,24;Não;Não;1;-;1
-Rio de Janeiro/RJ;Queimados (RJ);3304557;3304144;137.962;Não;38.145;0,42;Sim;Sim;1;-;0
-Rio de Janeiro/RJ;Rio de Janeiro (RJ);3304557;3304557;6.320.446;Sim;713.562;0,16;Sim;Não;1;-;0
-Rio de Janeiro/RJ;São Gonçalo (RJ);3304557;3304904;999.728;Não;219.971;0,32;Sim;Não;1;-;0
-Rio de Janeiro/RJ;São João de Meriti (RJ);3304557;3305109;458.673;Não;136.558;0,44;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Saquarema (RJ);3304557;3305505;74.234;Não;3.300;0,07;Sim;Não;1;-;0
-Rio de Janeiro/RJ;Seropédica (RJ);3304557;3305554;78.186;Não;20.613;0,38;Não;Sim;1;-;0
-Rio de Janeiro/RJ;Tanguá (RJ);3304557;3305752;30.732;Não;5.059;0,25;Sim;Sim;1;-;0
-Rio do Sul/SC;Agronômica (SC);4214805;4200309;4.904;Não;450;0,11;Sim;Não;1;-;0
-Rio do Sul/SC;Lontras (SC);4214805;4209904;10.244;Não;1.478;0,18;Não;Não;1;-;0
-Rio do Sul/SC;Rio do Sul (SC);4214805;4214805;61.198;Sim;1.924;0,04;Sim;Não;1;-;0
-Riolândia/SP;Pontes Gestal (SP);3544202;3540309;2.518;Não;605;0,35;Não;Não;1;-;0
-Riolândia/SP;Riolândia (SP);3544202;3544202;10.575;Sim;605;0,09;Não;Não;1;-;0
-Salvador do Sul/RS;Salvador do Sul (RS);4316501;4316501;6.747;Sim;591;0,10;Sim;Não;1;-;0
-Salvador do Sul/RS;São Pedro da Serra (RS);4316501;4319356;3.315;Não;591;0,22;Sim;Sim;1;-;0
-Salvador/BA;Camaçari (BA);2927408;2905701;242.970;Não;45.590;0,27;Não;Não;1;-;0
-Salvador/BA;Candeias (BA);2927408;2906501;83.158;Não;16.422;0,30;Não;Não;1;-;1
-Salvador/BA;Dias d´Ávila (BA);2927408;2910057;66.440;Não;11.604;0,26;Sim;Não;2;Via Camaçari (BA);0
-Salvador/BA;Lauro de Freitas (BA);2927408;2919207;163.449;Não;49.269;0,41;Sim;Não;1;-;0
-Salvador/BA;Madre de Deus (BA);2927408;2919926;17.376;Não;6.004;0,55;Não;Sim;1;-;0
-Salvador/BA;Mata de São João (BA);2927408;2921005;40.183;Não;6.031;0,23;Não;Não;1;-;1
-Salvador/BA;Salvador (BA);2927408;2927408;2.675.656;Sim;97.908;0,05;Sim;Não;1;-;0
-Salvador/BA;São Francisco do Conde (BA);2927408;2929206;33.183;Não;7.424;0,33;Não;Não;1;-;1
-Salvador/BA;São Sebastião do Passé (BA);2927408;2929503;42.153;Não;4.830;0,18;Não;Não;1;-;2
-Salvador/BA;Simões Filho (BA);2927408;2930709;118.047;Não;23.918;0,30;Sim;Não;1;-;0
-Santa Adélia - Palmares Paulista - Ariranha/SP;Ariranha (SP);3545605;3503703;8.547;Sim;2.787;0,47;Não;Não;1;-;0
-Santa Adélia - Palmares Paulista - Ariranha/SP;Palmares Paulista (SP);3545605;3535101;10.934;Sim;1.458;0,18;Não;Não;1;-;0
-Santa Adélia - Palmares Paulista - Ariranha/SP;Santa Adélia (SP);3545605;3545605;14.333;Sim;1.459;0,15;Não;Não;1;-;0
-Santa Cruz do Sul/RS;Santa Cruz do Sul (RS);4316808;4316808;118.374;Sim;3.760;0,04;Não;Não;1;-;0
-Santa Cruz do Sul/RS;Vera Cruz (RS);4316808;4322707;23.983;Não;3.760;0,21;Não;Não;1;-;0
-Santa Fé do Sul/SP;Rubinéia (SP);3546603;3544509;2.862;Não;452;0,24;Não;Não;1;-;0
-Santa Fé do Sul/SP;Santa Clara d´Oeste (SP);3546603;3546108;2.084;Não;347;0,24;Não;Não;1;-;0
-Santa Fé do Sul/SP;Santa Fé do Sul (SP);3546603;3546603;29.239;Sim;2.110;0,10;Sim;Não;1;-;0
-Santa Fé do Sul/SP;Santa Rita d´Oeste (SP);3546603;3547403;2.543;Não;397;0,23;Não;Não;1;-;0
-Santa Fé do Sul/SP;Santana da Ponte Pensa (SP);3546603;3547205;1.641;Não;195;0,17;Não;Não;1;-;1
-Santa Fé do Sul/SP;Três Fronteiras (SP);3546603;3554904;5.427;Não;937;0,26;Sim;Não;1;-;0
-Santa Helena - Turilândia/MA;Santa Helena (MA);2109809;2109809;39.110;Sim;653;0,02;Sim;Não;1;-;0
-Santa Helena - Turilândia/MA;Turilândia (MA);2109809;2112456;22.846;Sim;653;0,04;Sim;Não;1;-;0
-Santa Maria da Vitória/BA;Santa Maria da Vitória (BA);2928109;2928109;40.309;Sim;1.229;0,05;Sim;Não;1;-;0
-Santa Maria da Vitória/BA;São Félix do Coribe (BA);2928109;2929057;13.048;Não;1.229;0,14;Sim;Sim;1;-;0
-Santa Maria/RS;Itaara (RS);4316907;4310538;5.010;Não;871;0,26;Não;Sim;1;-;0
-Santa Maria/RS;Santa Maria (RS);4316907;4316907;261.031;Sim;871;0,00;Não;Não;1;-;0
-Santo Ângelo/RS;Entre-Ijuís (RS);4317509;4306932;8.938;Não;1.041;0,16;Sim;Sim;1;-;0
-Santo Ângelo/RS;Santo Ângelo (RS);4317509;4317509;76.275;Sim;1.041;0,02;Sim;Não;1;-;0
-Santo Antônio de Pádua/RJ;Pirapetinga (MG);3304706;3151107;10.364;Não;1.467;0,21;Não;Não;1;-;0
-Santo Antônio de Pádua/RJ;Santo Antônio de Pádua (RJ);3304706;3304706;40.589;Sim;1.467;0,05;Não;Não;1;-;0
-Santo Antônio do Aracanguá/SP;Nova Luzitânia (SP);3548054;3533304;3.441;Não;449;0,19;Não;Não;1;-;0
-Santo Antônio do Aracanguá/SP;Santo Antônio do Aracanguá (SP);3548054;3548054;7.626;Sim;449;0,08;Não;Não;1;-;0
-Santo Antônio/RN;Santo Antônio (RN);2411502;2411502;22.216;Sim;269;0,02;Sim;Não;1;-;0
-Santo Antônio/RN;Serrinha (RN);2411502;2413508;6.581;Não;269;0,06;Sim;Não;1;-;0
-São Bento do Sul - Rio Negrinho/SC;Rio Negrinho (SC);4215802;4215000;39.846;Sim;1.385;0,05;Sim;Não;1;-;0
-São Bento do Sul - Rio Negrinho/SC;São Bento do Sul (SC);4215802;4215802;74.801;Sim;1.385;0,02;Sim;Não;1;-;0
-São Carlos - Águas de Chapecó/SC;Águas de Chapecó (SC);4216008;4200507;6.110;Sim;659;0,14;Sim;Não;1;-;0
-São Carlos - Águas de Chapecó/SC;São Carlos (SC);4216008;4216008;10.291;Sim;659;0,08;Sim;Não;1;-;0
-São Carlos/SP;Ibaté (SP);3548906;3519303;30.734;Não;3.741;0,18;Não;Não;1;-;0
-São Carlos/SP;São Carlos (SP);3548906;3548906;221.950;Sim;3.741;0,02;Não;Não;1;-;0
-São Gabriel/RS;Santa Margarida do Sul (RS);4318309;4316972;2.352;Não;387;0,26;Não;Sim;1;-;0
-São Gabriel/RS;São Gabriel (RS);4318309;4318309;60.425;Sim;387;0,01;Não;Não;1;-;0
-São Geraldo do Araguaia/PA;São Geraldo do Araguaia (PA);1507458;1507458;25.587;Sim;258;0,02;Sim;Não;1;-;0
-São Geraldo do Araguaia/PA;Xambioá (TO);1507458;1722107;11.484;Não;258;0,03;Sim;Não;1;-;0
-São João da Boa Vista/SP;Águas da Prata (SP);3549102;3500402;7.584;Não;1.015;0,20;Sim;Não;1;-;0
-São João da Boa Vista/SP;São João da Boa Vista (SP);3549102;3549102;83.639;Sim;1.015;0,02;Sim;Não;1;-;0
-São João del Rei/MG;Coronel Xavier Chaves (MG);3162500;3119708;3.301;Não;346;0,17;Não;Não;1;-;1
-São João del Rei/MG;Santa Cruz de Minas (MG);3162500;3157336;7.865;Não;3.030;0,57;Sim;Sim;1;-;0
-São João del Rei/MG;São João del Rei (MG);3162500;3162500;84.469;Sim;4.310;0,08;Sim;Não;1;-;0
-São João del Rei/MG;Tiradentes (MG);3162500;3168804;6.961;Não;1.256;0,24;Não;Não;1;-;0
-São José de Mipibu - Nísia Floresta/RN;Nísia Floresta (RN);2412203;2408201;23.784;Sim;1.664;0,11;Sim;Não;1;-;0
-São José de Mipibu - Nísia Floresta/RN;São José de Mipibu (RN);2412203;2412203;39.776;Sim;1.664;0,07;Sim;Não;1;-;0
-São José do Rio Preto/SP;Bady Bassitt (SP);3549805;3504602;14.603;Não;4.108;0,36;Sim;Não;1;-;0
-São José do Rio Preto/SP;Bálsamo (SP);3549805;3504800;8.160;Não;1.606;0,28;Não;Não;1;-;0
-São José do Rio Preto/SP;Cedral (SP);3549805;3511300;7.972;Não;1.723;0,31;Sim;Não;1;-;0
-São José do Rio Preto/SP;Guapiaçu (SP);3549805;3517505;17.869;Não;3.540;0,28;Sim;Não;1;-;0
-São José do Rio Preto/SP;Ipiguá (SP);3549805;3521150;4.463;Não;1.254;0,43;Não;Sim;1;-;0
-São José do Rio Preto/SP;Jaci (SP);3549805;3524501;5.657;Não;1.206;0,30;Não;Não;1;-;1
-São José do Rio Preto/SP;Mirassol (SP);3549805;3530300;53.792;Não;7.817;0,21;Sim;Não;1;-;0
-São José do Rio Preto/SP;Mirassolândia (SP);3549805;3530409;4.295;Não;759;0,26;Não;Não;1;-;0
-São José do Rio Preto/SP;Neves Paulista (SP);3549805;3532504;8.772;Não;1.540;0,26;Não;Não;1;-;1
-São José do Rio Preto/SP;Nova Aliança (SP);3549805;3532801;5.891;Não;1.156;0,28;Não;Não;1;-;0
-São José do Rio Preto/SP;São José do Rio Preto (SP);3549805;3549805;408.258;Sim;20.046;0,07;Sim;Não;1;-;0
-São José do Rio Preto/SP;Uchoa (SP);3549805;3555604;9.471;Não;1.355;0,21;Não;Não;1;-;0
-São José dos Campos/SP;Caçapava (SP);3549904;3508504;84.752;Não;6.979;0,12;Sim;Não;1;-;0
-São José dos Campos/SP;Jacareí (SP);3549904;3524402;211.214;Não;26.174;0,18;Sim;Não;1;-;0
-São José dos Campos/SP;Jambeiro (SP);3549904;3524907;5.349;Não;1.066;0,28;Não;Não;1;-;0
-São José dos Campos/SP;Monteiro Lobato (SP);3549904;3531704;4.120;Não;679;0,24;Não;Não;1;-;0
-São José dos Campos/SP;Santa Branca (SP);3549904;3546009;13.763;Não;1.983;0,21;Não;Não;1;-;1
-São José dos Campos/SP;São José dos Campos (SP);3549904;3549904;629.921;Sim;32.625;0,07;Sim;Não;1;-;0
-São Lourenço/MG;São Lourenço (MG);3163706;3163706;41.657;Sim;1.026;0,03;Não;Não;1;-;0
-São Lourenço/MG;Soledade de Minas (MG);3163706;3167806;5.676;Não;1.026;0,27;Não;Não;1;-;0
-São Luís/MA;Paço do Lumiar (MA);2111300;2107506;105.121;Não;27.414;0,38;Sim;Não;1;-;0
-São Luís/MA;Raposa (MA);2111300;2109452;26.327;Não;3.085;0,17;Sim;Sim;1;-;0
-São Luís/MA;São José de Ribamar (MA);2111300;2111201;163.045;Não;39.227;0,35;Sim;Não;1;-;0
-São Luís/MA;São Luís (MA);2111300;2111300;1.014.837;Sim;59.394;0,08;Sim;Não;1;-;0
-São Paulo/SP;Arujá (SP);3550308;3503901;74.905;Não;26.607;0,49;Sim;Não;1;-;0
-São Paulo/SP;Barueri (SP);3550308;3505708;240.749;Não;143.227;0,80;Sim;Não;1;-;0
-São Paulo/SP;Biritiba-Mirim (SP);3550308;3506607;28.575;Não;4.775;0,24;Não;Não;1;-;1
-São Paulo/SP;Caieiras (SP);3550308;3509007;86.529;Não;28.741;0,45;Sim;Não;1;-;0
-São Paulo/SP;Cajamar (SP);3550308;3509205;64.114;Não;14.120;0,31;Não;Não;1;-;1
-São Paulo/SP;Carapicuíba (SP);3550308;3510609;369.584;Não;116.482;0,45;Sim;Não;1;-;0
-São Paulo/SP;Cotia (SP);3550308;3513009;201.150;Não;65.792;0,43;Sim;Não;1;-;0
-São Paulo/SP;Diadema (SP);3550308;3513801;386.089;Não;134.708;0,48;Sim;Não;1;-;0
-São Paulo/SP;Embu (SP);3550308;3515004;240.230;Não;76.341;0,44;Sim;Não;1;-;0
-São Paulo/SP;Embu-Guaçu (SP);3550308;3515103;62.769;Não;11.033;0,25;Sim;Não;1;-;0
-São Paulo/SP;Ferraz de Vasconcelos (SP);3550308;3515707;168.306;Não;58.308;0,48;Sim;Não;1;-;0
-São Paulo/SP;Francisco Morato (SP);3550308;3516309;154.472;Não;40.815;0,38;Sim;Não;1;-;0
-São Paulo/SP;Franco da Rocha (SP);3550308;3516408;131.604;Não;35.410;0,41;Sim;Não;1;-;0
-São Paulo/SP;Guarulhos (SP);3550308;3518800;1.221.979;Não;182.900;0,20;Sim;Não;1;-;0
-São Paulo/SP;Itapecerica da Serra (SP);3550308;3522208;152.614;Não;44.052;0,40;Sim;Não;1;-;0
-São Paulo/SP;Itapevi (SP);3550308;3522505;200.769;Não;59.964;0,43;Sim;Não;1;-;0
-São Paulo/SP;Itaquaquecetuba (SP);3550308;3523107;321.770;Não;82.528;0,38;Sim;Não;1;-;0
-São Paulo/SP;Jandira (SP);3550308;3525003;108.344;Não;48.781;0,60;Sim;Não;1;-;0
-São Paulo/SP;Mairiporã (SP);3550308;3528502;80.956;Não;11.899;0,21;Sim;Não;1;-;0
-São Paulo/SP;Mauá (SP);3550308;3529401;417.064;Não;118.864;0,41;Sim;Não;1;-;0
-São Paulo/SP;Mogi das Cruzes (SP);3550308;3530607;387.779;Não;61.387;0,23;Sim;Não;1;-;0
-São Paulo/SP;Osasco (SP);3550308;3534401;666.740;Não;202.932;0,42;Sim;Não;1;-;0
-São Paulo/SP;Pirapora do Bom Jesus (SP);3550308;3539103;15.733;Não;3.419;0,31;Não;Não;1;-;1
-São Paulo/SP;Poá (SP);3550308;3539806;106.013;Não;43.082;0,58;Sim;Não;1;-;0
-São Paulo/SP;Ribeirão Pires (SP);3550308;3543303;113.068;Não;41.394;0,54;Sim;Não;1;-;0
-São Paulo/SP;Rio Grande da Serra (SP);3550308;3544103;43.974;Não;16.952;0,55;Sim;Não;1;-;0
-São Paulo/SP;Salesópolis (SP);3550308;3545001;15.635;Não;1.982;0,18;Não;Não;1;-;2
-São Paulo/SP;Santa Isabel (SP);3550308;3546801;50.453;Não;7.520;0,22;Não;Não;1;-;1
-São Paulo/SP;Santana de Parnaíba (SP);3550308;3547304;108.813;Não;43.295;0,52;Sim;Não;1;-;0
-São Paulo/SP;Santo André (SP);3550308;3547809;676.407;Não;245.614;0,51;Sim;Não;1;-;0
-São Paulo/SP;São Bernardo do Campo (SP);3550308;3548708;765.463;Não;253.897;0,45;Sim;Não;1;-;0
-São Paulo/SP;São Caetano do Sul (SP);3550308;3548807;149.263;Não;107.654;1,01;Sim;Não;1;-;0
-São Paulo/SP;São Lourenço da Serra (SP);3550308;3549953;13.973;Não;2.448;0,23;Não;Sim;1;-;1
-São Paulo/SP;São Paulo (SP);3550308;3550308;11.253.503;Sim;1.100.697;0,13;Sim;Não;1;-;0
-São Paulo/SP;Suzano (SP);3550308;3552502;262.480;Não;64.151;0,36;Sim;Não;1;-;0
-São Paulo/SP;Taboão da Serra (SP);3550308;3552809;244.528;Não;90.936;0,50;Sim;Não;1;-;0
-São Paulo/SP;Vargem Grande Paulista (SP);3550308;3556453;42.997;Não;11.049;0,36;Sim;Não;1;-;0
-São Pedro/SP;Águas de São Pedro (SP);3550407;3500600;2.707;Não;1.602;0,87;Sim;Não;1;-;0
-São Pedro/SP;São Pedro (SP);3550407;3550407;31.662;Sim;1.602;0,07;Sim;Não;1;-;0
-São Roque - Mairinque/SP;Mairinque (SP);3550605;3528403;43.223;Sim;3.746;0,13;Sim;Não;1;-;0
-São Roque - Mairinque/SP;São Roque (SP);3550605;3550605;78.821;Sim;3.746;0,07;Sim;Não;1;-;0
-São Sebastião da Amoreira/PR;Nova América da Colina (PR);4126009;4116604;3.478;Não;618;0,25;Não;Não;1;-;0
-São Sebastião da Amoreira/PR;São Sebastião da Amoreira (PR);4126009;4126009;8.626;Sim;618;0,10;Não;Não;1;-;0
-Sapiranga/RS;Araricá (RS);4319901;4300877;4.864;Não;1.038;0,28;Sim;Sim;1;-;0
-Sapiranga/RS;Nova Hartz (RS);4319901;4313060;18.346;Não;884;0,06;Sim;Sim;2;Via Araricá (RS);0
-Sapiranga/RS;Sapiranga (RS);4319901;4319901;74.985;Sim;1.166;0,02;Sim;Não;1;-;0
-Serranos - Seritinga/MG;Seritinga (MG);3167004;3166402;1.789;Não;65;0,05;Sim;Não;1;-;0
-Serranos - Seritinga/MG;Serranos (MG);3167004;3167004;1.995;Sim;65;0,05;Sim;Não;1;-;0
-Sete Lagoas/MG;Inhaúma (MG);3167202;3131000;5.760;Não;739;0,18;Não;Não;1;-;0
-Sete Lagoas/MG;Prudente de Morais (MG);3167202;3153608;9.573;Não;1.743;0,27;Sim;Não;1;-;0
-Sete Lagoas/MG;Sete Lagoas (MG);3167202;3167202;214.152;Sim;2.470;0,02;Sim;Não;1;-;0
-Sobral/CE;Forquilha (CE);2312908;2304350;21.786;Não;2.592;0,17;Não;Não;1;-;0
-Sobral/CE;Sobral (CE);2312908;2312908;188.233;Sim;2.592;0,02;Não;Não;1;-;0
-Solânea - Bananeiras/PB;Bananeiras (PB);2516003;2501500;21.851;Sim;1.089;0,08;Sim;Não;1;-;0
-Solânea - Bananeiras/PB;Solânea (PB);2516003;2516003;26.693;Sim;1.089;0,07;Sim;Não;1;-;0
-Sombrio/SC;Balneário Gaivota (SC);4217709;4202073;8.234;Não;1.242;0,22;Sim;Sim;1;-;0
-Sombrio/SC;Sombrio (SC);4217709;4217709;26.613;Sim;1.242;0,06;Sim;Não;1;-;0
-Sorocaba/SP;Alumínio (SP);3552205;3501152;16.839;Não;2.832;0,24;Sim;Não;1;-;0
-Sorocaba/SP;Araçoiaba da Serra (SP);3552205;3502903;27.299;Não;4.639;0,24;Sim;Não;1;-;0
-Sorocaba/SP;Salto de Pirapora (SP);3552205;3545308;40.132;Não;6.516;0,24;Não;Não;1;-;0
-Sorocaba/SP;Sorocaba (SP);3552205;3552205;586.625;Sim;38.271;0,09;Sim;Não;1;-;0
-Sorocaba/SP;Votorantim (SP);3552205;3557006;108.809;Não;27.900;0,37;Sim;Não;1;-;0
-Soure - Salvaterra/PA;Salvaterra (PA);1507904;1506302;20.183;Sim;348;0,03;Não;Não;1;-;0
-Soure - Salvaterra/PA;Soure (PA);1507904;1507904;23.001;Sim;348;0,02;Não;Não;1;-;0
-Taquara - Parobé - Igrejinha/RS;Igrejinha (RS);4321204;4310108;31.660;Sim;5.855;0,23;Sim;Não;1;-;0
-Taquara - Parobé - Igrejinha/RS;Parobé (RS);4321204;4314050;51.502;Sim;5.982;0,15;Sim;Não;1;-;0
-Taquara - Parobé - Igrejinha/RS;Taquara (RS);4321204;4321204;54.643;Sim;7.510;0,19;Sim;Não;1;-;0
-Taquara - Parobé - Igrejinha/RS;Três Coroas (RS);4321204;4321709;23.848;Não;2.845;0,15;Sim;Não;1;-;0
-Taquaruçu do Sul - Vista Alegre/RS;Taquaruçu do Sul (RS);4321329;4321329;2.966;Sim;34;0,01;Sim;Não;1;-;0
-Taquaruçu do Sul - Vista Alegre/RS;Vista Alegre (RS);4321329;4323507;2.832;Sim;34;0,02;Sim;Não;1;-;0
-Taubaté - Pindamonhangaba/SP;Pindamonhangaba (SP);3554102;3538006;146.995;Não;10.625;0,10;Sim;Não;1;-;0
-Taubaté - Pindamonhangaba/SP;Redenção da Serra (SP);3554102;3542305;3.873;Não;491;0,23;Não;Não;1;-;0
-Taubaté - Pindamonhangaba/SP;Taubaté (SP);3554102;3554102;278.686;Sim;19.600;0,10;Sim;Não;1;-;0
-Taubaté - Pindamonhangaba/SP;Tremembé (SP);3554102;3554805;40.984;Não;10.924;0,41;Sim;Não;1;-;0
-Teresina/PI;Teresina (PI);2211001;2211001;814.230;Sim;24.460;0,04;Sim;Não;1;-;0
-Teresina/PI;Timon (MA);2211001;2112209;155.460;Não;24.460;0,22;Sim;Não;1;-;0
-Teutônia/RS;Paverama (RS);4321451;4314159;8.044;Não;1.207;0,19;Não;Não;1;-;0
-Teutônia/RS;Teutônia (RS);4321451;4321451;27.272;Sim;1.702;0,07;Não;Não;1;-;0
-Teutônia/RS;Westfalia (RS);4321451;4323770;2.793;Não;507;0,21;Não;Sim;1;-;0
-Tocantinópolis/TO - Porto Franco/MA;Porto Franco (MA);1721208;2109007;21.530;Sim;186;0,01;Sim;Não;1;-;0
-Tocantinópolis/TO - Porto Franco/MA;Tocantinópolis (TO);1721208;1721208;22.619;Sim;186;0,01;Sim;Não;1;-;0
-Toledo/PR;Ouro Verde do Oeste (PR);4127700;4117453;5.692;Não;925;0,23;Não;Sim;1;-;0
-Toledo/PR;Toledo (PR);4127700;4127700;119.313;Sim;925;0,01;Não;Não;1;-;0
-Torixoréu/MT - Baliza/GO;Baliza (GO);5108204;5203104;3.714;Não;120;0,05;Sim;Não;1;-;0
-Torixoréu/MT - Baliza/GO;Torixoréu (MT);5108204;5108204;4.071;Sim;120;0,05;Sim;Não;1;-;0
-Torres/RS;Passo de Torres (SC);4321501;4212254;6.627;Não;1.517;0,32;Sim;Não;1;-;0
-Torres/RS;Torres (RS);4321501;4321501;34.656;Sim;1.517;0,06;Sim;Não;1;-;0
-Tramandaí - Osório/RS;Imbé (RS);4321600;4310330;17.670;Não;2.613;0,23;Sim;Sim;1;-;0
-Tramandaí - Osório/RS;Osório (RS);4321600;4313508;40.906;Sim;2.090;0,07;Sim;Não;1;-;0
-Tramandaí - Osório/RS;Tramandaí (RS);4321600;4321600;41.585;Sim;3.701;0,14;Sim;Não;1;-;0
-Três Rios - Paraíba do Sul/RJ;Chiador (MG);3306008;3116209;2.785;Não;342;0,18;Não;Não;1;-;1
-Três Rios - Paraíba do Sul/RJ;Comendador Levy Gasparian (RJ);3306008;3300951;8.180;Não;1.730;0,30;Não;Sim;1;-;0
-Três Rios - Paraíba do Sul/RJ;Paraíba do Sul (RJ);3306008;3303708;41.084;Sim;2.559;0,09;Sim;Não;1;-;0
-Três Rios - Paraíba do Sul/RJ;Santana do Deserto (MG);3306008;3158607;3.860;Não;630;0,27;Não;Não;2;Via Comendador Levy Gasparian (RJ);0
-Três Rios - Paraíba do Sul/RJ;Três Rios (RJ);3306008;3306008;77.432;Sim;4.137;0,08;Não;Não;1;-;0
-Tubarão - Laguna/SC;Capivari de Baixo (SC);4218707;4203956;21.674;Não;7.702;0,49;Sim;Sim;1;-;0
-Tubarão - Laguna/SC;Gravatal (SC);4218707;4206207;10.635;Não;1.569;0,20;Sim;Não;1;-;0
-Tubarão - Laguna/SC;Laguna (SC);4218707;4209409;51.562;Sim;4.464;0,13;Sim;Não;1;-;0
-Tubarão - Laguna/SC;Tubarão (SC);4218707;4218707;97.235;Sim;10.345;0,14;Sim;Não;1;-;0
-Tupã/SP;Arco-Íris (SP);3555000;3503356;1.925;Não;257;0,20;Não;Sim;1;-;0
-Tupã/SP;Queiroz (SP);3555000;3541802;2.808;Não;448;0,25;Não;Não;1;-;0
-Tupã/SP;Tupã (SP);3555000;3555000;63.476;Sim;695;0,02;Não;Não;1;-;0
-Tupi Paulista/SP;Nova Guataporanga (SP);3555109;3533106;2.177;Não;303;0,21;Não;Não;1;-;0
-Tupi Paulista/SP;Tupi Paulista (SP);3555109;3555109;14.269;Sim;303;0,03;Não;Não;1;-;0
-Ubá/MG;Rodeiro (MG);3169901;3156304;6.867;Não;916;0,19;Não;Não;1;-;0
-Ubá/MG;Ubá (MG);3169901;3169901;101.519;Sim;916;0,01;Não;Não;1;-;0
-Ubaitaba - Aurelino Leal/BA;Aurelino Leal (BA);2932200;2902401;13.595;Sim;914;0,10;Sim;Não;1;-;0
-Ubaitaba - Aurelino Leal/BA;Ubaitaba (BA);2932200;2932200;20.691;Sim;914;0,07;Sim;Não;1;-;0
-Umuarama/PR;Maria Helena (PR);4128104;4114708;5.956;Não;743;0,17;Não;Não;1;-;0
-Umuarama/PR;Umuarama (PR);4128104;4128104;100.676;Sim;743;0,01;Não;Não;1;-;0
-União da Vitória/PR - Porto União/SC;Porto União (SC);4128203;4213609;33.493;Sim;9.194;0,37;Sim;Não;1;-;0
-União da Vitória/PR - Porto União/SC;União da Vitória (PR);4128203;4128203;52.735;Sim;9.194;0,24;Sim;Não;1;-;0
-Uruçuí/PI;Benedito Leite (MA);2211209;2101806;5.469;Não;399;0,11;Sim;Não;1;-;0
-Uruçuí/PI;Uruçuí (PI);2211209;2211209;20.149;Sim;399;0,03;Sim;Não;1;-;0
-Valença/RJ;Rio Preto (MG);3306107;3155900;5.292;Não;709;0,21;Não;Não;1;-;0
-Valença/RJ;Valença (RJ);3306107;3306107;71.843;Sim;709;0,01;Não;Não;1;-;0
-Valparaíso/SP;Bento de Abreu (SP);3556305;3506201;2.674;Não;525;0,29;Não;Não;1;-;0
-Valparaíso/SP;Valparaíso (SP);3556305;3556305;22.576;Sim;525;0,04;Não;Não;1;-;0
-Venâncio Aires/RS;Mato Leitão (RS);4322608;4312153;3.865;Não;779;0,25;Não;Sim;1;-;0
-Venâncio Aires/RS;Venâncio Aires (RS);4322608;4322608;65.946;Sim;779;0,02;Não;Não;1;-;0
-Vera Cruz - Itaparica/BA;Itaparica (BA);2933208;2916104;20.725;Sim;952;0,07;Sim;Não;1;-;0
-Vera Cruz - Itaparica/BA;Vera Cruz (BA);2933208;2933208;37.567;Sim;952;0,04;Sim;Não;1;-;0
-Veranópolis/RS;Veranópolis (RS);4322806;4322806;22.810;Sim;436;0,02;Não;Não;1;-;0
-Veranópolis/RS;Vila Flores (RS);4322806;4323309;3.207;Não;436;0,19;Não;Sim;1;-;0
-Viçosa/MG;Cajuri (MG);3171303;3110202;4.047;Não;452;0,17;Não;Não;1;-;0
-Viçosa/MG;Viçosa (MG);3171303;3171303;72.220;Sim;452;0,01;Não;Não;1;-;0
-Vitória/ES;Cariacica (ES);3205309;3201308;348.738;Sim;93.737;0,39;Sim;Não;1;-;0
-Vitória/ES;Fundão (ES);3205309;3202207;17.025;Não;2.763;0,23;Não;Não;1;-;1
-Vitória/ES;Serra (ES);3205309;3205002;409.267;Sim;86.763;0,30;Sim;Não;1;-;0
-Vitória/ES;Viana (ES);3205309;3205101;65.001;Não;20.578;0,48;Sim;Não;1;-;0
-Vitória/ES;Vila Velha (ES);3205309;3205200;414.586;Sim;94.509;0,32;Sim;Não;1;-;0
-Vitória/ES;Vitória (ES);3205309;3205309;327.801;Sim;162.936;0,66;Sim;Não;1;-;0
-Volta Redonda - Barra Mansa/RJ;Barra Mansa (RJ);3306305;3300407;177.813;Sim;20.812;0,17;Sim;Não;1;-;0
-Volta Redonda - Barra Mansa/RJ;Pinheiral (RJ);3306305;3303955;22.719;Não;3.787;0,27;Sim;Não;1;-;0
-Volta Redonda - Barra Mansa/RJ;Volta Redonda (RJ);3306305;3306305;257.803;Sim;24.057;0,14;Sim;Não;1;-;0
-Votuporanga/SP;Álvares Florence (SP);3557105;3501202;3.897;Não;609;0,25;Não;Não;1;-;0
-Votuporanga/SP;Parisi (SP);3557105;3536257;2.032;Não;464;0,32;Não;Sim;1;-;0
-Votuporanga/SP;Sebastianópolis do Sul (SP);3557105;3551306;3.031;Não;797;0,38;Não;Não;1;-;0
-Votuporanga/SP;Votuporanga (SP);3557105;3557105;84.692;Sim;1.766;0,03;Não;Não;1;-;0
+﻿Arranjo;municipio;CodArranjo;Código do município;População;Núcleo;Pessoas que trabalham e estudam em outros municípios do arranjo;Índice de integração do município com o arranjo;Mancha Urbanizada Contígua;Município desmembrado de outro do arranjo, após 1988;Nível;Via;Iteração
+Adamantina - Lucélia/SP;Adamantina;3500105;3500105;33.797;Sim;2.268;0,10;Sim;Não;1;-;0
+Adamantina - Lucélia/SP;Inúbia Paulista;3500105;3520806;3.63;Não;423;0,17;Não;Não;1;-;1
+Adamantina - Lucélia/SP;Lucélia;3500105;3527405;19.882;Sim;2.289;0,18;Sim;Não;1;-;0
+Adamantina - Lucélia/SP;Mariápolis;3500105;3528908;3.916;Não;499;0,20;Não;Não;1;-;1
+Adamantina - Lucélia/SP;Pracinha;3500105;3540853;2.858;Não;261;0,26;Não;Sim;1;-;0
+Adrianópolis/PR - Ribeira/SP;Adrianópolis;4100202;4100202;6.376;Sim;180;0,04;Sim;Não;1;-;0
+Adrianópolis/PR - Ribeira/SP;Ribeira;4100202;3542800;3.358;Sim;180;0,08;Sim;Não;1;-;0
+Águas de Lindóia/SP;Águas de Lindóia;3500501;3500501;17.266;Sim;458;0,04;Sim;Não;1;-;0
+Águas de Lindóia/SP;Lindóia;3500501;3527009;6.712;Não;458;0,09;Sim;Não;1;-;0
+Além Paraíba/MG - Sapucaia/RJ;Além Paraíba;3101508;3101508;34.349;Sim;2.197;0,09;Não;Não;1;-;0
+Além Paraíba/MG - Sapucaia/RJ;Sapucaia;3101508;3305406;17.525;Sim;2.197;0,20;Não;Não;1;-;0
+Alto Araguaia/MT;Alto Araguaia;5100300;5100300;15.644;Sim;1.435;0,13;Sim;Não;1;-;0
+Alto Araguaia/MT;Santa Rita do Araguaia;5100300;5219407;6.924;Não;1.435;0,30;Sim;Não;1;-;0
+Alto Parnaíba/MA - Santa Filomena/PI;Alto Parnaíba;2100501;2100501;10.766;Sim;166;0,02;Sim;Não;1;-;0
+Alto Parnaíba/MA - Santa Filomena/PI;Santa Filomena;2100501;2209203;6.096;Não;166;0,04;Sim;Não;1;-;0
+Alvorada do Norte - Simolândia/GO;Alvorada do Norte;5200803;5200803;8.084;Sim;418;0,07;Sim;Não;1;-;0
+Alvorada do Norte - Simolândia/GO;Simolândia;5200803;5220686;6.514;Sim;418;0,10;Sim;Não;1;-;0
+Amarante/PI - São Francisco do Maranhão/MA;Amarante;2200509;2200509;17.135;Sim;316;0,03;Sim;Não;1;-;0
+Amarante/PI - São Francisco do Maranhão/MA;São Francisco do Maranhão;2200509;2110906;12.146;Sim;316;0,04;Sim;Não;1;-;0
+Americana - Santa Bárbara d´Oeste/SP;Americana;3501608;3501608;210.638;Sim;41.118;0,27;Sim;Não;1;-;0
+Americana - Santa Bárbara d´Oeste/SP;Nova Odessa;3501608;3533403;51.242;Não;10.848;0,29;Sim;Não;1;-;0
+Americana - Santa Bárbara d´Oeste/SP;Santa Bárbara d´Oeste;3501608;3545803;180.009;Sim;35.56;0,27;Sim;Não;1;-;0
+Amparo/SP;Amparo;3501905;3501905;65.829;Sim;1.218;0,03;Sim;Não;1;-;0
+Amparo/SP;Monte Alegre do Sul;3501905;3531209;7.152;Não;1.218;0,23;Sim;Não;1;-;0
+Angical do Piauí/PI;Angical do Piauí;2200608;2200608;6.672;Sim;105;0,02;Sim;Não;1;-;0
+Angical do Piauí/PI;Santo Antônio dos Milagres;2200608;2209450;2.059;Não;105;0,08;Sim;Não;1;-;0
+Antônio Prado/RS;Antônio Prado;4300802;4300802;12.833;Sim;517;0,05;Sim;Não;1;-;0
+Antônio Prado/RS;Ipê;4300802;4310439;6.016;Não;517;0,11;Sim;Não;1;-;0
+Aquidauana - Anastácio/MS;Anastácio;5001102;5000708;23.835;Sim;3.572;0,21;Sim;Não;1;-;0
+Aquidauana - Anastácio/MS;Aquidauana;5001102;5001102;45.614;Sim;3.572;0,11;Sim;Não;1;-;0
+Aracaju/SE;Aracaju;2800308;2800308;571.149;Sim;86.935;0,21;Sim;Não;1;-;0
+Aracaju/SE;Barra dos Coqueiros;2800308;2800605;24.976;Não;5.362;0,35;Sim;Não;1;-;0
+Aracaju/SE;Carmópolis;2800308;2801504;13.503;Não;3.31;0,36;Não;Não;1;-;0
+Aracaju/SE;Divina Pastora;2800308;2802007;4.326;Não;761;0,26;Não;Não;1;-;2
+Aracaju/SE;General Maynard;2800308;2802502;2.929;Não;791;0,42;Não;Não;2;Via Carmópolis (SE);0
+Aracaju/SE;Laranjeiras;2800308;2803609;26.902;Não;5.004;0,30;Não;Não;1;-;0
+Aracaju/SE;Maruim;2800308;2804003;16.343;Não;2.348;0,23;Não;Não;1;-;1
+Aracaju/SE;Nossa Senhora do Socorro;2800308;2804805;160.827;Não;49.533;0,45;Sim;Não;1;-;0
+Aracaju/SE;Riachuelo;2800308;2805901;9.355;Não;1.359;0,22;Não;Não;1;-;1
+Aracaju/SE;Rosário do Catete;2800308;2806107;9.221;Não;2.257;0,37;Não;Não;1;-;1
+Aracaju/SE;São Cristóvão;2800308;2806701;78.864;Não;30.049;0,54;Não;Não;1;-;0
+Aracaju/SE;Siriri;2800308;2807204;8.004;Não;1.097;0,22;Não;Não;1;-;2
+Araranguá/SC;Araranguá;4201406;4201406;61.31;Sim;2.09;0,04;Não;Não;1;-;0
+Araranguá/SC;Balneário Arroio do Silva;4201406;4201950;9.586;Não;1.831;0,29;Não;Sim;1;-;0
+Araranguá/SC;Ermo;4201406;4205191;2.05;Não;281;0,18;Não;Não;1;-;0
+Araraquara/SP;Américo Brasiliense;3503208;3501707;34.478;Não;9.857;0,40;Sim;Não;1;-;0
+Araraquara/SP;Araraquara;3503208;3503208;208.662;Sim;11.927;0,08;Sim;Não;1;-;0
+Araraquara/SP;Gavião Peixoto;3503208;3516853;4.419;Não;1.595;0,46;Não;Sim;1;-;0
+Araraquara/SP;Rincão;3503208;3543709;10.414;Não;1.276;0,18;Não;Não;1;-;1
+Araraquara/SP;Santa Lúcia;3503208;3546900;8.248;Não;2.745;0,50;Sim;Não;1;-;0
+Araripina/PE;Araripina;2601102;2601102;77.302;Sim;1.523;0,03;Não;Não;1;-;0
+Araripina/PE;Marcolândia;2601102;2205953;7.812;Não;1.523;0,27;Não;Não;1;-;0
+Araruama/RJ;Araruama;3300209;3300209;112.008;Sim;1.151;0,02;Sim;Não;1;-;0
+Araruama/RJ;Iguaba Grande;3300209;3301876;22.851;Não;1.151;0,08;Sim;Não;1;-;0
+Araxá/MG;Araxá;3104007;3104007;93.672;Sim;835;0,01;Não;Não;1;-;0
+Araxá/MG;Tapira;3104007;3168101;4.112;Não;835;0,27;Não;Não;1;-;0
+Arenápolis - Nortelândia/MT;Arenápolis;5101308;5101308;10.316;Sim;265;0,04;Sim;Não;1;-;0
+Arenápolis - Nortelândia/MT;Nortelândia;5101308;5106000;6.436;Sim;265;0,06;Sim;Não;1;-;0
+Artur Nogueira/SP;Artur Nogueira;3503802;3503802;44.177;Sim;2.836;0,09;Não;Não;1;-;0
+Artur Nogueira/SP;Holambra;3503802;3519055;11.299;Não;2.836;0,31;Não;Sim;1;-;0
+Atibaia/SP;Atibaia;3504107;3504107;126.603;Sim;2.317;0,02;Sim;Não;1;-;0
+Atibaia/SP;Bom Jesus dos Perdões;3504107;3507100;19.708;Não;2.317;0,17;Sim;Não;1;-;0
+Bagé/RS;Aceguá;4301602;4300034;4.394;Não;616;0,21;Não;Sim;1;-;0
+Bagé/RS;Bagé;4301602;4301602;116.794;Sim;3.313;0,04;Não;Não;1;-;0
+Bagé/RS;Candiota;4301602;4304358;8.771;Não;2.153;0,34;Não;Sim;1;-;0
+Bagé/RS;Hulha Negra;4301602;4309654;6.043;Não;1.15;0,28;Não;Sim;1;-;0
+Baixada Santista/SP;Cubatão;3548500;3513504;118.72;Não;38.891;0,49;Sim;Não;1;-;0
+Baixada Santista/SP;Guarujá;3548500;3518701;290.752;Sim;25.816;0,13;Sim;Não;1;-;0
+Baixada Santista/SP;Itanhaém;3548500;3522109;87.057;Não;3.696;0,06;Sim;Não;3;Via Mongaguá (SP);0
+Baixada Santista/SP;Mongaguá;3548500;3531100;46.293;Não;4.585;0,16;Sim;Não;2;Via Praia Grande (SP);0
+Baixada Santista/SP;Praia Grande;3548500;3541000;262.051;Sim;37.89;0,21;Sim;Não;1;-;0
+Baixada Santista/SP;Santos;3548500;3548500;419.4;Sim;126.157;0,44;Sim;Não;1;-;0
+Baixada Santista/SP;São Vicente;3548500;3551009;332.445;Sim;89.899;0,40;Sim;Não;1;-;0
+Barbacena/MG;Alfredo Vasconcelos;3105608;3101631;6.075;Não;886;0,22;Não;Não;1;-;0
+Barbacena/MG;Antônio Carlos;3105608;3102902;11.114;Não;1.824;0,26;Não;Não;1;-;0
+Barbacena/MG;Barbacena;3105608;3105608;126.284;Sim;2.664;0,03;Não;Não;1;-;0
+Barra Bonita - Igaraçu do Tietê/SP;Barra Bonita;3505302;3505302;35.246;Sim;3.257;0,13;Sim;Não;1;-;0
+Barra Bonita - Igaraçu do Tietê/SP;Igaraçu do Tietê;3505302;3520004;23.362;Sim;3.257;0,20;Sim;Não;1;-;0
+Barra do Garças/MT;Aragarças;5101803;5201702;18.305;Não;4.771;0,37;Sim;Não;1;-;0
+Barra do Garças/MT;Barra do Garças;5101803;5101803;56.56;Sim;6.286;0,16;Sim;Não;1;-;0
+Barra do Garças/MT;Pontal do Araguaia;5101803;5106653;5.395;Não;2.463;0,62;Sim;Não;1;-;0
+Bauru/SP;Bauru;3506003;3506003;343.937;Sim;2.299;0,01;Sim;Não;1;-;0
+Bauru/SP;Piratininga;3506003;3539400;12.072;Não;2.299;0,26;Sim;Não;1;-;0
+Belém/PA;Ananindeua;1501402;1500800;471.98;Não;102.379;0,31;Sim;Não;1;-;0
+Belém/PA;Belém;1501402;1501402;1.393.399;Sim;113.341;0,12;Sim;Não;1;-;0
+Belém/PA;Benevides;1501402;1501501;51.651;Não;8.557;0,24;Sim;Não;1;-;0
+Belém/PA;Marituba;1501402;1504422;108.246;Não;22.081;0,30;Sim;Sim;1;-;0
+Belo Horizonte/MG;Belo Horizonte;3106200;3106200;2.375.151;Sim;452.064;0,26;Sim;Não;1;-;0
+Belo Horizonte/MG;Betim;3106200;3106705;378.089;Não;97.944;0,35;Sim;Não;1;-;0
+Belo Horizonte/MG;Brumadinho;3106200;3109006;33.973;Não;5.239;0,21;Não;Não;1;-;1
+Belo Horizonte/MG;Caeté;3106200;3110004;40.75;Não;5.02;0,19;Não;Não;1;-;1
+Belo Horizonte/MG;Confins;3106200;3117876;5.936;Não;4.264;0,93;Sim;Sim;1;-;0
+Belo Horizonte/MG;Contagem;3106200;3118601;603.442;Não;194.652;0,44;Sim;Não;1;-;0
+Belo Horizonte/MG;Esmeraldas;3106200;3124104;60.271;Não;14.671;0,35;Não;Não;1;-;1
+Belo Horizonte/MG;Ibirité;3106200;3129806;158.954;Não;56.968;0,51;Sim;Não;1;-;0
+Belo Horizonte/MG;Igarapé;3106200;3130101;34.851;Não;5.852;0,24;Sim;Não;3;Via São Joaquim de Bicas (MG);0
+Belo Horizonte/MG;Juatuba;3106200;3136652;22.202;Não;2.805;0,18;Não;Não;1;-;1
+Belo Horizonte/MG;Lagoa Santa;3106200;3137601;52.52;Não;10.124;0,26;Sim;Não;2;Via Vespasiano (MG);0
+Belo Horizonte/MG;Mário Campos;3106200;3140159;13.192;Não;3.311;0,36;Sim;Sim;3;Via Sarzedo (MG);0
+Belo Horizonte/MG;Nova Lima;3106200;3144805;80.998;Não;30.273;0,49;Sim;Não;1;-;0
+Belo Horizonte/MG;Pedro Leopoldo;3106200;3149309;58.74;Não;8.467;0,20;Sim;Não;2;Via Confins (MG);0
+Belo Horizonte/MG;Raposos;3106200;3153905;15.342;Não;4.819;0,48;Não;Não;1;-;0
+Belo Horizonte/MG;Ribeirão das Neves;3106200;3154606;296.317;Não;97.37;0,46;Não;Não;1;-;0
+Belo Horizonte/MG;Rio Acima;3106200;3154804;9.09;Não;1.764;0,27;Não;Não;1;-;1
+Belo Horizonte/MG;Sabará;3106200;3156700;126.269;Não;42.913;0,47;Sim;Não;1;-;0
+Belo Horizonte/MG;Santa Luzia;3106200;3157807;202.942;Não;55.031;0,38;Sim;Não;1;-;0
+Belo Horizonte/MG;São Joaquim de Bicas;3106200;3162922;25.537;Não;5.668;0,35;Sim;Sim;2;Via Betim (MG);0
+Belo Horizonte/MG;São José da Lapa;3106200;3162955;19.799;Não;5.784;0,40;Sim;Sim;1;-;0
+Belo Horizonte/MG;Sarzedo;3106200;3165537;25.814;Não;8.083;0,43;Sim;Sim;2;Via Betim (MG);0
+Belo Horizonte/MG;Vespasiano;3106200;3171204;104.527;Não;34.474;0,46;Sim;Não;1;-;0
+Bento Gonçalves/RS;Bento Gonçalves;4302105;4302105;107.278;Sim;4.707;0,06;Sim;Não;1;-;0
+Bento Gonçalves/RS;Carlos Barbosa;4302105;4304804;25.192;Não;2.814;0,13;Sim;Não;2;Via Garibaldi (RS);0
+Bento Gonçalves/RS;Garibaldi;4302105;4308607;30.689;Não;4.669;0,20;Sim;Não;1;-;0
+Bento Gonçalves/RS;Monte Belo do Sul;4302105;4312385;2.67;Não;546;0,28;Não;Sim;1;-;0
+Bicas/MG;Bicas;3106903;3106903;13.653;Sim;616;0,07;Sim;Não;1;-;0
+Bicas/MG;Guarará;3106903;3128501;3.929;Não;616;0,24;Sim;Não;1;-;0
+Birigui/SP;Birigui;3506508;3506508;108.728;Sim;2.126;0,03;Não;Não;1;-;0
+Birigui/SP;Braúna;3506508;3507704;5.021;Não;613;0,18;Não;Não;1;-;1
+Birigui/SP;Brejo Alegre;3506508;3507753;2.573;Não;877;0,48;Não;Sim;1;-;0
+Birigui/SP;Coroados;3506508;3512506;5.238;Não;1.184;0,30;Não;Não;1;-;0
+Blumenau/SC;Blumenau;4202404;4202404;309.011;Sim;13.479;0,06;Sim;Não;1;-;0
+Blumenau/SC;Gaspar;4202404;4205902;57.981;Não;9.055;0,20;Sim;Não;1;-;0
+Blumenau/SC;Ilhota;4202404;4207106;12.355;Não;1.672;0,18;Não;Não;1;-;1
+Blumenau/SC;Indaial;4202404;4207502;54.854;Não;5.526;0,12;Sim;Não;1;-;0
+Boituva - Iperó/SP;Boituva;3507001;3507001;48.314;Sim;1.344;0,04;Sim;Não;1;-;0
+Boituva - Iperó/SP;Iperó;3507001;3521002;28.3;Sim;1.344;0,07;Sim;Não;1;-;0
+Bom Jesus do Itabapoana/RJ;Bom Jesus do Itabapoana;3300605;3300605;35.411;Sim;2.932;0,12;Sim;Não;1;-;0
+Bom Jesus do Itabapoana/RJ;Bom Jesus do Norte;3300605;3201100;9.476;Não;2.932;0,46;Sim;Não;1;-;0
+Brasília/DF;Águas Lindas de Goiás;5300108;5200258;159.378;Não;45.494;0,39;Não;Sim;1;-;0
+Brasília/DF;Brasília;5300108;5300108;2.570.160;Sim;190.371;0,10;Sim;Não;1;-;0
+Brasília/DF;Cidade Ocidental;5300108;5205497;55.915;Não;19.12;0,46;Sim;Sim;1;-;0
+Brasília/DF;Luziânia;5300108;5212501;174.531;Não;31.225;0,25;Sim;Não;1;-;0
+Brasília/DF;Novo Gama;5300108;5215231;95.018;Não;30.352;0,46;Sim;Sim;1;-;0
+Brasília/DF;Padre Bernardo;5300108;5215603;27.671;Não;3.38;0,18;Não;Sim;1;-;0
+Brasília/DF;Planaltina;5300108;5217609;81.649;Não;18.511;0,32;Não;Não;1;-;0
+Brasília/DF;Santo Antônio do Descoberto;5300108;5219753;63.248;Não;15.815;0,35;Não;Sim;1;-;0
+Brasília/DF;Valparaíso de Goiás;5300108;5221858;132.982;Não;44.744;0,45;Sim;Sim;1;-;0
+Brejões - Nova Itarana/BA;Brejões;2904308;2904308;14.282;Sim;759;0,08;Não;Não;1;-;0
+Brejões - Nova Itarana/BA;Nova Itarana;2904308;2922805;7.435;Sim;759;0,18;Não;Não;1;-;0
+Brusque/SC;Botuverá;4202909;4202701;4.468;Não;706;0,20;Não;Não;1;-;0
+Brusque/SC;Brusque;4202909;4202909;105.503;Sim;3.648;0,04;Sim;Não;1;-;0
+Brusque/SC;Guabiruba;4202909;4206306;18.43;Não;3.11;0,23;Sim;Não;1;-;0
+Cabo Frio/RJ;Armação dos Búzios;3300704;3300233;27.56;Não;8.118;0,40;Sim;Sim;1;-;0
+Cabo Frio/RJ;Arraial do Cabo;3300704;3300258;27.715;Não;3.311;0,17;Sim;Não;1;-;0
+Cabo Frio/RJ;Cabo Frio;3300704;3300704;186.227;Sim;23.489;0,18;Sim;Não;1;-;0
+Cabo Frio/RJ;São Pedro da Aldeia;3300704;3305208;87.875;Não;14.946;0,25;Sim;Não;1;-;0
+Cachoeira - Muritiba - Governador Mangabeira/BA;Cachoeira;2904902;2904902;32.026;Sim;1.629;0,07;Sim;Não;1;-;0
+Cachoeira - Muritiba - Governador Mangabeira/BA;Governador Mangabeira;2904902;2911600;19.818;Não;744;0,05;Sim;Não;1;-;0
+Cachoeira - Muritiba - Governador Mangabeira/BA;Muritiba;2904902;2922300;28.899;Sim;1.496;0,08;Sim;Não;1;-;0
+Cachoeira - Muritiba - Governador Mangabeira/BA;São Félix;2904902;2929008;14.098;Não;1.417;0,15;Sim;Não;1;-;0
+Caetés - Capoeiras/PE;Caetés;2603207;2603207;26.577;Sim;172;0,01;Sim;Não;1;-;0
+Caetés - Capoeiras/PE;Capoeiras;2603207;2603801;19.593;Sim;172;0,01;Sim;Não;1;-;0
+Caiçara - Logradouro/PB;Caiçara;2503605;2503605;7.22;Sim;183;0,04;Sim;Não;1;-;0
+Caiçara - Logradouro/PB;Logradouro;2503605;2508554;3.942;Sim;183;0,07;Sim;Sim;1;-;0
+Caiçara do Norte/RN;Caiçara do Norte;2401859;2401859;6.016;Sim;479;0,13;Sim;Sim;1;-;0
+Caiçara do Norte/RN;São Bento do Norte;2401859;2411601;2.975;Não;479;0,27;Sim;Não;1;-;0
+Caldas Novas/GO;Caldas Novas;5204508;5204508;70.473;Sim;899;0,02;Não;Não;1;-;0
+Caldas Novas/GO;Rio Quente;5204508;5218789;3.312;Não;899;0,33;Não;Sim;1;-;0
+Cambuí/MG;Cambuí;3110608;3110608;26.488;Sim;452;0,02;Sim;Não;1;-;0
+Cambuí/MG;Córrego do Bom Jesus;3110608;3119906;3.73;Não;452;0,19;Sim;Não;1;-;0
+Campina Grande/PB;Campina Grande;2504009;2504009;385.213;Sim;14.039;0,05;Sim;Não;1;-;0
+Campina Grande/PB;Lagoa Seca;2504009;2508307;25.9;Não;4.643;0,25;Sim;Não;1;-;0
+Campina Grande/PB;Massaranduba;2504009;2509206;12.902;Não;1.892;0,23;Não;Não;1;-;0
+Campina Grande/PB;Puxinanã;2504009;2512408;12.923;Não;2.876;0,31;Não;Não;1;-;0
+Campina Grande/PB;Queimadas;2504009;2512507;41.049;Não;6.102;0,22;Não;Não;1;-;0
+Campinas/SP;Campinas;3509502;3509502;1.080.113;Sim;127.498;0,16;Sim;Não;1;-;0
+Campinas/SP;Cosmópolis;3509502;3512803;58.827;Não;9.044;0,22;Não;Não;2;Via Paulínia (SP);0
+Campinas/SP;Hortolândia;3509502;3519071;192.692;Não;58.472;0,42;Sim;Sim;1;-;0
+Campinas/SP;Monte Mor;3509502;3531803;48.949;Não;9.796;0,28;Sim;Não;1;-;0
+Campinas/SP;Paulínia;3509502;3536505;82.146;Não;27.275;0,43;Sim;Não;1;-;0
+Campinas/SP;Sumaré;3509502;3552403;241.311;Não;51.788;0,30;Sim;Não;1;-;0
+Campinas/SP;Valinhos;3509502;3556206;106.793;Não;27.886;0,35;Sim;Não;1;-;0
+Campinas/SP;Vinhedo;3509502;3556701;63.611;Não;12.313;0,25;Sim;Não;1;-;0
+Campos dos Goytacazes/RJ;Campos dos Goytacazes;3301009;3301009;463.731;Sim;3.913;0,01;Não;Não;1;-;0
+Campos dos Goytacazes/RJ;São João da Barra;3301009;3305000;32.747;Sim;3.913;0,17;Não;Não;1;-;0
+Canela - Gramado/RS;Canela;4304408;4304408;39.229;Sim;5.444;0,19;Sim;Não;1;-;0
+Canela - Gramado/RS;Gramado;4304408;4309100;32.273;Sim;5.444;0,21;Sim;Não;1;-;0
+Canoinhas/SC;Canoinhas;4203808;4203808;52.765;Sim;2.541;0,07;Não;Não;1;-;0
+Canoinhas/SC;Três Barras;4203808;4218301;18.129;Não;2.541;0,21;Não;Não;1;-;0
+Capão Bonito/SP;Capão Bonito;3510203;3510203;46.178;Sim;1.046;0,03;Não;Não;1;-;0
+Capão Bonito/SP;Ribeirão Grande;3510203;3543253;7.422;Não;1.046;0,21;Não;Sim;1;-;0
+Capão da Canoa/RS;Capão da Canoa;4304630;4304630;42.04;Sim;2.552;0,08;Sim;Não;1;-;0
+Capão da Canoa/RS;Terra de Areia;4304630;4321436;9.878;Não;471;0,07;Sim;Sim;1;-;0
+Capão da Canoa/RS;Xangri-lá;4304630;4323804;12.434;Não;2.089;0,22;Sim;Sim;1;-;0
+Capinzal/SC;Capinzal;4203907;4203907;20.769;Sim;2.633;0,17;Sim;Não;1;-;0
+Capinzal/SC;Ouro;4203907;4211801;7.372;Não;1.878;0,31;Sim;Não;1;-;0
+Capinzal/SC;Zortéa;4203907;4219853;2.991;Não;771;0,30;Não;Não;1;-;0
+Capivari/SP;Capivari;3510401;3510401;48.576;Sim;2.791;0,08;Sim;Não;1;-;0
+Capivari/SP;Rafard;3510401;3542107;8.612;Não;2.791;0,46;Sim;Não;1;-;0
+Caraguatatuba - Ubatuba - São Sebastião/SP;Caraguatatuba;3510500;3510500;100.84;Sim;6.509;0,09;Sim;Não;1;-;0
+Caraguatatuba - Ubatuba - São Sebastião/SP;Ilhabela;3510500;3520400;28.196;Não;1.438;0,06;Sim;Não;1;-;0
+Caraguatatuba - Ubatuba - São Sebastião/SP;São Sebastião;3510500;3550704;73.942;Sim;5.695;0,10;Sim;Não;1;-;0
+Caraguatatuba - Ubatuba - São Sebastião/SP;Ubatuba;3510500;3555406;78.801;Sim;1.392;0,02;Sim;Não;1;-;0
+Caraí/MG;Caraí;3113008;3113008;22.343;Sim;828;0,06;Não;Não;1;-;0
+Caraí/MG;Catuji;3113008;3115458;6.708;Não;828;0,21;Não;Não;1;-;0
+Carolina/MA;Carolina;2102804;2102804;23.959;Sim;444;0,03;Sim;Não;1;-;0
+Carolina/MA;Filadélfia;2102804;1707702;8.505;Não;444;0,09;Sim;Não;1;-;0
+Cascavel/PR;Cascavel;4104808;4104808;286.205;Sim;1.717;0,01;Não;Não;1;-;0
+Cascavel/PR;Santa Tereza do Oeste;4104808;4124020;10.332;Não;1.717;0,22;Não;Sim;1;-;0
+Catalão/GO;Catalão;5205109;5205109;86.647;Sim;2.205;0,03;Não;Não;1;-;0
+Catalão/GO;Goiandira;5205109;5208509;5.265;Não;746;0,21;Não;Não;1;-;0
+Catalão/GO;Ouvidor;5205109;5215504;5.467;Não;1.187;0,33;Não;Não;1;-;0
+Catalão/GO;Três Ranchos;5205109;5221304;2.819;Não;390;0,19;Não;Não;1;-;1
+Catanduva/SP;Catanduva;3511102;3511102;112.82;Sim;5.635;0,07;Sim;Não;1;-;0
+Catanduva/SP;Catiguá;3511102;3511201;7.127;Não;2.049;0,43;Não;Não;1;-;0
+Catanduva/SP;Elisiário;3511102;3514924;3.12;Não;734;0,34;Não;Sim;1;-;0
+Catanduva/SP;Embaúba;3511102;3514957;2.423;Não;300;0,17;Não;Não;1;-;1
+Catanduva/SP;Marapoama;3511102;3528858;2.633;Não;338;0,18;Não;Não;1;-;1
+Catanduva/SP;Novais;3511102;3533254;4.592;Não;670;0,20;Não;Não;1;-;0
+Catanduva/SP;Pindorama;3511102;3538105;15.039;Não;2.086;0,21;Sim;Não;1;-;0
+Caxambu - Baependi/MG;Baependi;3115508;3104908;18.307;Sim;833;0,07;Sim;Não;1;-;0
+Caxambu - Baependi/MG;Caxambu;3115508;3115508;21.705;Sim;833;0,06;Sim;Não;1;-;0
+Caxias do Sul/RS;Caxias do Sul;4305108;4305108;435.564;Sim;6.521;0,02;Sim;Não;1;-;0
+Caxias do Sul/RS;Farroupilha;4305108;4307906;63.635;Não;5.379;0,11;Sim;Não;1;-;0
+Caxias do Sul/RS;Vale Real;4305108;4322541;5.118;Não;1.142;0,27;Não;Não;1;-;0
+Ceres - Rialma/GO;Ceres;5205406;5205406;20.722;Sim;1.798;0,12;Sim;Não;1;-;0
+Ceres - Rialma/GO;Rialma;5205406;5218607;10.523;Não;1.798;0,24;Sim;Não;1;-;0
+Cerquilho - Tietê/SP;Cerquilho;3511508;3511508;39.617;Sim;1.825;0,06;Sim;Não;1;-;0
+Cerquilho - Tietê/SP;Tietê;3511508;3554508;36.835;Sim;1.825;0,07;Sim;Não;1;-;0
+Cerro Largo/RS;Cerro Largo;4305207;4305207;13.289;Sim;352;0,04;Não;Não;1;-;0
+Cerro Largo/RS;Salvador das Missões;4305207;4316477;2.669;Não;352;0,17;Não;Sim;1;-;0
+Chapecó/SC;Chapecó;4204202;4204202;183.53;Sim;1.528;0,01;Não;Não;1;-;0
+Chapecó/SC;Cordilheira Alta;4204202;4204350;3.767;Não;717;0,24;Não;Sim;1;-;0
+Chapecó/SC;Guatambú;4204202;4206652;4.679;Não;811;0,23;Não;Sim;1;-;0
+Charqueadas - Triunfo - São Jerônimo/RS;Charqueadas;4305355;4305355;35.32;Sim;2.427;0,11;Sim;Não;1;-;0
+Charqueadas - Triunfo - São Jerônimo/RS;São Jerônimo;4305355;4318408;22.134;Sim;2.61;0,17;Sim;Não;1;-;0
+Charqueadas - Triunfo - São Jerônimo/RS;Triunfo;4305355;4322004;25.793;Sim;657;0,03;Sim;Não;1;-;0
+Cidreira - Balneário Pinhal/RS;Balneário Pinhal;4305454;4301636;10.856;Sim;291;0,04;Sim;Sim;1;-;0
+Cidreira - Balneário Pinhal/RS;Cidreira;4305454;4305454;12.668;Sim;291;0,04;Sim;Não;1;-;0
+Colorado/PR;Colorado;4105904;4105904;22.345;Sim;523;0,03;Não;Não;1;-;0
+Colorado/PR;Nossa Senhora das Graças;4105904;4116406;3.836;Não;523;0,19;Não;Não;1;-;0
+Conceição do Almeida - Sapeaçu/BA;Conceição do Almeida;2908309;2908309;17.889;Sim;154;0,02;Sim;Não;1;-;0
+Conceição do Almeida - Sapeaçu/BA;Sapeaçu;2908309;2929602;16.585;Sim;154;0,01;Sim;Não;1;-;0
+Conselheiro Lafaiete/MG;Congonhas;3118304;3118007;48.519;Não;6.112;0,18;Não;Não;1;-;1
+Conselheiro Lafaiete/MG;Conselheiro Lafaiete;3118304;3118304;116.512;Sim;11.789;0,15;Não;Não;1;-;0
+Conselheiro Lafaiete/MG;Jeceaba;3118304;3135407;5.395;Não;3.672;1,27;Não;Não;1;-;0
+Conselheiro Lafaiete/MG;Ouro Branco;3118304;3145901;35.268;Não;6.517;0,25;Não;Não;1;-;0
+Conselheiro Lafaiete/MG;Queluzito;3118304;3153806;1.861;Não;201;0,18;Não;Não;1;-;0
+Conselheiro Lafaiete/MG;São Brás do Suaçuí;3118304;3160900;3.513;Não;503;0,26;Não;Não;1;-;1
+Cordeiro - Cantagalo/RJ;Cantagalo;3301504;3301108;19.83;Sim;1.753;0,12;Sim;Não;1;-;0
+Cordeiro - Cantagalo/RJ;Cordeiro;3301504;3301504;20.43;Sim;1.753;0,12;Sim;Não;1;-;0
+Criciúma/SC;Cocal do Sul;4204608;4204251;15.159;Não;4.008;0,36;Não;Sim;1;-;0
+Criciúma/SC;Criciúma;4204608;4204608;192.308;Sim;25.568;0,17;Sim;Não;1;-;0
+Criciúma/SC;Forquilhinha;4204608;4205456;22.548;Não;7.136;0,40;Sim;Sim;1;-;0
+Criciúma/SC;Içara;4204608;4207007;58.833;Não;10.675;0,25;Sim;Não;1;-;0
+Criciúma/SC;Morro da Fumaça;4204608;4211207;16.126;Não;2.514;0,21;Não;Não;1;-;1
+Criciúma/SC;Morro Grande;4204608;4211256;2.89;Não;408;0,18;Não;Não;1;-;1
+Criciúma/SC;Nova Veneza;4204608;4211603;13.309;Não;5.345;0,52;Não;Não;1;-;0
+Criciúma/SC;Siderópolis;4204608;4217600;12.998;Não;3.259;0,34;Sim;Não;1;-;0
+Criciúma/SC;Treviso;4204608;4218350;3.527;Não;907;0,38;Não;Sim;1;-;0
+Criciúma/SC;Urussanga;4204608;4219002;20.223;Não;2.878;0,19;Não;Não;1;-;1
+Cruzeiro/SP;Cruzeiro;3513405;3513405;77.039;Sim;1.406;0,03;Sim;Não;1;-;0
+Cruzeiro/SP;Lavrinhas;3513405;3526605;6.59;Não;1.406;0,35;Sim;Não;1;-;0
+Cuiabá/MT;Cuiabá;5103403;5103403;551.098;Sim;41.305;0,10;Sim;Não;1;-;0
+Cuiabá/MT;Várzea Grande;5103403;5108402;252.596;Não;41.305;0,23;Sim;Não;1;-;0
+Cuité - Nova Floresta/PB;Cuité;2505105;2505105;19.978;Sim;383;0,03;Sim;Não;1;-;0
+Cuité - Nova Floresta/PB;Nova Floresta;2505105;2510105;10.533;Sim;383;0,06;Sim;Não;1;-;0
+Curitiba/PR;Almirante Tamandaré;4106902;4100400;103.204;Não;39.952;0,52;Sim;Não;1;-;0
+Curitiba/PR;Araucária;4106902;4101804;119.123;Não;31.624;0,35;Sim;Não;1;-;0
+Curitiba/PR;Balsa Nova;4106902;4102307;11.3;Não;2.923;0,36;Não;Não;2;Via Campo Largo (PR);0
+Curitiba/PR;Bocaiúva do Sul;4106902;4103107;10.987;Não;2.198;0,27;Não;Não;1;-;1
+Curitiba/PR;Campina Grande do Sul;4106902;4104006;38.769;Não;11.572;0,40;Sim;Não;1;-;0
+Curitiba/PR;Campo Largo;4106902;4104204;112.377;Não;21.646;0,26;Sim;Não;1;-;0
+Curitiba/PR;Campo Magro;4106902;4104253;24.843;Não;8.513;0,47;Sim;Sim;1;-;0
+Curitiba/PR;Colombo;4106902;4105805;212.967;Não;74.746;0,46;Sim;Não;1;-;0
+Curitiba/PR;Contenda;4106902;4106209;15.891;Não;2.671;0,23;Não;Não;1;-;1
+Curitiba/PR;Curitiba;4106902;4106902;1.751.907;Sim;297.948;0,22;Sim;Não;1;-;0
+Curitiba/PR;Fazenda Rio Grande;4106902;4107652;81.675;Não;22.828;0,39;Sim;Sim;1;-;0
+Curitiba/PR;Itaperuçu;4106902;4111258;23.887;Não;6.655;0,40;Sim;Sim;1;-;0
+Curitiba/PR;Mandirituba;4106902;4114302;22.22;Não;3.074;0,19;Não;Não;1;-;1
+Curitiba/PR;Pinhais;4106902;4119152;117.008;Não;52.743;0,60;Sim;Sim;1;-;0
+Curitiba/PR;Piraquara;4106902;4119509;93.207;Não;30.015;0,46;Sim;Não;1;-;0
+Curitiba/PR;Quatro Barras;4106902;4120804;19.851;Não;9.833;0,67;Sim;Não;1;-;0
+Curitiba/PR;Rio Branco do Sul;4106902;4122206;30.65;Não;6.443;0,30;Sim;Não;1;-;0
+Curitiba/PR;São José dos Pinhais;4106902;4125506;264.21;Não;62.922;0,31;Sim;Não;1;-;0
+Curvelo/MG;Curvelo;3120904;3120904;74.219;Sim;786;0,02;Sim;Não;1;-;0
+Curvelo/MG;Inimutaba;3120904;3131109;6.724;Não;786;0,17;Sim;Não;1;-;0
+Duas Estradas - Serra da Raiz/PB;Duas Estradas;2505808;2505808;3.638;Sim;255;0,11;Sim;Não;1;-;0
+Duas Estradas - Serra da Raiz/PB;Serra da Raiz;2505808;2515609;3.204;Sim;255;0,12;Sim;Não;1;-;0
+Estreito/MA;Aguiarnópolis;2104057;1700301;5.162;Não;720;0,21;Sim;Não;1;-;0
+Estreito/MA;Estreito;2104057;2104057;35.835;Sim;720;0,03;Sim;Não;1;-;0
+Fernandópolis/SP;Fernandópolis;3515509;3515509;64.696;Sim;901;0,02;Não;Não;1;-;0
+Fernandópolis/SP;Macedônia;3515509;3528205;3.664;Não;508;0,19;Não;Não;1;-;0
+Fernandópolis/SP;Pedranópolis;3515509;3536901;2.558;Não;447;0,26;Não;Não;1;-;0
+Floriano/PI;Barão de Grajaú;2203909;2101509;17.841;Não;1.389;0,12;Sim;Não;1;-;0
+Floriano/PI;Floriano;2203909;2203909;57.69;Sim;1.389;0,03;Sim;Não;1;-;0
+Florianópolis/SC;Águas Mornas;4205407;4200606;5.548;Não;1.615;0,35;Sim;Não;3;Via Santo Amaro da Imperatriz (SC);0
+Florianópolis/SC;Antônio Carlos;4205407;4201208;7.458;Não;1.399;0,24;Não;Não;1;-;1
+Florianópolis/SC;Biguaçu;4205407;4202305;58.206;Não;17.841;0,41;Sim;Não;1;-;0
+Florianópolis/SC;Florianópolis;4205407;4205407;421.24;Sim;88.709;0,27;Sim;Não;1;-;0
+Florianópolis/SC;Governador Celso Ramos;4205407;4206009;12.999;Não;2.714;0,29;Não;Não;1;-;1
+Florianópolis/SC;Palhoça;4205407;4211900;137.334;Não;42.655;0,40;Sim;Não;1;-;0
+Florianópolis/SC;Paulo Lopes;4205407;4212304;6.692;Não;813;0,19;Não;Não;1;-;1
+Florianópolis/SC;Santo Amaro da Imperatriz;4205407;4215703;19.823;Não;5.767;0,38;Sim;Não;2;Via Palhoça (SC);0
+Florianópolis/SC;São José;4205407;4216602;209.804;Não;81.59;0,50;Sim;Não;1;-;0
+Florianópolis/SC;São Pedro de Alcântara;4205407;4217253;4.704;Não;1.099;0,40;Não;Sim;1;-;0
+Fortaleza/CE;Aquiraz;2304400;2301000;72.628;Não;7.781;0,16;Sim;Não;1;-;0
+Fortaleza/CE;Caucaia;2304400;2303709;325.441;Não;59.378;0,26;Sim;Não;1;-;0
+Fortaleza/CE;Eusébio;2304400;2304285;46.033;Não;11.488;0,35;Sim;Sim;1;-;0
+Fortaleza/CE;Fortaleza;2304400;2304400;2.452.185;Sim;115.585;0,07;Sim;Não;1;-;0
+Fortaleza/CE;Itaitinga;2304400;2306256;35.817;Não;5.377;0,25;Não;Sim;1;-;1
+Fortaleza/CE;Maracanaú;2304400;2307650;209.057;Não;45.222;0,32;Sim;Não;1;-;0
+Fortaleza/CE;Maranguape;2304400;2307700;113.561;Não;10.238;0,14;Sim;Não;1;-;0
+Fortaleza/CE;Pacatuba;2304400;2309706;72.299;Não;13.943;0,29;Não;Não;1;-;1
+Franca/SP;Claraval;3516200;3116407;4.542;Não;589;0,18;Não;Não;1;-;0
+Franca/SP;Cristais Paulista;3516200;3513207;7.588;Não;1.429;0,26;Sim;Não;1;-;0
+Franca/SP;Franca;3516200;3516200;318.64;Sim;6.503;0,03;Sim;Não;1;-;0
+Franca/SP;Itirapuã;3516200;3523701;5.914;Não;854;0,21;Não;Não;1;-;1
+Franca/SP;Patrocínio Paulista;3516200;3536307;13;Não;1.84;0,20;Não;Não;1;-;0
+Franca/SP;Restinga;3516200;3542701;6.587;Não;1.769;0,38;Não;Não;1;-;0
+Franca/SP;Ribeirão Corrente;3516200;3543105;4.273;Não;586;0,18;Não;Não;1;-;1
+Gastão Vidigal - Monções/SP;Gastão Vidigal;3516804;3516804;4.193;Sim;353;0,12;Não;Não;1;-;0
+Gastão Vidigal - Monções/SP;Monções;3516804;3531001;2.132;Sim;353;0,25;Não;Não;1;-;0
+Getúlio Vargas/RS;Estação;4308904;4307559;6.011;Não;679;0,16;Sim;Sim;1;-;0
+Getúlio Vargas/RS;Getúlio Vargas;4308904;4308904;16.154;Sim;679;0,06;Sim;Não;1;-;0
+Goianésia/GO;Barro Alto;5208608;5203203;8.716;Não;1.42;0,22;Não;Não;1;-;0
+Goianésia/GO;Goianésia;5208608;5208608;59.549;Sim;1.606;0,04;Não;Não;1;-;0
+Goianésia/GO;Santa Rita do Novo Destino;5208608;5219456;3.173;Não;416;0,21;Não;Sim;1;-;1
+Goiânia/GO;Abadia de Goiás;5208707;5200050;6.876;Não;1.99;0,39;Não;Sim;1;-;0
+Goiânia/GO;Aparecida de Goiânia;5208707;5201405;455.657;Não;127.272;0,37;Sim;Não;1;-;0
+Goiânia/GO;Aragoiânia;5208707;5201801;8.365;Não;1.417;0,24;Não;Não;1;-;0
+Goiânia/GO;Bonfinópolis;5208707;5203559;7.536;Não;1.707;0,32;Não;Não;1;-;0
+Goiânia/GO;Brazabrantes;5208707;5203609;3.232;Não;593;0,27;Não;Não;1;-;1
+Goiânia/GO;Caldazinha;5208707;5204557;3.325;Não;648;0,29;Não;Não;1;-;0
+Goiânia/GO;Goiânia;5208707;5208707;1.302.001;Sim;191.537;0,19;Sim;Não;1;-;0
+Goiânia/GO;Goianira;5208707;5208806;34.06;Não;9.542;0,39;Sim;Não;1;-;0
+Goiânia/GO;Guapó;5208707;5209200;13.976;Não;2.021;0,21;Não;Não;1;-;0
+Goiânia/GO;Hidrolândia;5208707;5209705;17.398;Não;2.699;0,21;Não;Não;1;-;1
+Goiânia/GO;Nerópolis;5208707;5214507;24.21;Não;2.97;0,17;Não;Não;1;-;3
+Goiânia/GO;Nova Veneza;5208707;5215009;8.129;Não;1.285;0,22;Não;Não;1;-;2
+Goiânia/GO;Santo Antônio de Goiás;5208707;5219738;4.703;Não;1.067;0,31;Não;Sim;1;-;0
+Goiânia/GO;Senador Canedo;5208707;5220454;84.443;Não;26.515;0,42;Sim;Sim;1;-;0
+Goiânia/GO;Trindade;5208707;5221403;104.488;Não;22.175;0,30;Sim;Não;1;-;0
+Guarabira/PB;Guarabira;2506301;2506301;55.326;Sim;507;0,01;Sim;Não;1;-;0
+Guarabira/PB;Pilõezinhos;2506301;2511707;5.155;Não;507;0,14;Sim;Não;1;-;0
+Guaratinguetá/SP;Aparecida;3518404;3502507;35.007;Não;9.545;0,36;Sim;Não;1;-;0
+Guaratinguetá/SP;Guaratinguetá;3518404;3518404;112.072;Sim;4.851;0,06;Sim;Não;1;-;0
+Guaratinguetá/SP;Potim;3518404;3540754;19.397;Não;5.97;0,47;Sim;Sim;1;-;0
+Guaratinguetá/SP;Roseira;3518404;3544301;9.599;Não;1.724;0,26;Sim;Não;1;-;0
+Guariba/SP;Guariba;3518602;3518602;35.486;Sim;1.017;0,04;Não;Não;1;-;0
+Guariba/SP;Santa Ernestina;3518602;3546504;5.568;Não;1.017;0,26;Não;Não;1;-;0
+Igarapava/SP;Aramina;3520103;3503000;5.152;Não;775;0,23;Não;Não;1;-;1
+Igarapava/SP;Delta;3520103;3121258;8.089;Não;1.548;0,28;Não;Não;1;-;0
+Igarapava/SP;Igarapava;3520103;3520103;27.952;Sim;1.929;0,10;Não;Não;1;-;0
+Iguape/SP;Iguape;3520301;3520301;28.841;Sim;632;0,03;Sim;Não;1;-;0
+Iguape/SP;Ilha Comprida;3520301;3520426;9.025;Não;632;0,11;Sim;Sim;1;-;0
+Imbituba/SC;Garopaba;4207304;4205704;18.138;Não;661;0,05;Sim;Não;1;-;0
+Imbituba/SC;Imbituba;4207304;4207304;40.17;Sim;661;0,02;Sim;Não;1;-;0
+Imperatriz/MA;Davinópolis;2105302;2103752;12.579;Não;1.527;0,18;Não;Sim;1;-;0
+Imperatriz/MA;Imperatriz;2105302;2105302;247.505;Sim;1.527;0,01;Não;Não;1;-;0
+Indiara/GO;Indiara;5209952;5209952;13.687;Sim;929;0,10;Não;Não;1;-;0
+Indiara/GO;Jandaia;5209952;5211701;6.164;Não;929;0,22;Não;Não;1;-;0
+Internacional Chuy/Uruguai - Chuí/Brasil;Chuí;4305439;4305439;5.917;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Artigas/Uruguai - Quaraí/Brasil;Quaraí;4315305;4315305;23.021;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Assis Brasil/Brasil;Assis Brasil;1200054;1200054;6.072;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Bela Vista/Brasil;Bela Vista;5002100;5002100;23.181;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Bella Unión/Uruguai - Monte Caseros/Argentina;Barra do Quaraí;4301875;4301875;4.012;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Bonfim/Brasil - Ireng/Guiana;Bonfim;1400159;1400159;10.943;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Capitán Bado/Paraguai - Coronel Sapucaia/Brasil;Coronel Sapucaia;5003157;5003157;14.064;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Cobija/Bolívia - Brasiléia/Brasil;Brasiléia;1200104;1200104;21.398;Sim;1.127;0,08;Sim;Sim;1;-;0
+Internacional de Cobija/Bolívia - Brasiléia/Brasil;Epitaciolândia;1200104;1200252;15.1;Não;1.127;0,11;Sim;Não;1;-;0
+Internacional de Corumbá/Brasil;Corumbá;5003207;5003207;103.703;Sim;4.384;0,06;Sim;Não;1;-;0
+Internacional de Corumbá/Brasil;Ladário;5003207;5005202;19.617;Não;4.384;0,32;Sim;Não;1;-;0
+Internacional de Dionísio Cerqueira-Barracão/Brasil - Bernardo de Irigoyen/Argentina;Barracão;4205001;4102604;9.735;Sim;1.505;0,21;Sim;Não;1;-;0
+Internacional de Dionísio Cerqueira-Barracão/Brasil - Bernardo de Irigoyen/Argentina;Dionísio Cerqueira;4205001;4205001;14.811;Sim;1.505;0,15;Sim;Não;1;-;0
+Internacional de Foz do Iguaçu/Brasil - Ciudad del Este/Paraguai;Foz do Iguaçu;4108304;4108304;256.088;Sim;2.946;0,02;Sim;Não;1;-;0
+Internacional de Foz do Iguaçu/Brasil - Ciudad del Este/Paraguai;Santa Terezinha de Itaipu;4108304;4124053;20.841;Não;2.946;0,19;Não;Não;1;-;0
+Internacional de Garruchos/Brasil;Garruchos;4308656;4308656;3.234;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Guaíra/Brasil;Guaíra;4108809;4108809;30.704;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Guajará-Mirim/Brasil - Guayaramerín/Bolívia;Guajará-Mirim;1100106;1100106;41.656;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Itaqui/Brasil;Itaqui;4310603;4310603;38.159;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Jaguarão/Brasil - Rio Branco/Uruguai;Jaguarão;4311007;4311007;27.931;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Oiapoque/Brasil;Oiapoque;1600501;1600501;20.509;Sim;0;0,00;Não;Não;1;-;0
+Internacional de Paranhos/Brasil - Ypejhú/Paraguai;Paranhos;5006358;5006358;12.35;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Pedro Juan Caballero/Paraguai - Ponta Porã/Brasil;Ponta Porã;5006606;5006606;77.872;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Porto Mauá/Brasil - Alba Posse/Argentina;Porto Mauá;4315057;4315057;2.542;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Porto Vera Cruz/Brasil - Panambí/Argentina;Porto Vera Cruz;4315073;4315073;1.852;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Porto Xavier/Brasil - San Javier/Argentina;Porto Xavier;4315107;4315107;10.558;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Sant'Ana do Livramento/Brasil - Rivera/Uruguai;Sant´Ana do Livramento;4317103;4317103;82.464;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Santo Antônio do Sudoeste/Brasil;Pranchita;4124400;4120358;5.628;Não;273;0,06;Sim;Não;1;-;0
+Internacional de Santo Antônio do Sudoeste/Brasil;Santo Antônio do Sudoeste;4124400;4124400;18.893;Sim;273;0,02;Sim;Não;1;-;0
+Internacional de São Borja/Brasil;São Borja;4318002;4318002;61.671;Sim;0;0,00;Não;Não;1;-;0
+Internacional de Tabatinga/Brasil - Letícia/Colômbia;Tabatinga;1304062;1304062;52.272;Sim;0;0,00;Sim;Não;1;-;0
+Internacional de Uruguaiana/Brasil;Uruguaiana;4322400;4322400;125.435;Sim;0;0,00;Sim;Não;1;-;0
+Ipatinga/MG;Belo Oriente;3131307;3106309;23.397;Não;3.176;0,21;Não;Não;1;-;1
+Ipatinga/MG;Bugre;3131307;3109253;3.992;Não;417;0,18;Não;Não;1;-;2
+Ipatinga/MG;Coronel Fabriciano;3131307;3119401;103.694;Não;20.909;0,31;Sim;Não;1;-;0
+Ipatinga/MG;Ipaba;3131307;3131158;16.708;Não;2.742;0,26;Não;Não;1;-;0
+Ipatinga/MG;Ipatinga;3131307;3131307;239.468;Sim;30.67;0,19;Sim;Não;1;-;0
+Ipatinga/MG;Jaguaraçu;3131307;3135001;2.99;Não;746;0,39;Não;Não;2;Via Timóteo (MG);0
+Ipatinga/MG;Marliéria;3131307;3140308;4.012;Não;741;0,29;Não;Não;1;-;1
+Ipatinga/MG;Naque;3131307;3144359;6.341;Não;715;0,18;Não;Não;1;-;2
+Ipatinga/MG;Santana do Paraíso;3131307;3158953;27.265;Não;8.449;0,48;Não;Não;1;-;0
+Ipatinga/MG;Timóteo;3131307;3168705;81.243;Não;12.367;0,23;Sim;Não;1;-;0
+Itajaí - Balneário Camboriú/SC;Balneário Camboriú;4208203;4202008;108.089;Sim;29.231;0,35;Sim;Não;1;-;0
+Itajaí - Balneário Camboriú/SC;Balneário Piçarras;4208203;4212809;17.078;Não;3.384;0,28;Sim;Não;1;-;0
+Itajaí - Balneário Camboriú/SC;Barra Velha;4208203;4202107;22.386;Não;1.277;0,08;Sim;Não;1;-;0
+Itajaí - Balneário Camboriú/SC;Camboriú;4208203;4203204;62.361;Não;18.653;0,39;Sim;Não;1;-;0
+Itajaí - Balneário Camboriú/SC;Itajaí;4208203;4208203;183.373;Sim;24.51;0,17;Sim;Não;1;-;0
+Itajaí - Balneário Camboriú/SC;Navegantes;4208203;4211306;60.556;Não;10.049;0,23;Sim;Não;1;-;0
+Itajaí - Balneário Camboriú/SC;Penha;4208203;4212502;25.141;Não;4.874;0,27;Sim;Não;1;-;0
+Itajubá/MG;Itajubá;3132404;3132404;90.658;Sim;2.644;0,04;Não;Não;1;-;0
+Itajubá/MG;Piranguçu;3132404;3150901;5.217;Não;810;0,23;Não;Não;1;-;0
+Itajubá/MG;Piranguinho;3132404;3151008;8.016;Não;1.08;0,19;Não;Não;1;-;0
+Itajubá/MG;São José do Alegre;3132404;3163201;3.996;Não;576;0,21;Não;Não;1;-;0
+Itajubá/MG;Wenceslau Braz;3132404;3172202;2.553;Não;386;0,25;Não;Não;1;-;0
+Itambé/PE - Pedras de Fogo/PB;Camutanga;2607653;2603603;8.156;Não;1.489;0,29;Não;Não;1;-;0
+Itambé/PE - Pedras de Fogo/PB;Itambé;2607653;2607653;35.398;Sim;5.806;0,27;Sim;Não;1;-;0
+Itambé/PE - Pedras de Fogo/PB;Juripiranga;2607653;2507903;10.237;Não;1.255;0,23;Não;Não;1;-;0
+Itambé/PE - Pedras de Fogo/PB;Pedras de Fogo;2607653;2511202;27.032;Sim;3.8;0,21;Sim;Não;1;-;0
+Itaocara/RJ;Aperibé;3302106;3300159;10.213;Não;638;0,09;Sim;Não;1;-;0
+Itaocara/RJ;Itaocara;3302106;3302106;22.899;Sim;638;0,04;Sim;Não;1;-;0
+Itapema/SC;Bombinhas;4208302;4202453;14.293;Não;930;0,09;Sim;Sim;1;-;0
+Itapema/SC;Itapema;4208302;4208302;45.797;Sim;2.358;0,07;Sim;Não;1;-;0
+Itapema/SC;Porto Belo;4208302;4213500;16.083;Não;2.746;0,23;Sim;Não;1;-;0
+Itapetininga/SP;Alambari;3522307;3500758;4.884;Não;591;0,18;Não;Sim;1;-;0
+Itapetininga/SP;Itapetininga;3522307;3522307;144.377;Sim;591;0,01;Não;Não;1;-;0
+Itapiranga/SC;Barra do Guarita;4208401;4301859;3.089;Não;622;0,26;Sim;Não;1;-;0
+Itapiranga/SC;Itapiranga;4208401;4208401;15.409;Sim;622;0,05;Sim;Não;1;-;0
+Itaúna/MG;Itatiaiuçu;3133808;3133709;9.928;Não;1.284;0,19;Não;Não;1;-;0
+Itaúna/MG;Itaúna;3133808;3133808;85.463;Sim;1.284;0,02;Não;Não;1;-;0
+Itu - Salto/SP;Itu;3523909;3523909;154.147;Sim;4.295;0,04;Sim;Não;1;-;0
+Itu - Salto/SP;Salto;3523909;3545209;105.516;Sim;4.295;0,06;Sim;Não;1;-;0
+Itumbiara/GO;Araporã;5211503;3103751;6.144;Não;1.335;0,31;Sim;Não;1;-;0
+Itumbiara/GO;Itumbiara;5211503;5211503;92.883;Sim;1.335;0,02;Sim;Não;1;-;0
+Ivoti/RS;Ivoti;4310801;4310801;19.874;Sim;1.324;0,08;Sim;Não;1;-;0
+Ivoti/RS;Lindolfo Collor;4310801;4311627;5.227;Não;1.057;0,26;Sim;Sim;1;-;0
+Ivoti/RS;Presidente Lucena;4310801;4315149;2.484;Não;375;0,18;Não;Sim;1;-;1
+Jacaraú/PB;Jacaraú;2507309;2507309;13.942;Sim;188;0,02;Sim;Não;1;-;0
+Jacaraú/PB;Pedro Régis;2507309;2512721;5.765;Não;188;0,06;Sim;Sim;1;-;0
+Jaciara/MT;Jaciara;5104807;5104807;25.647;Sim;1.046;0,06;Não;Não;1;-;0
+Jaciara/MT;São Pedro da Cipa;5104807;5107404;4.158;Não;1.046;0,37;Não;Sim;1;-;0
+Jales/SP;Dirce Reis;3524808;3513850;1.689;Não;260;0,22;Não;Não;1;-;0
+Jales/SP;Jales;3524808;3524808;47.012;Sim;548;0,02;Não;Não;1;-;0
+Jales/SP;Vitória Brasil;3524808;3556958;1.737;Não;292;0,24;Não;Sim;1;-;0
+Janaúba/MG;Janaúba;3135100;3135100;66.803;Sim;2.26;0,05;Sim;Não;1;-;0
+Janaúba/MG;Nova Porteirinha;3135100;3145059;7.398;Não;2.26;0,42;Sim;Não;1;-;0
+Jandaia do Sul/PR;Cambira;4112108;4103800;7.236;Não;383;0,07;Sim;Não;1;-;0
+Jandaia do Sul/PR;Jandaia do Sul;4112108;4112108;20.269;Sim;383;0,03;Sim;Não;1;-;0
+Jaraguá do Sul/SC;Corupá;4208906;4204509;13.852;Não;2.035;0,19;Não;Não;1;-;0
+Jaraguá do Sul/SC;Guaramirim;4208906;4206504;35.172;Não;6.67;0,26;Sim;Não;1;-;0
+Jaraguá do Sul/SC;Jaraguá do Sul;4208906;4208906;143.123;Sim;11.625;0,10;Sim;Não;1;-;0
+Jaraguá do Sul/SC;Schroeder;4208906;4217402;15.316;Não;4.718;0,38;Sim;Não;1;-;0
+Jardim/MS;Guia Lopes da Laguna;5005004;5004106;10.366;Não;894;0,13;Sim;Não;1;-;0
+Jardim/MS;Jardim;5005004;5005004;24.346;Sim;894;0,05;Sim;Não;1;-;0
+Joaçaba - Herval d´Oeste/SC;Herval d´Oeste;4209003;4206702;21.239;Sim;7.403;0,48;Sim;Não;1;-;0
+Joaçaba - Herval d´Oeste/SC;Joaçaba;4209003;4209003;27.02;Sim;8.037;0,37;Sim;Não;1;-;0
+Joaçaba - Herval d´Oeste/SC;Luzerna;4209003;4210035;5.6;Não;1.562;0,36;Sim;Sim;1;-;0
+João Monlevade/MG;Bela Vista de Minas;3136207;3106002;10.004;Não;1.513;0,24;Sim;Não;1;-;0
+João Monlevade/MG;João Monlevade;3136207;3136207;73.61;Sim;1.513;0,03;Sim;Não;1;-;0
+João Pessoa/PB;Bayeux;2507507;2501807;99.716;Não;21.88;0,33;Sim;Não;1;-;0
+João Pessoa/PB;Cabedelo;2507507;2503209;57.944;Não;16.677;0,42;Sim;Não;1;-;0
+João Pessoa/PB;Conde;2507507;2504603;21.4;Não;2.954;0,21;Não;Não;1;-;0
+João Pessoa/PB;João Pessoa;2507507;2507507;723.515;Sim;51.052;0,10;Sim;Não;1;-;0
+João Pessoa/PB;Lucena;2507507;2508604;11.73;Não;1.076;0,15;Sim;Não;2;Via Cabedelo (PB);0
+João Pessoa/PB;Santa Rita;2507507;2513703;120.31;Não;19.277;0,25;Sim;Não;1;-;0
+Joinville/SC;Araquari;4209102;4201307;24.81;Não;5.713;0,31;Sim;Não;1;-;0
+Joinville/SC;Joinville;4209102;4209102;515.288;Sim;5.713;0,01;Sim;Não;1;-;0
+Juazeiro do Norte/CE;Barbalha;2307304;2301901;55.323;Não;5.991;0,16;Sim;Não;1;-;0
+Juazeiro do Norte/CE;Crato;2307304;2304202;121.428;Não;9.501;0,11;Sim;Não;1;-;0
+Juazeiro do Norte/CE;Juazeiro do Norte;2307304;2307304;249.939;Sim;13.44;0,08;Sim;Não;1;-;0
+Jucás - Cariús/CE;Cariús;2307403;2303303;18.567;Sim;246;0,02;Sim;Não;1;-;0
+Jucás - Cariús/CE;Jucás;2307403;2307403;23.807;Sim;246;0,02;Sim;Não;1;-;0
+Juiz de Fora/MG;Chácara;3136702;3115904;2.792;Não;318;0,17;Não;Não;1;-;1
+Juiz de Fora/MG;Ewbank da Câmara;3136702;3125002;3.753;Não;755;0,32;Não;Não;1;-;0
+Juiz de Fora/MG;Juiz de Fora;3136702;3136702;516.247;Sim;3.729;0,01;Não;Não;1;-;0
+Juiz de Fora/MG;Matias Barbosa;3136702;3140803;13.435;Não;2.678;0,29;Não;Não;1;-;0
+Juiz de Fora/MG;Simão Pereira;3136702;3167509;2.537;Não;280;0,19;Não;Não;1;-;1
+Jundiaí/SP;Cabreúva;3525904;3508405;41.604;Não;5.645;0,19;Não;Não;1;-;1
+Jundiaí/SP;Campo Limpo Paulista;3525904;3509601;74.074;Não;18.588;0,35;Sim;Não;1;-;0
+Jundiaí/SP;Itupeva;3525904;3524006;44.859;Não;9.705;0,29;Sim;Não;1;-;0
+Jundiaí/SP;Jarinu;3525904;3525201;23.847;Não;2.285;0,13;Sim;Não;2;Via Campo Limpo (SP);0
+Jundiaí/SP;Jundiaí;3525904;3525904;370.126;Sim;59.67;0,22;Sim;Não;1;-;0
+Jundiaí/SP;Louveira;3525904;3527306;37.125;Não;5.388;0,18;Sim;Não;1;-;0
+Jundiaí/SP;Várzea Paulista;3525904;3556503;107.089;Não;35.727;0,48;Sim;Não;1;-;0
+Lagoa da Prata/MG;Japaraíba;3137205;3135308;3.939;Não;494;0,18;Não;Não;1;-;0
+Lagoa da Prata/MG;Lagoa da Prata;3137205;3137205;45.984;Sim;494;0,01;Não;Não;1;-;0
+Lagoa Vermelha/RS;Capão Bonito do Sul;4311304;4304622;1.754;Não;194;0,18;Não;Sim;1;-;0
+Lagoa Vermelha/RS;Lagoa Vermelha;4311304;4311304;27.525;Sim;194;0,01;Não;Não;1;-;0
+Lajeado/RS;Arroio do Meio;4311403;4301008;18.783;Não;3.031;0,19;Sim;Não;1;-;0
+Lajeado/RS;Bom Retiro do Sul;4311403;4302402;11.472;Não;1.753;0,20;Não;Não;1;-;1
+Lajeado/RS;Cruzeiro do Sul;4311403;4306205;12.32;Não;3.442;0,34;Sim;Não;1;-;0
+Lajeado/RS;Estrela;4311403;4307807;30.619;Não;5.883;0,24;Sim;Não;1;-;0
+Lajeado/RS;Fazenda Vilanova;4311403;4308078;3.697;Não;499;0,17;Não;Sim;1;-;2
+Lajeado/RS;Forquetinha;4311403;4308433;2.479;Não;449;0,21;Não;Sim;1;-;0
+Lajeado/RS;Lajeado;4311403;4311403;71.445;Sim;12.476;0,22;Sim;Não;1;-;0
+Lajeado/RS;Santa Clara do Sul;4311403;4316758;5.697;Não;1.329;0,28;Não;Sim;1;-;0
+Laranjal do Jari/AP - Almeirim/PA;Almeirim;1600279;1500503;33.614;Sim;5.263;0,22;Não;Não;1;-;0
+Laranjal do Jari/AP - Almeirim/PA;Laranjal do Jari;1600279;1600279;39.942;Sim;4.556;0,16;Não;Não;1;-;0
+Laranjal do Jari/AP - Almeirim/PA;Vitória do Jari;1600279;1600808;12.428;Não;1.541;0,18;Não;Sim;1;-;1
+Lavras/MG;Ijaci;3138203;3130408;5.859;Não;1.046;0,26;Não;Não;1;-;0
+Lavras/MG;Itumirim;3138203;3134301;6.139;Não;694;0,19;Não;Não;1;-;0
+Lavras/MG;Lavras;3138203;3138203;92.2;Sim;2.399;0,04;Não;Não;1;-;0
+Lavras/MG;Ribeirão Vermelho;3138203;3154705;3.826;Não;711;0,29;Não;Não;1;-;0
+Leme/SP;Leme;3526704;3526704;91.756;Sim;718;0,01;Não;Não;1;-;0
+Leme/SP;Santa Cruz da Conceição;3526704;3546207;4.002;Não;718;0,24;Não;Não;1;-;0
+Limeira/SP;Iracemápolis;3526902;3521408;20.029;Não;2.722;0,20;Não;Não;1;-;0
+Limeira/SP;Limeira;3526902;3526902;276.022;Sim;2.722;0,01;Não;Não;1;-;0
+Londrina/PR;Cambé;4113700;4103701;96.733;Não;23.768;0,33;Sim;Não;1;-;0
+Londrina/PR;Ibiporã;4113700;4109807;48.198;Não;7.94;0,24;Sim;Não;1;-;0
+Londrina/PR;Jataizinho;4113700;4112702;11.875;Não;2.276;0,29;Não;Não;1;-;1
+Londrina/PR;Londrina;4113700;4113700;506.701;Sim;31.344;0,08;Sim;Não;1;-;0
+Lorena/SP;Canas;3527207;3509957;4.385;Não;552;0,19;Sim;Sim;1;-;0
+Lorena/SP;Lorena;3527207;3527207;82.537;Sim;552;0,01;Sim;Não;1;-;0
+Macaé - Rio das Ostras/RJ;Carapebus;3302403;3300936;13.359;Não;2.627;0,29;Não;Sim;1;-;0
+Macaé - Rio das Ostras/RJ;Casimiro de Abreu;3302403;3301306;35.347;Não;6.527;0,25;Sim;Não;1;-;0
+Macaé - Rio das Ostras/RJ;Conceição de Macabu;3302403;3301405;21.211;Não;3.064;0,20;Não;Não;1;-;0
+Macaé - Rio das Ostras/RJ;Macaé;3302403;3302403;206.728;Sim;20.67;0,14;Não;Não;1;-;0
+Macaé - Rio das Ostras/RJ;Rio das Ostras;3302403;3304524;105.676;Sim;17.87;0,23;Sim;Sim;1;-;0
+Macapá/AP;Macapá;1600303;1600303;398.204;Sim;8.594;0,03;Sim;Não;1;-;0
+Macapá/AP;Santana;1600303;1600600;101.262;Não;8.594;0,12;Sim;Sim;1;-;0
+Maceió/AL;Barra de Santo Antônio;2704302;2700508;14.23;Não;1.216;0,14;Sim;Não;2;Via Paripueira (AL);0
+Maceió/AL;Coqueiro Seco;2704302;2702207;5.526;Não;931;0,28;Não;Não;1;-;1
+Maceió/AL;Maceió;2704302;2704302;932.748;Sim;22.99;0,04;Sim;Não;1;-;0
+Maceió/AL;Marechal Deodoro;2704302;2704708;45.977;Não;5.648;0,19;Sim;Não;1;-;0
+Maceió/AL;Messias;2704302;2705200;15.682;Não;2.162;0,23;Não;Não;1;-;1
+Maceió/AL;Paripueira;2704302;2706448;11.347;Não;1.971;0,26;Não;Sim;1;-;0
+Maceió/AL;Rio Largo;2704302;2707701;68.481;Não;11.714;0,28;Sim;Não;1;-;0
+Maceió/AL;Santa Luzia do Norte;2704302;2707909;6.891;Não;1.068;0,25;Sim;Não;1;-;0
+Maceió/AL;Satuba;2704302;2708907;14.603;Não;3.826;0,44;Sim;Não;1;-;0
+Mafra/SC - Rio Negro/PR;Mafra;4210100;4210100;52.912;Sim;5.969;0,15;Sim;Não;1;-;0
+Mafra/SC - Rio Negro/PR;Rio Negro;4210100;4122305;31.274;Sim;5.969;0,26;Sim;Não;1;-;0
+Mamanguape - Rio Tinto/PB;Mamanguape;2508901;2508901;42.303;Sim;1.471;0,06;Sim;Não;1;-;0
+Mamanguape - Rio Tinto/PB;Rio Tinto;2508901;2512903;22.976;Sim;1.471;0,10;Sim;Não;1;-;0
+Maragogi/AL - São José da Coroa Grande/PE;Maragogi;2704500;2704500;28.749;Sim;844;0,04;Sim;Não;1;-;0
+Maragogi/AL - São José da Coroa Grande/PE;São José da Coroa Grande;2704500;2613404;18.18;Sim;844;0,08;Sim;Não;1;-;0
+Marília/SP;Marília;3529005;3529005;216.745;Sim;2.753;0,02;Não;Não;1;-;0
+Marília/SP;Oriente;3529005;3534104;6.097;Não;887;0,22;Não;Não;1;-;0
+Marília/SP;Vera Cruz;3529005;3556602;10.769;Não;1.872;0,24;Não;Não;1;-;0
+Maringá/PR;Floresta;4115200;4107900;5.931;Não;1.237;0,28;Não;Não;1;-;0
+Maringá/PR;Iguaraçu;4115200;4110003;3.982;Não;611;0,20;Não;Não;1;-;0
+Maringá/PR;Itambé;4115200;4111100;5.979;Não;784;0,19;Não;Não;1;-;1
+Maringá/PR;Mandaguaçu;4115200;4114104;19.781;Não;4.135;0,29;Não;Não;1;-;0
+Maringá/PR;Marialva;4115200;4114807;31.959;Não;4.309;0,18;Não;Não;1;-;1
+Maringá/PR;Maringá;4115200;4115200;357.077;Sim;45.406;0,17;Sim;Não;1;-;0
+Maringá/PR;Ourizona;4115200;4117404;3.38;Não;671;0,27;Não;Não;1;-;0
+Maringá/PR;Paiçandu;4115200;4117503;35.936;Não;10.757;0,40;Sim;Não;1;-;0
+Maringá/PR;Presidente Castelo Branco;4115200;4120408;4.784;Não;710;0,20;Não;Não;1;-;0
+Maringá/PR;Sarandi;4115200;4126256;82.847;Não;25.42;0,42;Sim;Não;1;-;0
+Matão/SP;Dobrada;3529302;3514007;7.939;Não;987;0,17;Não;Não;1;-;0
+Matão/SP;Matão;3529302;3529302;76.786;Sim;987;0,02;Não;Não;1;-;0
+Matinhos - Pontal do Paraná/PR;Matinhos;4115705;4115705;29.428;Sim;426;0,02;Sim;Não;1;-;0
+Matinhos - Pontal do Paraná/PR;Pontal do Paraná;4115705;4119954;20.92;Sim;426;0,03;Sim;Não;1;-;0
+Matozinhos/MG;Capim Branco;3141108;3112505;8.881;Não;1.399;0,23;Sim;Não;1;-;0
+Matozinhos/MG;Matozinhos;3141108;3141108;33.955;Sim;1.399;0,06;Sim;Não;1;-;0
+Maurilândia/GO;Maurilândia;5213004;5213004;11.521;Sim;1.027;0,13;Não;Não;1;-;0
+Maurilândia/GO;Porteirão;5213004;5218052;3.347;Não;486;0,20;Não;Não;1;-;1
+Maurilândia/GO;Turvelândia;5213004;5221551;4.399;Não;1.007;0,32;Não;Não;1;-;0
+Mendes - Engenheiro Paulo de Frontin/RJ;Engenheiro Paulo de Frontin;3302809;3301801;13.237;Sim;814;0,10;Sim;Não;1;-;0
+Mendes - Engenheiro Paulo de Frontin/RJ;Mendes;3302809;3302809;17.935;Sim;814;0,07;Sim;Não;1;-;0
+Miracema do Tocantins/TO;Miracema do Tocantins;1713205;1713205;20.684;Sim;184;0,01;Sim;Não;1;-;0
+Miracema do Tocantins/TO;Tocantínia;1713205;1721109;6.736;Não;184;0,05;Sim;Não;1;-;0
+Mogi Guaçu - Mogi Mirim/SP;Estiva Gerbi;3530706;3557303;10.044;Não;2.201;0,32;Sim;Sim;1;-;0
+Mogi Guaçu - Mogi Mirim/SP;Mogi Guaçu;3530706;3530706;137.245;Sim;8.296;0,09;Sim;Não;1;-;0
+Mogi Guaçu - Mogi Mirim/SP;Mogi Mirim;3530706;3530805;86.505;Sim;6.327;0,10;Sim;Não;1;-;0
+Morros - Axixá/MA;Axixá;2107100;2101103;11.407;Sim;151;0,02;Sim;Não;1;-;0
+Morros - Axixá/MA;Morros;2107100;2107100;17.783;Sim;151;0,01;Sim;Não;1;-;0
+Natal/RN;Extremoz;2408102;2403608;24.569;Não;10.804;0,68;Sim;Não;1;-;0
+Natal/RN;Macaíba;2408102;2407104;69.467;Não;12.066;0,26;Não;Não;1;-;1
+Natal/RN;Natal;2408102;2408102;803.739;Sim;87.188;0,15;Sim;Não;1;-;0
+Natal/RN;Parnamirim;2408102;2403251;202.456;Não;55.379;0,38;Sim;Não;1;-;0
+Natal/RN;São Gonçalo do Amarante;2408102;2412005;87.668;Não;25.089;0,43;Sim;Não;1;-;0
+Nhamundá/AM;Faro;1303007;1503002;8.177;Não;333;0,06;Não;Não;1;-;0
+Nhamundá/AM;Nhamundá;1303007;1303007;18.278;Sim;333;0,03;Não;Não;1;-;0
+Nova Granada/SP;Nova Granada;3533007;3533007;19.18;Sim;1.538;0,12;Não;Não;1;-;0
+Nova Granada/SP;Onda Verde;3533007;3534005;3.884;Não;1.538;0,58;Não;Não;1;-;0
+Nova Londrina - Marilena/PR;Marilena;4117107;4115002;6.858;Sim;889;0,18;Não;Não;1;-;0
+Nova Londrina - Marilena/PR;Nova Londrina;4117107;4117107;13.067;Sim;889;0,09;Não;Não;1;-;0
+Nova Serrana/MG;Leandro Ferreira;3145208;3138302;3.205;Não;465;0,21;Não;Não;1;-;0
+Nova Serrana/MG;Nova Serrana;3145208;3145208;73.699;Sim;465;0,01;Não;Não;1;-;0
+Novo Hamburgo - São Leopoldo/RS;Campo Bom;4313409;4303905;60.074;Não;11.37;0,24;Sim;Não;1;-;0
+Novo Hamburgo - São Leopoldo/RS;Estância Velha;4313409;4307609;42.574;Não;12.426;0,37;Sim;Não;1;-;0
+Novo Hamburgo - São Leopoldo/RS;Novo Hamburgo;4313409;4313409;238.94;Sim;39.936;0,23;Sim;Não;1;-;0
+Novo Hamburgo - São Leopoldo/RS;Portão;4313409;4314803;30.92;Não;5.037;0,22;Sim;Não;1;-;0
+Novo Hamburgo - São Leopoldo/RS;São Leopoldo;4313409;4318705;214.087;Sim;24.793;0,16;Sim;Não;1;-;0
+Otacílio Costa/SC;Otacílio Costa;4211751;4211751;16.337;Sim;352;0,03;Não;Não;1;-;0
+Otacílio Costa/SC;Palmeira;4211751;4212056;2.373;Não;352;0,21;Não;Sim;1;-;0
+Ourinhos/SP;Canitar;3534708;3510153;4.369;Não;777;0,25;Não;Não;1;-;0
+Ourinhos/SP;Ourinhos;3534708;3534708;103.035;Sim;777;0,01;Não;Não;1;-;0
+Paraguaçu Paulista/SP;Borá;3535507;3507209;805;Não;527;0,91;Não;Não;1;-;0
+Paraguaçu Paulista/SP;Paraguaçu Paulista;3535507;3535507;42.278;Sim;527;0,02;Não;Não;1;-;0
+Paranacity/PR;Cruzeiro do Sul;4118105;4106704;4.563;Não;685;0,21;Sim;Não;1;-;0
+Paranacity/PR;Paranacity;4118105;4118105;10.25;Sim;685;0,09;Sim;Não;1;-;0
+Paranavaí/PR;Nova Aliança do Ivaí;4118402;4116505;1.431;Não;188;0,18;Não;Não;1;-;0
+Paranavaí/PR;Paranavaí;4118402;4118402;81.59;Sim;188;0,00;Não;Não;1;-;0
+Paraopeba/MG;Caetanópolis;3147402;3109907;10.218;Não;1.451;0,21;Sim;Não;1;-;0
+Paraopeba/MG;Paraopeba;3147402;3147402;22.563;Sim;1.451;0,09;Sim;Não;1;-;0
+Passos/SP;Fortaleza de Minas;3147907;3126307;4.098;Não;450;0,17;Não;Não;1;-;0
+Passos/SP;Passos;3147907;3147907;106.29;Sim;450;0,01;Não;Não;1;-;0
+Pato Branco/PR;Pato Branco;4118501;4118501;72.37;Sim;959;0,02;Não;Não;1;-;0
+Pato Branco/PR;Vitorino;4118501;4128708;6.513;Não;959;0,20;Não;Não;1;-;0
+Patos/PB;Patos;2510808;2510808;100.674;Sim;219;0,00;Não;Não;1;-;0
+Patos/PB;Quixabá;2510808;2512606;1.699;Não;219;0,20;Não;Não;1;-;0
+Paty do Alferes - Miguel Pereira/RJ;Miguel Pereira;3303856;3302908;24.642;Sim;2.568;0,15;Sim;Não;1;-;0
+Paty do Alferes - Miguel Pereira/RJ;Paty do Alferes;3303856;3303856;26.359;Sim;2.568;0,14;Sim;Não;1;-;0
+Paulo de Faria - Orindiúva/SP;Orindiúva;3536604;3534203;5.675;Sim;919;0,22;Não;Não;1;-;0
+Paulo de Faria - Orindiúva/SP;Paulo de Faria;3536604;3536604;8.589;Sim;919;0,15;Não;Não;1;-;0
+Pedreiras/MA;Pedreiras;2108207;2108207;39.448;Sim;2.057;0,08;Sim;Não;1;-;0
+Pedreiras/MA;Trizidela do Vale;2108207;2112233;18.953;Não;2.057;0,17;Sim;Sim;1;-;0
+Pedro Afonso/TO;Bom Jesus do Tocantins;1716505;1703305;3.768;Não;819;0,31;Sim;Sim;1;-;0
+Pedro Afonso/TO;Pedro Afonso;1716505;1716505;11.539;Sim;982;0,12;Sim;Não;1;-;0
+Pedro Afonso/TO;Tupirama;1716505;1721257;1.574;Não;175;0,17;Sim;Não;1;-;0
+Pedro Osório - Cerrito/RS;Cerrito;4314209;4305124;6.402;Sim;376;0,09;Sim;Sim;1;-;0
+Pedro Osório - Cerrito/RS;Pedro Osório;4314209;4314209;7.811;Sim;376;0,08;Sim;Não;1;-;0
+Pelotas/RS;Arroio do Padre;4314407;4301073;2.73;Não;471;0,24;Não;Sim;1;-;0
+Pelotas/RS;Capão do Leão;4314407;4304663;24.298;Não;5.428;0,36;Sim;Não;1;-;0
+Pelotas/RS;Pelotas;4314407;4314407;328.275;Sim;5.879;0,03;Sim;Não;1;-;0
+Penedo/AL;Neópolis;2706703;2804409;18.506;Não;375;0,03;Sim;Não;1;-;0
+Penedo/AL;Penedo;2706703;2706703;60.378;Sim;375;0,01;Sim;Não;1;-;0
+Petrolina/PE - Juazeiro/BA;Juazeiro;2611101;2918407;197.965;Sim;13.286;0,10;Sim;Não;1;-;0
+Petrolina/PE - Juazeiro/BA;Petrolina;2611101;2611101;293.962;Sim;13.286;0,06;Sim;Não;1;-;0
+Petrópolis/RJ;Areal;3303906;3300225;11.423;Não;1.464;0,19;Não;Não;1;-;0
+Petrópolis/RJ;Petrópolis;3303906;3303906;295.917;Sim;1.464;0,01;Não;Não;1;-;0
+Picos/PI;Geminiano;2208007;2204352;5.475;Não;691;0,20;Não;Sim;1;-;0
+Picos/PI;Picos;2208007;2208007;73.414;Sim;691;0,01;Não;Não;1;-;0
+Piracicaba/SP;Charqueada;3538709;3511706;15.085;Não;2.296;0,22;Não;Não;1;-;0
+Piracicaba/SP;Piracicaba;3538709;3538709;364.571;Sim;8.169;0,03;Não;Não;1;-;0
+Piracicaba/SP;Rio das Pedras;3538709;3544004;29.501;Não;4.65;0,22;Não;Não;1;-;0
+Piracicaba/SP;Saltinho;3538709;3545159;7.059;Não;1.681;0,32;Não;Sim;1;-;0
+Pirajuí/SP;Balbinos;3538907;3504701;3.702;Não;256;0,19;Não;Não;1;-;0
+Pirajuí/SP;Pirajuí;3538907;3538907;22.704;Sim;256;0,02;Não;Não;1;-;0
+Pirapora - Buritizeiro/MG;Buritizeiro;3151206;3109402;26.922;Sim;2.459;0,13;Sim;Não;1;-;0
+Pirapora - Buritizeiro/MG;Pirapora;3151206;3151206;53.368;Sim;2.459;0,06;Sim;Não;1;-;0
+Pirapozinho/SP;Narandiba;3539202;3532207;4.288;Não;779;0,26;Não;Não;1;-;0
+Pirapozinho/SP;Pirapozinho;3539202;3539202;24.694;Sim;779;0,04;Não;Não;1;-;0
+Piratuba - Ipira/SC;Ipira;4213104;4207601;4.752;Não;681;0,18;Sim;Não;1;-;0
+Piratuba - Ipira/SC;Piratuba;4213104;4213104;4.786;Sim;681;0,18;Sim;Não;1;-;0
+Pires do Rio/GO;Palmelo;5217401;5215801;2.335;Não;288;0,18;Não;Não;1;-;0
+Pires do Rio/GO;Pires do Rio;5217401;5217401;28.762;Sim;685;0,03;Não;Não;1;-;0
+Pires do Rio/GO;Urutaí;5217401;5221809;3.074;Não;413;0,19;Não;Não;1;-;0
+Pitangui/MG;Conceição do Pará;3151404;3117603;5.158;Não;805;0,23;Não;Não;1;-;0
+Pitangui/MG;Pitangui;3151404;3151404;25.311;Sim;805;0,04;Não;Não;1;-;0
+Planura/MG - Colômbia/SP;Colômbia;3151602;3512100;5.994;Sim;1.209;0,28;Sim;Não;1;-;0
+Planura/MG - Colômbia/SP;Planura;3151602;3151602;10.384;Sim;1.209;0,17;Sim;Não;1;-;0
+Pompéia/SP;Pompéia;3540002;3540002;19.964;Sim;676;0,05;Não;Não;1;-;0
+Pompéia/SP;Quintana;3540002;3542008;6.004;Não;676;0,17;Não;Não;1;-;0
+Ponta Grossa/PR;Carambeí;4119905;4104659;19.163;Não;2.742;0,20;Não;Sim;1;-;0
+Ponta Grossa/PR;Ponta Grossa;4119905;4119905;311.611;Sim;2.742;0,01;Não;Não;1;-;0
+Ponte Nova/MG;Oratórios;3152105;3145851;4.493;Não;551;0,18;Não;Sim;1;-;0
+Ponte Nova/MG;Ponte Nova;3152105;3152105;57.39;Sim;551;0,01;Não;Não;1;-;0
+Ponto Belo - Mucurici/ES;Mucurici;3204252;3203601;5.655;Sim;246;0,06;Sim;Não;1;-;0
+Ponto Belo - Mucurici/ES;Ponto Belo;3204252;3204252;6.979;Sim;246;0,06;Sim;Sim;1;-;0
+Porto Alegre/RS;Alvorada;4314902;4300604;195.673;Não;65.188;0,48;Sim;Não;1;-;0
+Porto Alegre/RS;Cachoeirinha;4314902;4303103;118.278;Não;50.275;0,59;Sim;Não;1;-;0
+Porto Alegre/RS;Canoas;4314902;4304606;323.827;Não;87.891;0,38;Sim;Não;1;-;0
+Porto Alegre/RS;Eldorado do Sul;4314902;4306767;34.343;Não;13.737;0,54;Sim;Sim;1;-;0
+Porto Alegre/RS;Esteio;4314902;4307708;80.755;Não;31.362;0,55;Sim;Não;1;-;0
+Porto Alegre/RS;Glorinha;4314902;4309050;6.891;Não;1.369;0,28;Não;Sim;1;-;0
+Porto Alegre/RS;Gravataí;4314902;4309209;255.66;Não;58.76;0,34;Sim;Não;1;-;0
+Porto Alegre/RS;Guaíba;4314902;4309308;95.204;Não;21.065;0,32;Não;Não;1;-;0
+Porto Alegre/RS;Nova Santa Rita;4314902;4313375;22.716;Não;6.26;0,38;Não;Sim;2;Via Canoas (RS);0
+Porto Alegre/RS;Porto Alegre;4314902;4314902;1.409.351;Sim;268.777;0,26;Sim;Não;1;-;0
+Porto Alegre/RS;Sapucaia do Sul;4314902;4320008;130.957;Não;33.464;0,37;Sim;Não;1;-;0
+Porto Alegre/RS;Viamão;4314902;4323002;239.384;Não;74.16;0,44;Sim;Não;1;-;0
+Porto Velho/RO;Candeias do Jamari;1100205;1100809;19.779;Não;3.402;0,25;Não;Sim;1;-;0
+Porto Velho/RO;Porto Velho;1100205;1100205;428.527;Sim;3.402;0,01;Não;Não;1;-;0
+Pouso Alto/MG;Pouso Alto;3152600;3152600;6.213;Sim;163;0,04;Sim;Não;1;-;0
+Pouso Alto/MG;São Sebastião do Rio Verde;3152600;3164902;2.11;Sim;163;0,13;Sim;Não;1;-;0
+Praia Grande/SC;Mampituba;4213807;4311734;3.003;Não;205;0,09;Sim;Não;1;-;0
+Praia Grande/SC;Praia Grande;4213807;4213807;7.267;Sim;205;0,04;Sim;Não;1;-;0
+Presidente Juscelino - Cachoeira Grande/MA;Cachoeira Grande;2109205;2102374;8.446;Sim;120;0,02;Não;Não;1;-;0
+Presidente Juscelino - Cachoeira Grande/MA;Presidente Juscelino;2109205;2109205;11.541;Sim;120;0,02;Não;Não;1;-;0
+Presidente Prudente/SP;Alfredo Marcondes;3541406;3500808;3.891;Não;842;0,34;Não;Não;1;-;0
+Presidente Prudente/SP;Álvares Machado;3541406;3501301;23.513;Não;6.273;0,38;Sim;Não;1;-;0
+Presidente Prudente/SP;Anhumas;3541406;3502408;3.738;Não;774;0,29;Não;Não;1;-;0
+Presidente Prudente/SP;Caiabu;3541406;3508900;4.072;Não;735;0,29;Não;Não;1;-;0
+Presidente Prudente/SP;Emilianópolis;3541406;3515129;3.02;Não;405;0,19;Não;Sim;1;-;2
+Presidente Prudente/SP;Indiana;3541406;3520608;4.825;Não;895;0,27;Não;Não;1;-;0
+Presidente Prudente/SP;Presidente Bernardes;3541406;3541208;13.57;Não;1.749;0,19;Não;Não;1;-;1
+Presidente Prudente/SP;Presidente Prudente;3541406;3541406;207.61;Sim;14.407;0,10;Sim;Não;1;-;0
+Presidente Prudente/SP;Regente Feijó;3541406;3542404;18.494;Não;3.724;0,28;Não;Não;1;-;0
+Presidente Prudente/SP;Santo Expedito;3541406;3548302;2.803;Não;402;0,23;Não;Não;1;-;0
+Presidente Prudente/SP;Taciba;3541406;3552908;5.714;Não;777;0,20;Não;Não;1;-;1
+Presidente Prudente/SP;Tarabai;3541406;3553906;6.607;Não;801;0,18;Não;Não;1;-;2
+Presidente Venceslau/SP;Caiuá;3541505;3509106;5.039;Não;666;0,22;Não;Não;1;-;0
+Presidente Venceslau/SP;Presidente Venceslau;3541505;3541505;37.91;Sim;666;0,03;Não;Não;1;-;0
+Propriá/SE;Propriá;2805703;2805703;28.451;Sim;465;0,02;Não;Não;1;-;0
+Propriá/SE;Telha;2805703;2807303;2.957;Não;465;0,25;Não;Não;1;-;0
+Recife/PE;Abreu e Lima;2611606;2600054;94.429;Não;27.867;0,46;Sim;Não;1;-;0
+Recife/PE;Araçoiaba;2611606;2601052;18.156;Não;2.356;0,22;Não;Sim;1;-;1
+Recife/PE;Cabo de Santo Agostinho;2611606;2602902;185.025;Não;34.129;0,29;Sim;Não;1;-;0
+Recife/PE;Camaragibe;2611606;2603454;144.466;Não;39.109;0,42;Sim;Não;1;-;0
+Recife/PE;Igarassu;2611606;2606804;102.021;Não;21.565;0,33;Sim;Não;2;Via Abreu e Lima (PE);0
+Recife/PE;Ilha de Itamaracá;2611606;2607604;21.884;Não;3.139;0,25;Não;Não;1;-;1
+Recife/PE;Ipojuca;2611606;2607208;80.637;Não;16.124;0,31;Não;Não;1;-;1
+Recife/PE;Itapissuma;2611606;2607752;23.769;Não;5.268;0,35;Sim;Não;3;Via Igarassu (PE);0
+Recife/PE;Jaboatão dos Guararapes;2611606;2607901;644.62;Não;148.004;0,34;Sim;Não;1;-;0
+Recife/PE;Moreno;2611606;2609402;56.696;Não;8.255;0,24;Não;Não;1;-;1
+Recife/PE;Olinda;2611606;2609600;377.779;Não;113.601;0,46;Sim;Não;1;-;0
+Recife/PE;Paudalho;2611606;2610608;51.357;Não;5.485;0,18;Não;Não;1;-;1
+Recife/PE;Paulista;2611606;2610707;300.466;Não;86.539;0,44;Sim;Não;1;-;0
+Recife/PE;Recife;2611606;2611606;1.537.704;Sim;338.674;0,32;Sim;Não;1;-;0
+Recife/PE;São Lourenço da Mata;2611606;2613701;102.895;Não;20.735;0,33;Sim;Não;1;-;0
+Redenção - Acarape/CE;Acarape;2311603;2300150;15.338;Sim;745;0,08;Sim;Sim;1;-;0
+Redenção - Acarape/CE;Redenção;2311603;2311603;26.415;Sim;745;0,04;Sim;Não;1;-;0
+Resende/RJ;Itatiaia;3304201;3302254;28.783;Não;5.591;0,28;Sim;Sim;1;-;0
+Resende/RJ;Porto Real;3304201;3304110;16.592;Não;6.725;0,57;Sim;Sim;1;-;0
+Resende/RJ;Quatis;3304201;3304128;12.793;Não;2.055;0,24;Sim;Não;2;Via Porto Real (RJ);0
+Resende/RJ;Resende;3304201;3304201;119.769;Sim;10.317;0,12;Sim;Não;1;-;0
+Ribeirão Preto/SP;Brodowski;3543402;3507803;21.107;Não;3.025;0,19;Não;Não;1;-;0
+Ribeirão Preto/SP;Cravinhos;3543402;3513108;31.691;Não;5.738;0,24;Não;Não;1;-;0
+Ribeirão Preto/SP;Jardinópolis;3543402;3525102;37.661;Não;5.385;0,21;Sim;Não;1;-;0
+Ribeirão Preto/SP;Ribeirão Preto;3543402;3543402;604.682;Sim;21.899;0,05;Sim;Não;1;-;0
+Ribeirão Preto/SP;Santa Cruz da Esperança;3543402;3546256;1.953;Não;289;0,20;Não;Não;1;-;1
+Ribeirão Preto/SP;Serra Azul;3543402;3551405;11.256;Não;2.069;0,28;Não;Não;1;-;0
+Ribeirão Preto/SP;Serrana;3543402;3551504;38.878;Não;7.723;0,27;Não;Não;1;-;0
+Rio Claro/SP;Ipeúna;3543907;3521101;6.016;Não;1.001;0,22;Não;Não;1;-;0
+Rio Claro/SP;Rio Claro;3543907;3543907;186.253;Sim;3.951;0,03;Sim;Não;1;-;0
+Rio Claro/SP;Santa Gertrudes;3543907;3546702;21.634;Não;3.064;0,20;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Belford Roxo;3304557;3300456;469.332;Não;131.294;0,41;Sim;Sim;1;-;0
+Rio de Janeiro/RJ;Duque de Caxias;3304557;3301702;855.048;Não;189.399;0,33;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Guapimirim;3304557;3301850;51.483;Não;8.736;0,25;Não;Sim;1;-;1
+Rio de Janeiro/RJ;Itaboraí;3304557;3301900;218.008;Não;49.269;0,33;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Itaguaí;3304557;3302007;109.091;Não;21.09;0,29;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Japeri;3304557;3302270;95.492;Não;23.522;0,39;Sim;Sim;1;-;0
+Rio de Janeiro/RJ;Magé;3304557;3302502;227.322;Não;40.673;0,27;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Mangaratiba;3304557;3302601;36.456;Não;6.702;0,26;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Maricá;3304557;3302700;127.461;Não;23.124;0,27;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Mesquita;3304557;3302858;168.376;Não;60.154;0,53;Sim;Sim;1;-;0
+Rio de Janeiro/RJ;Nilópolis;3304557;3303203;157.425;Não;60.172;0,58;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Niterói;3304557;3303302;487.562;Não;236.479;0,69;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Nova Iguaçu;3304557;3303500;796.257;Não;190.455;0,36;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Paracambi;3304557;3303609;47.124;Não;6.743;0,24;Não;Não;1;-;1
+Rio de Janeiro/RJ;Queimados;3304557;3304144;137.962;Não;38.145;0,42;Sim;Sim;1;-;0
+Rio de Janeiro/RJ;Rio de Janeiro;3304557;3304557;6.320.446;Sim;713.562;0,16;Sim;Não;1;-;0
+Rio de Janeiro/RJ;São Gonçalo;3304557;3304904;999.728;Não;219.971;0,32;Sim;Não;1;-;0
+Rio de Janeiro/RJ;São João de Meriti;3304557;3305109;458.673;Não;136.558;0,44;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Saquarema;3304557;3305505;74.234;Não;3.3;0,07;Sim;Não;1;-;0
+Rio de Janeiro/RJ;Seropédica;3304557;3305554;78.186;Não;20.613;0,38;Não;Sim;1;-;0
+Rio de Janeiro/RJ;Tanguá;3304557;3305752;30.732;Não;5.059;0,25;Sim;Sim;1;-;0
+Rio do Sul/SC;Agronômica;4214805;4200309;4.904;Não;450;0,11;Sim;Não;1;-;0
+Rio do Sul/SC;Lontras;4214805;4209904;10.244;Não;1.478;0,18;Não;Não;1;-;0
+Rio do Sul/SC;Rio do Sul;4214805;4214805;61.198;Sim;1.924;0,04;Sim;Não;1;-;0
+Riolândia/SP;Pontes Gestal;3544202;3540309;2.518;Não;605;0,35;Não;Não;1;-;0
+Riolândia/SP;Riolândia;3544202;3544202;10.575;Sim;605;0,09;Não;Não;1;-;0
+Salvador do Sul/RS;Salvador do Sul;4316501;4316501;6.747;Sim;591;0,10;Sim;Não;1;-;0
+Salvador do Sul/RS;São Pedro da Serra;4316501;4319356;3.315;Não;591;0,22;Sim;Sim;1;-;0
+Salvador/BA;Camaçari;2927408;2905701;242.97;Não;45.59;0,27;Não;Não;1;-;0
+Salvador/BA;Candeias;2927408;2906501;83.158;Não;16.422;0,30;Não;Não;1;-;1
+Salvador/BA;Dias d´Ávila;2927408;2910057;66.44;Não;11.604;0,26;Sim;Não;2;Via Camaçari (BA);0
+Salvador/BA;Lauro de Freitas;2927408;2919207;163.449;Não;49.269;0,41;Sim;Não;1;-;0
+Salvador/BA;Madre de Deus;2927408;2919926;17.376;Não;6.004;0,55;Não;Sim;1;-;0
+Salvador/BA;Mata de São João;2927408;2921005;40.183;Não;6.031;0,23;Não;Não;1;-;1
+Salvador/BA;Salvador;2927408;2927408;2.675.656;Sim;97.908;0,05;Sim;Não;1;-;0
+Salvador/BA;São Francisco do Conde;2927408;2929206;33.183;Não;7.424;0,33;Não;Não;1;-;1
+Salvador/BA;São Sebastião do Passé;2927408;2929503;42.153;Não;4.83;0,18;Não;Não;1;-;2
+Salvador/BA;Simões Filho;2927408;2930709;118.047;Não;23.918;0,30;Sim;Não;1;-;0
+Santa Adélia - Palmares Paulista - Ariranha/SP;Ariranha;3545605;3503703;8.547;Sim;2.787;0,47;Não;Não;1;-;0
+Santa Adélia - Palmares Paulista - Ariranha/SP;Palmares Paulista;3545605;3535101;10.934;Sim;1.458;0,18;Não;Não;1;-;0
+Santa Adélia - Palmares Paulista - Ariranha/SP;Santa Adélia;3545605;3545605;14.333;Sim;1.459;0,15;Não;Não;1;-;0
+Santa Cruz do Sul/RS;Santa Cruz do Sul;4316808;4316808;118.374;Sim;3.76;0,04;Não;Não;1;-;0
+Santa Cruz do Sul/RS;Vera Cruz;4316808;4322707;23.983;Não;3.76;0,21;Não;Não;1;-;0
+Santa Fé do Sul/SP;Rubinéia;3546603;3544509;2.862;Não;452;0,24;Não;Não;1;-;0
+Santa Fé do Sul/SP;Santa Clara d´Oeste;3546603;3546108;2.084;Não;347;0,24;Não;Não;1;-;0
+Santa Fé do Sul/SP;Santa Fé do Sul;3546603;3546603;29.239;Sim;2.11;0,10;Sim;Não;1;-;0
+Santa Fé do Sul/SP;Santa Rita d´Oeste;3546603;3547403;2.543;Não;397;0,23;Não;Não;1;-;0
+Santa Fé do Sul/SP;Santana da Ponte Pensa;3546603;3547205;1.641;Não;195;0,17;Não;Não;1;-;1
+Santa Fé do Sul/SP;Três Fronteiras;3546603;3554904;5.427;Não;937;0,26;Sim;Não;1;-;0
+Santa Helena - Turilândia/MA;Santa Helena;2109809;2109809;39.11;Sim;653;0,02;Sim;Não;1;-;0
+Santa Helena - Turilândia/MA;Turilândia;2109809;2112456;22.846;Sim;653;0,04;Sim;Não;1;-;0
+Santa Maria da Vitória/BA;Santa Maria da Vitória;2928109;2928109;40.309;Sim;1.229;0,05;Sim;Não;1;-;0
+Santa Maria da Vitória/BA;São Félix do Coribe;2928109;2929057;13.048;Não;1.229;0,14;Sim;Sim;1;-;0
+Santa Maria/RS;Itaara;4316907;4310538;5.01;Não;871;0,26;Não;Sim;1;-;0
+Santa Maria/RS;Santa Maria;4316907;4316907;261.031;Sim;871;0,00;Não;Não;1;-;0
+Santo Ângelo/RS;Entre-Ijuís;4317509;4306932;8.938;Não;1.041;0,16;Sim;Sim;1;-;0
+Santo Ângelo/RS;Santo Ângelo;4317509;4317509;76.275;Sim;1.041;0,02;Sim;Não;1;-;0
+Santo Antônio de Pádua/RJ;Pirapetinga;3304706;3151107;10.364;Não;1.467;0,21;Não;Não;1;-;0
+Santo Antônio de Pádua/RJ;Santo Antônio de Pádua;3304706;3304706;40.589;Sim;1.467;0,05;Não;Não;1;-;0
+Santo Antônio do Aracanguá/SP;Nova Luzitânia;3548054;3533304;3.441;Não;449;0,19;Não;Não;1;-;0
+Santo Antônio do Aracanguá/SP;Santo Antônio do Aracanguá;3548054;3548054;7.626;Sim;449;0,08;Não;Não;1;-;0
+Santo Antônio/RN;Santo Antônio;2411502;2411502;22.216;Sim;269;0,02;Sim;Não;1;-;0
+Santo Antônio/RN;Serrinha;2411502;2413508;6.581;Não;269;0,06;Sim;Não;1;-;0
+São Bento do Sul - Rio Negrinho/SC;Rio Negrinho;4215802;4215000;39.846;Sim;1.385;0,05;Sim;Não;1;-;0
+São Bento do Sul - Rio Negrinho/SC;São Bento do Sul;4215802;4215802;74.801;Sim;1.385;0,02;Sim;Não;1;-;0
+São Carlos - Águas de Chapecó/SC;Águas de Chapecó;4216008;4200507;6.11;Sim;659;0,14;Sim;Não;1;-;0
+São Carlos - Águas de Chapecó/SC;São Carlos;4216008;4216008;10.291;Sim;659;0,08;Sim;Não;1;-;0
+São Carlos/SP;Ibaté;3548906;3519303;30.734;Não;3.741;0,18;Não;Não;1;-;0
+São Carlos/SP;São Carlos;3548906;3548906;221.95;Sim;3.741;0,02;Não;Não;1;-;0
+São Gabriel/RS;Santa Margarida do Sul;4318309;4316972;2.352;Não;387;0,26;Não;Sim;1;-;0
+São Gabriel/RS;São Gabriel;4318309;4318309;60.425;Sim;387;0,01;Não;Não;1;-;0
+São Geraldo do Araguaia/PA;São Geraldo do Araguaia;1507458;1507458;25.587;Sim;258;0,02;Sim;Não;1;-;0
+São Geraldo do Araguaia/PA;Xambioá;1507458;1722107;11.484;Não;258;0,03;Sim;Não;1;-;0
+São João da Boa Vista/SP;Águas da Prata;3549102;3500402;7.584;Não;1.015;0,20;Sim;Não;1;-;0
+São João da Boa Vista/SP;São João da Boa Vista;3549102;3549102;83.639;Sim;1.015;0,02;Sim;Não;1;-;0
+São João del Rei/MG;Coronel Xavier Chaves;3162500;3119708;3.301;Não;346;0,17;Não;Não;1;-;1
+São João del Rei/MG;Santa Cruz de Minas;3162500;3157336;7.865;Não;3.03;0,57;Sim;Sim;1;-;0
+São João del Rei/MG;São João del Rei;3162500;3162500;84.469;Sim;4.31;0,08;Sim;Não;1;-;0
+São João del Rei/MG;Tiradentes;3162500;3168804;6.961;Não;1.256;0,24;Não;Não;1;-;0
+São José de Mipibu - Nísia Floresta/RN;Nísia Floresta;2412203;2408201;23.784;Sim;1.664;0,11;Sim;Não;1;-;0
+São José de Mipibu - Nísia Floresta/RN;São José de Mipibu;2412203;2412203;39.776;Sim;1.664;0,07;Sim;Não;1;-;0
+São José do Rio Preto/SP;Bady Bassitt;3549805;3504602;14.603;Não;4.108;0,36;Sim;Não;1;-;0
+São José do Rio Preto/SP;Bálsamo;3549805;3504800;8.16;Não;1.606;0,28;Não;Não;1;-;0
+São José do Rio Preto/SP;Cedral;3549805;3511300;7.972;Não;1.723;0,31;Sim;Não;1;-;0
+São José do Rio Preto/SP;Guapiaçu;3549805;3517505;17.869;Não;3.54;0,28;Sim;Não;1;-;0
+São José do Rio Preto/SP;Ipiguá;3549805;3521150;4.463;Não;1.254;0,43;Não;Sim;1;-;0
+São José do Rio Preto/SP;Jaci;3549805;3524501;5.657;Não;1.206;0,30;Não;Não;1;-;1
+São José do Rio Preto/SP;Mirassol;3549805;3530300;53.792;Não;7.817;0,21;Sim;Não;1;-;0
+São José do Rio Preto/SP;Mirassolândia;3549805;3530409;4.295;Não;759;0,26;Não;Não;1;-;0
+São José do Rio Preto/SP;Neves Paulista;3549805;3532504;8.772;Não;1.54;0,26;Não;Não;1;-;1
+São José do Rio Preto/SP;Nova Aliança;3549805;3532801;5.891;Não;1.156;0,28;Não;Não;1;-;0
+São José do Rio Preto/SP;São José do Rio Preto;3549805;3549805;408.258;Sim;20.046;0,07;Sim;Não;1;-;0
+São José do Rio Preto/SP;Uchoa;3549805;3555604;9.471;Não;1.355;0,21;Não;Não;1;-;0
+São José dos Campos/SP;Caçapava;3549904;3508504;84.752;Não;6.979;0,12;Sim;Não;1;-;0
+São José dos Campos/SP;Jacareí;3549904;3524402;211.214;Não;26.174;0,18;Sim;Não;1;-;0
+São José dos Campos/SP;Jambeiro;3549904;3524907;5.349;Não;1.066;0,28;Não;Não;1;-;0
+São José dos Campos/SP;Monteiro Lobato;3549904;3531704;4.12;Não;679;0,24;Não;Não;1;-;0
+São José dos Campos/SP;Santa Branca;3549904;3546009;13.763;Não;1.983;0,21;Não;Não;1;-;1
+São José dos Campos/SP;São José dos Campos;3549904;3549904;629.921;Sim;32.625;0,07;Sim;Não;1;-;0
+São Lourenço/MG;São Lourenço;3163706;3163706;41.657;Sim;1.026;0,03;Não;Não;1;-;0
+São Lourenço/MG;Soledade de Minas;3163706;3167806;5.676;Não;1.026;0,27;Não;Não;1;-;0
+São Luís/MA;Paço do Lumiar;2111300;2107506;105.121;Não;27.414;0,38;Sim;Não;1;-;0
+São Luís/MA;Raposa;2111300;2109452;26.327;Não;3.085;0,17;Sim;Sim;1;-;0
+São Luís/MA;São José de Ribamar;2111300;2111201;163.045;Não;39.227;0,35;Sim;Não;1;-;0
+São Luís/MA;São Luís;2111300;2111300;1.014.837;Sim;59.394;0,08;Sim;Não;1;-;0
+São Paulo/SP;Arujá;3550308;3503901;74.905;Não;26.607;0,49;Sim;Não;1;-;0
+São Paulo/SP;Barueri;3550308;3505708;240.749;Não;143.227;0,80;Sim;Não;1;-;0
+São Paulo/SP;Biritiba-Mirim;3550308;3506607;28.575;Não;4.775;0,24;Não;Não;1;-;1
+São Paulo/SP;Caieiras;3550308;3509007;86.529;Não;28.741;0,45;Sim;Não;1;-;0
+São Paulo/SP;Cajamar;3550308;3509205;64.114;Não;14.12;0,31;Não;Não;1;-;1
+São Paulo/SP;Carapicuíba;3550308;3510609;369.584;Não;116.482;0,45;Sim;Não;1;-;0
+São Paulo/SP;Cotia;3550308;3513009;201.15;Não;65.792;0,43;Sim;Não;1;-;0
+São Paulo/SP;Diadema;3550308;3513801;386.089;Não;134.708;0,48;Sim;Não;1;-;0
+São Paulo/SP;Embu;3550308;3515004;240.23;Não;76.341;0,44;Sim;Não;1;-;0
+São Paulo/SP;Embu-Guaçu;3550308;3515103;62.769;Não;11.033;0,25;Sim;Não;1;-;0
+São Paulo/SP;Ferraz de Vasconcelos;3550308;3515707;168.306;Não;58.308;0,48;Sim;Não;1;-;0
+São Paulo/SP;Francisco Morato;3550308;3516309;154.472;Não;40.815;0,38;Sim;Não;1;-;0
+São Paulo/SP;Franco da Rocha;3550308;3516408;131.604;Não;35.41;0,41;Sim;Não;1;-;0
+São Paulo/SP;Guarulhos;3550308;3518800;1.221.979;Não;182.9;0,20;Sim;Não;1;-;0
+São Paulo/SP;Itapecerica da Serra;3550308;3522208;152.614;Não;44.052;0,40;Sim;Não;1;-;0
+São Paulo/SP;Itapevi;3550308;3522505;200.769;Não;59.964;0,43;Sim;Não;1;-;0
+São Paulo/SP;Itaquaquecetuba;3550308;3523107;321.77;Não;82.528;0,38;Sim;Não;1;-;0
+São Paulo/SP;Jandira;3550308;3525003;108.344;Não;48.781;0,60;Sim;Não;1;-;0
+São Paulo/SP;Mairiporã;3550308;3528502;80.956;Não;11.899;0,21;Sim;Não;1;-;0
+São Paulo/SP;Mauá;3550308;3529401;417.064;Não;118.864;0,41;Sim;Não;1;-;0
+São Paulo/SP;Mogi das Cruzes;3550308;3530607;387.779;Não;61.387;0,23;Sim;Não;1;-;0
+São Paulo/SP;Osasco;3550308;3534401;666.74;Não;202.932;0,42;Sim;Não;1;-;0
+São Paulo/SP;Pirapora do Bom Jesus;3550308;3539103;15.733;Não;3.419;0,31;Não;Não;1;-;1
+São Paulo/SP;Poá;3550308;3539806;106.013;Não;43.082;0,58;Sim;Não;1;-;0
+São Paulo/SP;Ribeirão Pires;3550308;3543303;113.068;Não;41.394;0,54;Sim;Não;1;-;0
+São Paulo/SP;Rio Grande da Serra;3550308;3544103;43.974;Não;16.952;0,55;Sim;Não;1;-;0
+São Paulo/SP;Salesópolis;3550308;3545001;15.635;Não;1.982;0,18;Não;Não;1;-;2
+São Paulo/SP;Santa Isabel;3550308;3546801;50.453;Não;7.52;0,22;Não;Não;1;-;1
+São Paulo/SP;Santana de Parnaíba;3550308;3547304;108.813;Não;43.295;0,52;Sim;Não;1;-;0
+São Paulo/SP;Santo André;3550308;3547809;676.407;Não;245.614;0,51;Sim;Não;1;-;0
+São Paulo/SP;São Bernardo do Campo;3550308;3548708;765.463;Não;253.897;0,45;Sim;Não;1;-;0
+São Paulo/SP;São Caetano do Sul;3550308;3548807;149.263;Não;107.654;1,01;Sim;Não;1;-;0
+São Paulo/SP;São Lourenço da Serra;3550308;3549953;13.973;Não;2.448;0,23;Não;Sim;1;-;1
+São Paulo/SP;São Paulo;3550308;3550308;11.253.503;Sim;1.100.697;0,13;Sim;Não;1;-;0
+São Paulo/SP;Suzano;3550308;3552502;262.48;Não;64.151;0,36;Sim;Não;1;-;0
+São Paulo/SP;Taboão da Serra;3550308;3552809;244.528;Não;90.936;0,50;Sim;Não;1;-;0
+São Paulo/SP;Vargem Grande Paulista;3550308;3556453;42.997;Não;11.049;0,36;Sim;Não;1;-;0
+São Pedro/SP;Águas de São Pedro;3550407;3500600;2.707;Não;1.602;0,87;Sim;Não;1;-;0
+São Pedro/SP;São Pedro;3550407;3550407;31.662;Sim;1.602;0,07;Sim;Não;1;-;0
+São Roque - Mairinque/SP;Mairinque;3550605;3528403;43.223;Sim;3.746;0,13;Sim;Não;1;-;0
+São Roque - Mairinque/SP;São Roque;3550605;3550605;78.821;Sim;3.746;0,07;Sim;Não;1;-;0
+São Sebastião da Amoreira/PR;Nova América da Colina;4126009;4116604;3.478;Não;618;0,25;Não;Não;1;-;0
+São Sebastião da Amoreira/PR;São Sebastião da Amoreira;4126009;4126009;8.626;Sim;618;0,10;Não;Não;1;-;0
+Sapiranga/RS;Araricá;4319901;4300877;4.864;Não;1.038;0,28;Sim;Sim;1;-;0
+Sapiranga/RS;Nova Hartz;4319901;4313060;18.346;Não;884;0,06;Sim;Sim;2;Via Araricá (RS);0
+Sapiranga/RS;Sapiranga;4319901;4319901;74.985;Sim;1.166;0,02;Sim;Não;1;-;0
+Serranos - Seritinga/MG;Seritinga;3167004;3166402;1.789;Não;65;0,05;Sim;Não;1;-;0
+Serranos - Seritinga/MG;Serranos;3167004;3167004;1.995;Sim;65;0,05;Sim;Não;1;-;0
+Sete Lagoas/MG;Inhaúma;3167202;3131000;5.76;Não;739;0,18;Não;Não;1;-;0
+Sete Lagoas/MG;Prudente de Morais;3167202;3153608;9.573;Não;1.743;0,27;Sim;Não;1;-;0
+Sete Lagoas/MG;Sete Lagoas;3167202;3167202;214.152;Sim;2.47;0,02;Sim;Não;1;-;0
+Sobral/CE;Forquilha;2312908;2304350;21.786;Não;2.592;0,17;Não;Não;1;-;0
+Sobral/CE;Sobral;2312908;2312908;188.233;Sim;2.592;0,02;Não;Não;1;-;0
+Solânea - Bananeiras/PB;Bananeiras;2516003;2501500;21.851;Sim;1.089;0,08;Sim;Não;1;-;0
+Solânea - Bananeiras/PB;Solânea;2516003;2516003;26.693;Sim;1.089;0,07;Sim;Não;1;-;0
+Sombrio/SC;Balneário Gaivota;4217709;4202073;8.234;Não;1.242;0,22;Sim;Sim;1;-;0
+Sombrio/SC;Sombrio;4217709;4217709;26.613;Sim;1.242;0,06;Sim;Não;1;-;0
+Sorocaba/SP;Alumínio;3552205;3501152;16.839;Não;2.832;0,24;Sim;Não;1;-;0
+Sorocaba/SP;Araçoiaba da Serra;3552205;3502903;27.299;Não;4.639;0,24;Sim;Não;1;-;0
+Sorocaba/SP;Salto de Pirapora;3552205;3545308;40.132;Não;6.516;0,24;Não;Não;1;-;0
+Sorocaba/SP;Sorocaba;3552205;3552205;586.625;Sim;38.271;0,09;Sim;Não;1;-;0
+Sorocaba/SP;Votorantim;3552205;3557006;108.809;Não;27.9;0,37;Sim;Não;1;-;0
+Soure - Salvaterra/PA;Salvaterra;1507904;1506302;20.183;Sim;348;0,03;Não;Não;1;-;0
+Soure - Salvaterra/PA;Soure;1507904;1507904;23.001;Sim;348;0,02;Não;Não;1;-;0
+Taquara - Parobé - Igrejinha/RS;Igrejinha;4321204;4310108;31.66;Sim;5.855;0,23;Sim;Não;1;-;0
+Taquara - Parobé - Igrejinha/RS;Parobé;4321204;4314050;51.502;Sim;5.982;0,15;Sim;Não;1;-;0
+Taquara - Parobé - Igrejinha/RS;Taquara;4321204;4321204;54.643;Sim;7.51;0,19;Sim;Não;1;-;0
+Taquara - Parobé - Igrejinha/RS;Três Coroas;4321204;4321709;23.848;Não;2.845;0,15;Sim;Não;1;-;0
+Taquaruçu do Sul - Vista Alegre/RS;Taquaruçu do Sul;4321329;4321329;2.966;Sim;34;0,01;Sim;Não;1;-;0
+Taquaruçu do Sul - Vista Alegre/RS;Vista Alegre;4321329;4323507;2.832;Sim;34;0,02;Sim;Não;1;-;0
+Taubaté - Pindamonhangaba/SP;Pindamonhangaba;3554102;3538006;146.995;Não;10.625;0,10;Sim;Não;1;-;0
+Taubaté - Pindamonhangaba/SP;Redenção da Serra;3554102;3542305;3.873;Não;491;0,23;Não;Não;1;-;0
+Taubaté - Pindamonhangaba/SP;Taubaté;3554102;3554102;278.686;Sim;19.6;0,10;Sim;Não;1;-;0
+Taubaté - Pindamonhangaba/SP;Tremembé;3554102;3554805;40.984;Não;10.924;0,41;Sim;Não;1;-;0
+Teresina/PI;Teresina;2211001;2211001;814.23;Sim;24.46;0,04;Sim;Não;1;-;0
+Teresina/PI;Timon;2211001;2112209;155.46;Não;24.46;0,22;Sim;Não;1;-;0
+Teutônia/RS;Paverama;4321451;4314159;8.044;Não;1.207;0,19;Não;Não;1;-;0
+Teutônia/RS;Teutônia;4321451;4321451;27.272;Sim;1.702;0,07;Não;Não;1;-;0
+Teutônia/RS;Westfalia;4321451;4323770;2.793;Não;507;0,21;Não;Sim;1;-;0
+Tocantinópolis/TO - Porto Franco/MA;Porto Franco;1721208;2109007;21.53;Sim;186;0,01;Sim;Não;1;-;0
+Tocantinópolis/TO - Porto Franco/MA;Tocantinópolis;1721208;1721208;22.619;Sim;186;0,01;Sim;Não;1;-;0
+Toledo/PR;Ouro Verde do Oeste;4127700;4117453;5.692;Não;925;0,23;Não;Sim;1;-;0
+Toledo/PR;Toledo;4127700;4127700;119.313;Sim;925;0,01;Não;Não;1;-;0
+Torixoréu/MT - Baliza/GO;Baliza;5108204;5203104;3.714;Não;120;0,05;Sim;Não;1;-;0
+Torixoréu/MT - Baliza/GO;Torixoréu;5108204;5108204;4.071;Sim;120;0,05;Sim;Não;1;-;0
+Torres/RS;Passo de Torres;4321501;4212254;6.627;Não;1.517;0,32;Sim;Não;1;-;0
+Torres/RS;Torres;4321501;4321501;34.656;Sim;1.517;0,06;Sim;Não;1;-;0
+Tramandaí - Osório/RS;Imbé;4321600;4310330;17.67;Não;2.613;0,23;Sim;Sim;1;-;0
+Tramandaí - Osório/RS;Osório;4321600;4313508;40.906;Sim;2.09;0,07;Sim;Não;1;-;0
+Tramandaí - Osório/RS;Tramandaí;4321600;4321600;41.585;Sim;3.701;0,14;Sim;Não;1;-;0
+Três Rios - Paraíba do Sul/RJ;Chiador;3306008;3116209;2.785;Não;342;0,18;Não;Não;1;-;1
+Três Rios - Paraíba do Sul/RJ;Comendador Levy Gasparian;3306008;3300951;8.18;Não;1.73;0,30;Não;Sim;1;-;0
+Três Rios - Paraíba do Sul/RJ;Paraíba do Sul;3306008;3303708;41.084;Sim;2.559;0,09;Sim;Não;1;-;0
+Três Rios - Paraíba do Sul/RJ;Santana do Deserto;3306008;3158607;3.86;Não;630;0,27;Não;Não;2;Via Comendador Levy Gasparian (RJ);0
+Três Rios - Paraíba do Sul/RJ;Três Rios;3306008;3306008;77.432;Sim;4.137;0,08;Não;Não;1;-;0
+Tubarão - Laguna/SC;Capivari de Baixo;4218707;4203956;21.674;Não;7.702;0,49;Sim;Sim;1;-;0
+Tubarão - Laguna/SC;Gravatal;4218707;4206207;10.635;Não;1.569;0,20;Sim;Não;1;-;0
+Tubarão - Laguna/SC;Laguna;4218707;4209409;51.562;Sim;4.464;0,13;Sim;Não;1;-;0
+Tubarão - Laguna/SC;Tubarão;4218707;4218707;97.235;Sim;10.345;0,14;Sim;Não;1;-;0
+Tupã/SP;Arco-Íris;3555000;3503356;1.925;Não;257;0,20;Não;Sim;1;-;0
+Tupã/SP;Queiroz;3555000;3541802;2.808;Não;448;0,25;Não;Não;1;-;0
+Tupã/SP;Tupã;3555000;3555000;63.476;Sim;695;0,02;Não;Não;1;-;0
+Tupi Paulista/SP;Nova Guataporanga;3555109;3533106;2.177;Não;303;0,21;Não;Não;1;-;0
+Tupi Paulista/SP;Tupi Paulista;3555109;3555109;14.269;Sim;303;0,03;Não;Não;1;-;0
+Ubá/MG;Rodeiro;3169901;3156304;6.867;Não;916;0,19;Não;Não;1;-;0
+Ubá/MG;Ubá;3169901;3169901;101.519;Sim;916;0,01;Não;Não;1;-;0
+Ubaitaba - Aurelino Leal/BA;Aurelino Leal;2932200;2902401;13.595;Sim;914;0,10;Sim;Não;1;-;0
+Ubaitaba - Aurelino Leal/BA;Ubaitaba;2932200;2932200;20.691;Sim;914;0,07;Sim;Não;1;-;0
+Umuarama/PR;Maria Helena;4128104;4114708;5.956;Não;743;0,17;Não;Não;1;-;0
+Umuarama/PR;Umuarama;4128104;4128104;100.676;Sim;743;0,01;Não;Não;1;-;0
+União da Vitória/PR - Porto União/SC;Porto União;4128203;4213609;33.493;Sim;9.194;0,37;Sim;Não;1;-;0
+União da Vitória/PR - Porto União/SC;União da Vitória;4128203;4128203;52.735;Sim;9.194;0,24;Sim;Não;1;-;0
+Uruçuí/PI;Benedito Leite;2211209;2101806;5.469;Não;399;0,11;Sim;Não;1;-;0
+Uruçuí/PI;Uruçuí;2211209;2211209;20.149;Sim;399;0,03;Sim;Não;1;-;0
+Valença/RJ;Rio Preto;3306107;3155900;5.292;Não;709;0,21;Não;Não;1;-;0
+Valença/RJ;Valença;3306107;3306107;71.843;Sim;709;0,01;Não;Não;1;-;0
+Valparaíso/SP;Bento de Abreu;3556305;3506201;2.674;Não;525;0,29;Não;Não;1;-;0
+Valparaíso/SP;Valparaíso;3556305;3556305;22.576;Sim;525;0,04;Não;Não;1;-;0
+Venâncio Aires/RS;Mato Leitão;4322608;4312153;3.865;Não;779;0,25;Não;Sim;1;-;0
+Venâncio Aires/RS;Venâncio Aires;4322608;4322608;65.946;Sim;779;0,02;Não;Não;1;-;0
+Vera Cruz - Itaparica/BA;Itaparica;2933208;2916104;20.725;Sim;952;0,07;Sim;Não;1;-;0
+Vera Cruz - Itaparica/BA;Vera Cruz;2933208;2933208;37.567;Sim;952;0,04;Sim;Não;1;-;0
+Veranópolis/RS;Veranópolis;4322806;4322806;22.81;Sim;436;0,02;Não;Não;1;-;0
+Veranópolis/RS;Vila Flores;4322806;4323309;3.207;Não;436;0,19;Não;Sim;1;-;0
+Viçosa/MG;Cajuri;3171303;3110202;4.047;Não;452;0,17;Não;Não;1;-;0
+Viçosa/MG;Viçosa;3171303;3171303;72.22;Sim;452;0,01;Não;Não;1;-;0
+Vitória/ES;Cariacica;3205309;3201308;348.738;Sim;93.737;0,39;Sim;Não;1;-;0
+Vitória/ES;Fundão;3205309;3202207;17.025;Não;2.763;0,23;Não;Não;1;-;1
+Vitória/ES;Serra;3205309;3205002;409.267;Sim;86.763;0,30;Sim;Não;1;-;0
+Vitória/ES;Viana;3205309;3205101;65.001;Não;20.578;0,48;Sim;Não;1;-;0
+Vitória/ES;Vila Velha;3205309;3205200;414.586;Sim;94.509;0,32;Sim;Não;1;-;0
+Vitória/ES;Vitória;3205309;3205309;327.801;Sim;162.936;0,66;Sim;Não;1;-;0
+Volta Redonda - Barra Mansa/RJ;Barra Mansa;3306305;3300407;177.813;Sim;20.812;0,17;Sim;Não;1;-;0
+Volta Redonda - Barra Mansa/RJ;Pinheiral;3306305;3303955;22.719;Não;3.787;0,27;Sim;Não;1;-;0
+Volta Redonda - Barra Mansa/RJ;Volta Redonda;3306305;3306305;257.803;Sim;24.057;0,14;Sim;Não;1;-;0
+Votuporanga/SP;Álvares Florence;3557105;3501202;3.897;Não;609;0,25;Não;Não;1;-;0
+Votuporanga/SP;Parisi;3557105;3536257;2.032;Não;464;0,32;Não;Sim;1;-;0
+Votuporanga/SP;Sebastianópolis do Sul;3557105;3551306;3.031;Não;797;0,38;Não;Não;1;-;0
+Votuporanga/SP;Votuporanga;3557105;3557105;84.692;Sim;1.766;0,03;Não;Não;1;-;0
