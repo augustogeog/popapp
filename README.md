@@ -8,7 +8,7 @@ A Web App that presents a dashaboard with indicators, plots and cartographic rep
 
 ## Repo Structure
 
-* **Notebooks** (notebooks used to collect and treat data, besides testing the functions used in the webapp)
+* **Notebooks**
     * census_microdata.ipynb (scripts to collect census microdata and save treated files related to commuting)
     * commuting_kepler.ipynb (generation of the kepler.gl object for rendering commuting maps)
     * geodata.ipynb (scripts to collect and treat shapefiles of Brazilian municipalities, besides development of functions used in the app_functions)
