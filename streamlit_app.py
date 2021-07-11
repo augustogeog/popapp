@@ -60,6 +60,7 @@ else:
 #endregion FIRST ROW
 
 
+#region SECOND ROW
 df_estrutura_etaria_f, df_estrutura_etaria_m = app.load_age_groups()
 fig_age_groups, year = app.plot_pop_pyramid(df_estrutura_etaria_f=df_estrutura_etaria_f, df_estrutura_etaria_m=df_estrutura_etaria_m, cod_municipio=cod_municipio, year=2010)
 
@@ -69,106 +70,19 @@ c1.plotly_chart(fig_age_groups, use_container_width=True)
 gdf1 = app.load_sector_geodataframe(uf=uf, cod_municipio=cod_municipio)
 fig_map1 = app.plot_density_map(gdf=gdf1)
 c2.plotly_chart(fig_map1, use_container_width=True)
-
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
-def plot_arranjo(cod_municipio):
-    df = pd.read_csv('data/pop/arranjos populacionais/tab01.csv', sep=';', decimal=',', thousands='.')
-    cod_arranjo = str(df[df['Código do município'] == cod_municipio]['CodArranjo'].values[0])
-    
-    gdf = gpd.read_file(f'data/territorio/municipalities/arranjos_pop/{cod_arranjo}/arranjo_{cod_arranjo}_municipalities.zip/')
-
-    lon = gdf.dissolve(by='CodArranjo').centroid.x[0]
-    lat = gdf.dissolve(by='CodArranjo').centroid.y[0]
-
-    minx, miny, maxx, maxy = gdf.total_bounds
-    max_bound = max(abs(maxx-minx), abs(maxy-miny)) * 111
-    zoom = 12.7 - np.log(max_bound)
-
-    fig_map = px.choropleth_mapbox(
-        data_frame=gdf
-        , geojson=gdf.geometry
-    #    , featureidkey=gdf.index
-        , locations=gdf.index
-        , hover_name='NomMunic'
-        , hover_data=['CodMunic']
-        , zoom=zoom
-        ,center={"lat": lat, "lon": lon}
-        , mapbox_style="carto-positron"
-        , title=f'<b>Arranjo Populacional de {gdf.NomeArranj[0]}<b>'
-        , template=None
-        , width=None
-        , height=400
-        , opacity=0.3
-        )
-
-    fig_map.update_layout(margin=dict(l=0, r=0, b=40, t=40))
-    fig_map.layout.title.font.size = 18
-    fig_map.update_traces(marker_line_width=0.1)
-    fig_map.update_layout(showlegend=False)
-
-    return fig_map
-
-def plot_commuting(cod_municipio):
-    df = pd.read_csv('data/pop/arranjos populacionais/tab01.csv', sep=';', decimal=',', thousands='.')
-    cod_arranjo = str(df[df['Código do município'] == cod_municipio]['CodArranjo'].values[0])
-    arranjo = str(df[df['Código do município'] == cod_municipio]['Arranjo'].values[0])
-    df_commuting = pd.read_csv('data/pop/commuting/commuting.csv')
-    df_commuting = df_commuting[df_commuting['Arranjo'] == arranjo]
-    
-    gdf = gpd.read_file(f'data/territorio/municipalities/arranjos_pop/{cod_arranjo}/arranjo_{cod_arranjo}_municipalities.zip/')
-
-    lon = gdf.dissolve(by='CodArranjo').centroid.x[0]
-    lat = gdf.dissolve(by='CodArranjo').centroid.y[0]
-
-    minx, miny, maxx, maxy = gdf.total_bounds
-    max_bound = max(abs(maxx-minx), abs(maxy-miny)) * 111
-    zoom = 13.8 - np.log(max_bound)
-    
-    with open("data/pop/commuting/config.pkl", "rb") as a_file:
-        dict_config = pickle.load(a_file)
-    dict_config['config']['mapState'] = {'bearing': 0, 'dragRotate': True, 'pitch': 45, 'latitude':lat, 'longitude':lon, 'zoom':zoom}
-
-    
-    kepler_map =  kepler_map = KeplerGl(height=400)
-    kepler_map.add_data(data=df_commuting, name='Commuting')
-    kepler_map.add_data(data=gdf, name='Municipios_Arranjo')
-    
-    kepler_map.config = dict_config
+#endregion SECOND ROW
 
 
-    return kepler_map
-
+#region COMMUTING DATA
 import streamlit.components.v1 as components
 df = pd.read_csv('data/pop/arranjos populacionais/tab01.csv', sep=';', decimal=',', thousands='.')
 if cod_municipio in df['Código do município'].unique():
-    fig_arranjo = plot_arranjo(cod_municipio=cod_municipio)
+    fig_arranjo = app.plot_arranjo(cod_municipio=cod_municipio)
     st.plotly_chart(fig_arranjo, use_container_width=True)
 
 
     st.markdown(f"<p style='text-align: left; color: black; font-size:18px'><b>Mobilidade Pendular<b></p>", unsafe_allow_html=True)
-    kepler_map = plot_commuting(cod_municipio=cod_municipio)
-    #k = keplergl_static(kepler_map, width=1380)
+    kepler_map = app.plot_commuting(cod_municipio=cod_municipio)
     htm = kepler_map._repr_html_()
     components.html(htm, height=400)
-
-
-
-
-#if cod_municipio == 4115200:
-#
-#    st.markdown(f"<p style='text-align: left; color: black; font-size:18px'><b>Mobilidade Pendular<b></p>", unsafe_allow_html=True)#
-
-#    df_maringa = pd.read_csv('data/pop/commuting/coordenadas_aglomerado_maringa.csv', sep=';', thousands='.', decimal=',')
-#    df_maringa = df_maringa[df_maringa['Arranjo'] == True]
-#    gdf = gpd.read_file(f'data/territorio/municipalities/arranjos_pop/4115200/arranjo_4115200_municipalities.zip/')#
-#
-#    kepler_map = KeplerGl(height=400)
-#    kepler_map.add_data(data=df_maringa, name='Commuting_Maringa')
-#    kepler_map.add_data(data=gdf, name='Municipios_Arranjo')
-#    with open("data.pkl", "rb") as a_file:
-#        dict_config = pickle.load(a_file)
-#    kepler_map.config = dict_config
-#    keplergl_static(kepler_map, width=1400)
-
-
-
+#endregion COMMUTING DATA
