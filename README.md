@@ -1,11 +1,11 @@
 # PopApp
-A [Web App](https://share.streamlit.io/augustogeog/popapp/main) that presents a dashaboard with indicators, plots and cartographic representations related to population of Brazilian municipalities.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/augustogeog/popapp/main)
+A Web App that presents a dashaboard with indicators, plots and cartographic representations related to population of Brazilian municipalities.
 
-
+![alt text](https://github.com/augustogeog/popapp/raw/main/data/gif/gif.gif "App")
 
 
 ## App Structure
 
 
 
-Notebooks can be accessed at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/augustogeog/python_demo/main) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/augustogeog/python_demo/blob/main/1_demo.ipynb).
