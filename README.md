@@ -6,7 +6,7 @@ A Web App that presents a dashaboard with indicators, plots and cartographic rep
 ![alt text](https://github.com/augustogeog/popapp/raw/main/data/gif/gif.gif "App")
 
 
-## App Structure
+## Repo Structure
 
 
 
