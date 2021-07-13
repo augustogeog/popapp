@@ -172,6 +172,7 @@ def get_urbanization_index(df, cod_municipio):
 
     return round(urbanization_index[0])
 
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def plot_urbanization_index(urb_indicator, height, font_size, color):
     indicator = go.Figure(go.Indicator(
         mode = "number"
@@ -193,7 +194,7 @@ def plot_urbanization_index(urb_indicator, height, font_size, color):
     return indicator
 
 
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+#@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_age_groups():
 
     dtypes = {
@@ -230,7 +231,7 @@ def load_age_groups():
     return df_estrutura_etaria_f, df_estrutura_etaria_m
 
 
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+#@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def plot_pop_pyramid(df_estrutura_etaria_f, df_estrutura_etaria_m, cod_municipio, year):
     df_estrutura_etaria_f = df_estrutura_etaria_f[df_estrutura_etaria_f['Código'] == cod_municipio]
     df_estrutura_etaria_m = df_estrutura_etaria_m[df_estrutura_etaria_m['Código'] == cod_municipio]
@@ -263,7 +264,7 @@ def plot_pop_pyramid(df_estrutura_etaria_f, df_estrutura_etaria_m, cod_municipio
 
 
 
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+#@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_geo_dataframe(cod_municipio=4125506):
     
     if str(cod_municipio)[:2] == '41':
@@ -276,7 +277,7 @@ def load_geo_dataframe(cod_municipio=4125506):
     if file != None:
         return gpd.read_feather(file)
 
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+#@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_df_territory():
     df_territory = pd.read_csv('data/territorio/municipios_brasileiros.csv', sep=';')
     return df_territory
@@ -291,18 +292,18 @@ def get_cod_municipio(df, uf, municipio):
     cod_municipio = df.loc[(df.uf == uf) & (df.municipio == municipio)]['cod'].values[0]
     return cod_municipio
 
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+#@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_plotly_map(file):
     return pio.read_json(file)
 
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+#@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def load_sector_geodataframe(uf,cod_municipio):
     cod_municipio = str(cod_municipio)
     gdf = gpd.read_file(f'data/territorio/setores2010/{uf}/{cod_municipio}/{cod_municipio}.shp')
     return gdf
 
 
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+#@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def plot_density_map(gdf):
 
 #    gdf.drop(labels=['CD_GEOCODM', 'NM_MUNICIP', 'CD_GEOCODB'], axis=1, inplace=True)
@@ -375,7 +376,7 @@ def plot_commuting(cod_municipio):
 
     return kepler_map
 
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+#@st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def plot_arranjo(cod_municipio):
     df = pd.read_csv('data/pop/arranjos populacionais/tab01.csv', sep=';', decimal=',', thousands='.')
     cod_arranjo = str(df[df['Código do município'] == cod_municipio]['CodArranjo'].values[0])
