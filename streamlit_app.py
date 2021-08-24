@@ -36,7 +36,7 @@ df_urbrur_growth = app.load_urbrur_data()
 fig_urbrur_growth, ano_min, ano_max = app.plot_urbrur_growth(df=df_urbrur_growth, cod_municipio=cod_municipio)
 
 
-col_a, col_b = st.beta_columns((1, 6))
+col_a, col_b = st.columns((1, 6))
 urb_indicator = app.get_urbanization_index(df=df_urbrur_growth, cod_municipio=cod_municipio)
 if 2000 not in df_urbrur_growth[df_urbrur_growth['Código'] == cod_municipio].Ano.unique():
     urb_index = app.plot_urbanization_index(urb_indicator=urb_indicator, height=184, font_size=50, color=px.colors.qualitative.Plotly[0])
@@ -64,7 +64,7 @@ else:
 df_estrutura_etaria_f, df_estrutura_etaria_m = app.load_age_groups()
 fig_age_groups, year = app.plot_pop_pyramid(df_estrutura_etaria_f=df_estrutura_etaria_f, df_estrutura_etaria_m=df_estrutura_etaria_m, cod_municipio=cod_municipio, year=2010)
 
-c1, c2 = st.beta_columns(2)
+c1, c2 = st.columns(2)
 c1.plotly_chart(fig_age_groups, use_container_width=True)
 
 gdf1 = app.load_sector_geodataframe(uf=uf, cod_municipio=cod_municipio)
